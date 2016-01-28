@@ -47,8 +47,6 @@ http://telvuehls_t01997-i.akamaihd.net/hls/live/218552/T01997-2/playlist.m3u8
 http://stream-live-edge-a01.crossroadscloud.com:8081/yestv-ont-multibit/yestv-ont-multibit/playlist.m3u8
 #EXTINF:0, 50 Bloomberg
 http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8
-#EXTINF:0, 51 Fox Business Network HD
-http://fbntvehd1-f.akamaihd.net/FBN_1_2000@37339?v=3.9.0&p=aasp-3.9.0.19.11&fp=MAC%2020,0,0,267&r=UQLMG&g=OIEUGJSFRMFT&primaryToken=st=1452556742~exp=1452860040~acl=/*~id=aaaabbbb744212575d85959674f9607ab26f67708a917157472832386337c904~hmac=a1ae4c236a37085fec9259f6ec9a09014b70c6aea428499935c00528ec26a9da
 #EXTINF:0, 60 ACC Network
 http://raycomhds-lh.akamaihd.net/i/hdslive_01@136338/index_3500_av-b.m3u8
 #EXTINF:0, 61 SEC on CBS
@@ -65,18 +63,36 @@ http://cbssports-linear.mdialog.com/video_assets/CBKLive1.m3u8?api_key=c154bed40
 http://cbslocalhls-i.akamaihd.net/hls/live/204776/WJFK-FM-IOS/wjfklive.m3u8
 #EXTINF:0, 67 105.7 The Fan
 http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8
+#EXTINF:0, 70 Fox News Live Event
+http://fnctvehd1-f.akamaihd.net/FNC_1_1000@37340?v=3.9.0&p=aasp-3.9.0.19.11&fp=MAC 20,0,0,286&r=QPUSQ&g=LWCNQBOOITEE&primaryToken=st=1453498468~exp=1454078468~acl=/*~id=aaaabbbb744212575d85959674f9607ab26f67708a917157472832386337c904~hmac=2d40d7172054c532cccd41d29ed7dca559bbd882ac14dfcdc89f2b00317764d0
+#EXTINF:0,901 ABC News HD
 http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-b.m3u8
+#EXTINF:0,902 CBSNHD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_4000_av-p.m3u8
+#EXTINF:0,903 Newsmax TV HD
 http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-b.m3u8
+#EXTINF:0,904 Shift by msnbc HD
 #EXTVLCOPT:network-caching=1000
 http://msnbc2prod-lh.akamaihd.net/i/msnbc2_live01@9615/index_2500_av-p.m3u8
+#EXTINF:0,906 RT News HD
 https://rt-a.akamaihd.net/ch_01@325605/720p.m3u8
+#EXTINF:0,907 RT USA HD
 https://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
+#EXTINF:0,908 CTV Digital News Channel 1 HD
 http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
 #EXTINF:0,909 NBC News HD
 http://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/index_2500_av-b.m3u8
+#EXTINF:0,910 TWiTHD
 http://64.185.191.180/cdn-live-s1/_definst_/twit/live/high/playlist.m3u8
+#EXTINF:0,911 TWiTHD alt
 http://209.131.99.99/twit/live/high
+#EXTINF:0,921 TBN HD
 http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_2528_av-b.m3u8
+#EXTINF:0,925 Daystar HD
 http://brightcove03-f.akamaihd.net/daystar_HD_720@112478
+#EXTINF:0,951 Fox Business Live Event HD
+http://fbntvehd1-f.akamaihd.net/FBN_1_2000@37339?v=3.9.0&p=aasp-3.9.0.19.11&fp=MAC%2020,0,0,267&r=UQLMG&g=OIEUGJSFRMFT&primaryToken=st=1452556742~exp=1452860040~acl=/*~id=aaaabbbb744212575d85959674f9607ab26f67708a917157472832386337c904~hmac=a1ae4c236a37085fec9259f6ec9a09014b70c6aea428499935c00528ec26a9da
+#EXTINF:0,964 CBS College Basketball HD
 http://cbssports-origin.mdialog.com/cbssports/live/4fdd561d-ff33-4558-9cba-f53b9aa95d65/ssb/200603-b_cbklive1_cbklive1-3000-1.m3u8
+#EXTINF:0,970 Fox News Live Event HD
+http://fnctvehd1-f.akamaihd.net/FNC_1_2000@37340?v=3.9.0&p=aasp-3.9.0.19.11&fp=MAC 20,0,0,286&r=QPUSQ&g=LWCNQBOOITEE&primaryToken=st=1453498468~exp=1454078468~acl=/*~id=aaaabbbb744212575d85959674f9607ab26f67708a917157472832386337c904~hmac=2d40d7172054c532cccd41d29ed7dca559bbd882ac14dfcdc89f2b00317764d0
