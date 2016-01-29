@@ -9,10 +9,10 @@ http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_1728_av-p.m3u8
 http://msnbc2prod-lh.akamaihd.net/i/msnbc2_live01@9615/index_1200_av-b.m3u8
 #EXTINF:0, 5 France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_1200.m3u8
-#EXTINF:0, 6 RT English
+#EXTINF:0, 6 RT News
 https://rt-a.akamaihd.net/ch_01@325605/480p.m3u8
-#EXTINF:0, 7 RT News
-https://rt-a.akamaihd.net/ch_04@325608/480p.m3u8
+#EXTINF:0, 7 CBN News
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-b.m3u8
 #EXTINF:0, 8 CTV News
 http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News15.m3u8
 #EXTINF:0, 9 NBC News
@@ -76,8 +76,6 @@ http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-b.m3u8
 http://msnbc2prod-lh.akamaihd.net/i/msnbc2_live01@9615/index_2500_av-p.m3u8
 #EXTINF:0,906 RT News HD
 https://rt-a.akamaihd.net/ch_01@325605/720p.m3u8
-#EXTINF:0,907 RT USA HD
-https://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
 #EXTINF:0,908 CTV Digital News Channel 1 HD
 http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
 #EXTINF:0,909 NBC News HD
