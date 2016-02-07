@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0, 1 ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+http://abclive.abcnews.com/i/abc_live1@136327/index_1200_av-b.m3u8
 #EXTINF:0, 2 CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 #EXTINF:0, 3 Newsmax TV
@@ -66,7 +66,7 @@ http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8
 #EXTINF:0, 70 Fox News Live Event
 http://fnctvehd1-f.akamaihd.net/FNC_1_1000@37340?v=3.9.0&p=aasp-3.9.0.19.11&fp=MAC 20,0,0,286&r=QPUSQ&g=LWCNQBOOITEE&primaryToken=st=1453498468~exp=1454078468~acl=/*~id=aaaabbbb744212575d85959674f9607ab26f67708a917157472832386337c904~hmac=2d40d7172054c532cccd41d29ed7dca559bbd882ac14dfcdc89f2b00317764d0
 #EXTINF:0,901 ABC News HD
-http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-b.m3u8
+http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-b.m3u8
 #EXTINF:0,902 CBSNHD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_4000_av-p.m3u8
 #EXTINF:0,903 Newsmax TV HD
