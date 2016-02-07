@@ -1,12 +1,24 @@
 #EXTM3U
-#EXTINF:0, 1 ABC News
+#EXTINF:0, 1-1 ABC News Digital 1
 http://abclive.abcnews.com/i/abc_live1@136327/index_1200_av-b.m3u8
+#EXTINF:0, 1-2 ABC News Digital 2
+http://abclive.abcnews.com/i/abc_live2@136328/index_1200_av-b.m3u8
+#EXTINF:0, 1-3 ABC News Digital 3
+http://abclive.abcnews.com/i/abc_live3@136329/index_1200_av-b.m3u8
+#EXTINF:0, 1-4 ABC News Digital 4
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:0, 1-5 ABC News Digital 5
+http://abclive.abcnews.com/i/abc_live5@136331/index_1200_av-b.m3u8
 #EXTINF:0, 2 CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 #EXTINF:0, 3 Newsmax TV
 http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_1728_av-p.m3u8
-#EXTINF:0, 4 Shift by msnbc
+#EXTINF:0, 4-1 Shift by msnbc
 http://msnbc2prod-lh.akamaihd.net/i/msnbc2_live01@9615/index_1200_av-b.m3u8
+#EXTINF:0, 4-2 msnbc Live Event
+http://msnbclive-lh.akamaihd.net/i/msnbc_live11@183423/index_1200_av-b.m3u8
+#EXTINF:0, 4-3 NBC News Live Event
+http://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/index_1200_av-b.m3u8
 #EXTINF:0, 5 France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_1200.m3u8
 #EXTINF:0, 6 RT News
@@ -67,13 +79,25 @@ http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8
 http://fnctvehd1-f.akamaihd.net/FNC_1_1000@37340?v=3.9.0&p=aasp-3.9.0.19.11&fp=MAC 20,0,0,286&r=QPUSQ&g=LWCNQBOOITEE&primaryToken=st=1453498468~exp=1454078468~acl=/*~id=aaaabbbb744212575d85959674f9607ab26f67708a917157472832386337c904~hmac=2d40d7172054c532cccd41d29ed7dca559bbd882ac14dfcdc89f2b00317764d0
 #EXTINF:0,901 ABC News HD
 http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-b.m3u8
+#EXTINF:0,901-2 ABC News Digital 2
+http://abclive.abcnews.com/i/abc_live2@136328/index_2500_av-b.m3u8
+#EXTINF:0,901-3 ABC News Digital 3
+http://abclive.abcnews.com/i/abc_live3@136329/index_2500_av-b.m3u8
+#EXTINF:0,901-4 ABC News Digital 4
+http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-b.m3u8
+#EXTINF:0,901-5 ABC News Digital 5
+http://abclive.abcnews.com/i/abc_live5@136331/index_2500_av-b.m3u8
 #EXTINF:0,902 CBSNHD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_4000_av-p.m3u8
 #EXTINF:0,903 Newsmax TV HD
 http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-b.m3u8
-#EXTINF:0,904 Shift by msnbc HD
+#EXTINF:0,904-1 Shift by msnbc HD
 #EXTVLCOPT:network-caching=1000
 http://msnbc2prod-lh.akamaihd.net/i/msnbc2_live01@9615/index_2500_av-p.m3u8
+#EXTINF:0,904-2 msnbc Live Event
+http://msnbclive-lh.akamaihd.net/i/msnbc_live11@183423/index_2500_av-p.m3u8
+#EXTINF:0,904-3 NBC News Live Event
+http://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/index_2500_av-b.m3u8
 #EXTINF:0,906 RT News HD
 https://rt-a.akamaihd.net/ch_01@325605/720p.m3u8
 #EXTINF:0,908 CTV Digital News Channel 1 HD
