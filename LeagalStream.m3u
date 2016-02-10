@@ -25,8 +25,24 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_1200.m3u8
 https://rt-a.akamaihd.net/ch_01@325605/480p.m3u8
 #EXTINF:0, 7 CBN News
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-b.m3u8
-#EXTINF:0, 8 Fox News Talk
+#EXTINF:0, 8-1 Fox News Talk
 http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/index_1000_av-p.m3u8
+#EXTINF:0, 8-2 Fox News Live Event 2
+http://fnctvehd1-f.akamaihd.net/FNC_1_600@37340?v=3.9.0&p=aasp-3.9.0.19.11&fp=MAC 20,0,0,286&r=QPUSQ&g=LWCNQBOOITEE&primaryToken=st=1453498468~exp=1454078468~acl=/*~id=aaaabbbb744212575d85959674f9607ab26f67708a917157472832386337c904~hmac=2d40d7172054c532cccd41d29ed7dca559bbd882ac14dfcdc89f2b00317764d0
+#EXTINF:0, 8-3 Fox News Live Event 3
+http://fnurtmp-f.akamaihd.net/i/02LIVE_1@81834/index_1500_av-p.m3u8
+#EXTINF:0, 8-4 Fox News Live Event 4
+http://fnurtmp-f.akamaihd.net/i/03LIVE_1@81835/index_1500_av-p.m3u8
+#EXTINF:0, 8-5 Fox News Live Event 5
+http://fnurtmp-f.akamaihd.net/i/04LIVE_1@81836/index_1500_av-p.m3u8
+#EXTINF:0, 8-6 Fox News Live Event 5
+http://fnurtmp-f.akamaihd.net/i/05LIVE_1@81837/index_1500_av-p.m3u8
+#EXTINF:0, 8-7 Fox News Live Event 6
+http://fnurtmp-f.akamaihd.net/i/06LIVE_1@81838/index_1500_av-p.m3u8
+#EXTINF:0, 8-8 Fox News Live Event 7
+http://fnurtmp-f.akamaihd.net/i/07LIVE_1@199242/index_1500_av-p.m3u8
+#EXTINF:0, 8-9 Fox News Live Event 8
+http://fnurtmp-f.akamaihd.net/i/08LIVE_1@199243/index_1500_av-p.m3u8
 #EXTINF:0, 10 TWiT
 http://64.185.191.180/cdn-live-s1/_definst_/twit/live/low/playlist.m3u8
 #EXTINF:0, 11 TWiT alt
@@ -75,15 +91,15 @@ http://cbslocalhls-i.akamaihd.net/hls/live/204776/WJFK-FM-IOS/wjfklive.m3u8
 http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8
 #EXTINF:0, 70 Fox News Live Event
 http://fnctvehd1-f.akamaihd.net/FNC_1_1000@37340?v=3.9.0&p=aasp-3.9.0.19.11&fp=MAC 20,0,0,286&r=QPUSQ&g=LWCNQBOOITEE&primaryToken=st=1453498468~exp=1454078468~acl=/*~id=aaaabbbb744212575d85959674f9607ab26f67708a917157472832386337c904~hmac=2d40d7172054c532cccd41d29ed7dca559bbd882ac14dfcdc89f2b00317764d0
-#EXTINF:0,901 ABC News HD
+#EXTINF:0,901 ABC News Digital HD
 http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-b.m3u8
-#EXTINF:0,901-2 ABC News Digital 2
+#EXTINF:0,901-2 ABC News Digital HD 2
 http://abclive.abcnews.com/i/abc_live2@136328/index_2500_av-b.m3u8
-#EXTINF:0,901-3 ABC News Digital 3
+#EXTINF:0,901-3 ABC News Digital HD 3
 http://abclive.abcnews.com/i/abc_live3@136329/index_2500_av-b.m3u8
-#EXTINF:0,901-4 ABC News Digital 4
+#EXTINF:0,901-4 ABC News Digital HD 4
 http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-b.m3u8
-#EXTINF:0,901-5 ABC News Digital 5
+#EXTINF:0,901-5 ABC News Digital HD 5
 http://abclive.abcnews.com/i/abc_live5@136331/index_2500_av-b.m3u8
 #EXTINF:0,902 CBSNHD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_4000_av-p.m3u8
@@ -98,8 +114,6 @@ http://msnbclive-lh.akamaihd.net/i/msnbc_live11@183423/index_2500_av-p.m3u8
 http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/index_2500_av-b.m3u8
 #EXTINF:0,906 RT News HD
 https://rt-a.akamaihd.net/ch_01@325605/720p.m3u8
-#EXTINF:0,908 CTV Digital News Channel 1 HD
-http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
 #EXTINF:0,910 TWiTHD
 http://64.185.191.180/cdn-live-s1/_definst_/twit/live/high/playlist.m3u8
 #EXTINF:0,911 TWiTHD alt
