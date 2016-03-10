@@ -91,6 +91,8 @@ http://cbssports-linear.mdialog.com/video_assets/CBKLive1.m3u8?api_key=c154bed40
 http://cbslocalhls-i.akamaihd.net/hls/live/204776/WJFK-FM-IOS/wjfklive.m3u8
 #EXTINF:0, 67 105.7 The Fan
 http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8
+#EXTINF:0, 68 ESPN3
+https://raw.githubusercontent.com/notanewbie/ESPN3-M3U/master/espn3.m3u
 #EXTINF:0, 70 Fox News Live Event
 http://fnctvehd1-f.akamaihd.net/FNC_1_1000@37340?v=3.9.0&p=aasp-3.9.0.19.11&fp=MAC 20,0,0,286&r=QPUSQ&g=LWCNQBOOITEE&primaryToken=st=1453498468~exp=1454078468~acl=/*~id=aaaabbbb744212575d85959674f9607ab26f67708a917157472832386337c904~hmac=2d40d7172054c532cccd41d29ed7dca559bbd882ac14dfcdc89f2b00317764d0
 #EXTINF:0,901 ABC News Digital HD
