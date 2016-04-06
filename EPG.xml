@@ -4,8 +4,8 @@
 <display-name lang="ru">France 24</display-name>
 <icon src="http://www.teleguide.info/img/channel/1.gif" />
 </channel>
-<programme start="20150404050000 +0300" stop="20170404090000 +0300" channel="1">
+<programme start="20160404050000 +0300" stop="20170404090000 +0300" channel="1">
 <title lang="en">The News (12+)</title>
-<category lang="ru">News</category>
+<category lang="en">News</category>
 </programme>
 </tv>
