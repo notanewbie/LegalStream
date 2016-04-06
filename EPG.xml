@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "http://www.teleguide.info/download/xmltv.dtd">
 <tv generator-info-name="TVH_W/0.751l" generator-info-url="http://www.teleguide.info/">
 <channel id="300093">
-<display-name lang="ru">Fraance 24</display-name>
+<display-name lang="ru">5 Fraance 24</display-name>
 </channel>
 <programme start="20160404050000 +0300" stop="20160404051000 +0300" channel="300093">
 <title lang="ru">Новости (12+)</title>
