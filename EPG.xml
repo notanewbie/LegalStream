@@ -1,15 +1,3398 @@
 <?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "http://www.teleguide.info/download/xmltv.dtd">
 <tv generator-info-name="TVH_W/0.751l" generator-info-url="http://www.teleguide.info/">
-<channel id="1">
-<display-name lang="ru">France 24</display-name>
-<icon src="http://www.teleguide.info/img/channel/1.gif" />
 </channel>
-<programme start="20160404050000 +0300" stop="20170404090000 +0300" channel="1">
-<title lang="en">The News (12+)</title>
-<category lang="en">News</category>
+<channel id="300093">
+<display-name lang="ru">France 24</display-name>
+</channel>
+<programme start="20160404050000 +0300" stop="20160404051000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
 </programme>
-<programme start="20170404050000 +0300" stop="20180404090000 +0300" channel="1">
-<title lang="en">The News (12+)</title>
-<category lang="en">News</category>
+<programme start="20160404051000 +0300" stop="20160404052800 +0300" channel="300093">
+<title lang="ru">Европа сейчас (12+)</title>
+<category lang="ru">Информационные</category>
 </programme>
-</tv>
+<programme start="20160404052800 +0300" stop="20160404053000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404053000 +0300" stop="20160404054000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404054000 +0300" stop="20160404055700 +0300" channel="300093">
+<title lang="ru">Европа сейчас (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404055700 +0300" stop="20160404060000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404060000 +0300" stop="20160404061000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404061000 +0300" stop="20160404062800 +0300" channel="300093">
+<title lang="ru">Вниз к Земле (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404062800 +0300" stop="20160404063000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404063000 +0300" stop="20160404064000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404064000 +0300" stop="20160404065200 +0300" channel="300093">
+<title lang="ru">Люди и прибыль (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404065200 +0300" stop="20160404065700 +0300" channel="300093">
+<title lang="ru">Эксперты (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404065700 +0300" stop="20160404070000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404070000 +0300" stop="20160404071500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404071500 +0300" stop="20160404071600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404071600 +0300" stop="20160404071900 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404071900 +0300" stop="20160404072300 +0300" channel="300093">
+<title lang="ru">Экстракт Мэг (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404072300 +0300" stop="20160404072800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160404072800 +0300" stop="20160404073000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404073000 +0300" stop="20160404074500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404074500 +0300" stop="20160404074600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404074600 +0300" stop="20160404075100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404075100 +0300" stop="20160404075800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160404075800 +0300" stop="20160404080000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404080000 +0300" stop="20160404081700 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404081700 +0300" stop="20160404081800 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404081800 +0300" stop="20160404082100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404082100 +0300" stop="20160404082800 +0300" channel="300093">
+<title lang="ru">Во французской прессе (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404082800 +0300" stop="20160404083000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404083000 +0300" stop="20160404084500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404084500 +0300" stop="20160404084600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404084600 +0300" stop="20160404085100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404085100 +0300" stop="20160404085800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160404085800 +0300" stop="20160404090000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404090000 +0300" stop="20160404091600 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404091600 +0300" stop="20160404091700 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404091700 +0300" stop="20160404092200 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404092200 +0300" stop="20160404092800 +0300" channel="300093">
+<title lang="ru">Экстракт Мэг (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404092800 +0300" stop="20160404093000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404093000 +0300" stop="20160404094400 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404094400 +0300" stop="20160404094500 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404094500 +0300" stop="20160404095500 +0300" channel="300093">
+<title lang="ru">Фокус + Спорт (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404095500 +0300" stop="20160404095800 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404095800 +0300" stop="20160404100000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404100000 +0300" stop="20160404101500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404101500 +0300" stop="20160404101600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404101600 +0300" stop="20160404102100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404102100 +0300" stop="20160404102800 +0300" channel="300093">
+<title lang="ru">В мировой прессе (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404102800 +0300" stop="20160404103000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404103000 +0300" stop="20160404104400 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404104400 +0300" stop="20160404104500 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404104500 +0300" stop="20160404105500 +0300" channel="300093">
+<title lang="ru">Фокус + Спорт (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404105500 +0300" stop="20160404105700 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404105700 +0300" stop="20160404110000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404110000 +0300" stop="20160404111500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404111500 +0300" stop="20160404112800 +0300" channel="300093">
+<title lang="ru">Люди и прибыль (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404112800 +0300" stop="20160404113000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404113000 +0300" stop="20160404114600 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404114600 +0300" stop="20160404115100 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160404115100 +0300" stop="20160404115700 +0300" channel="300093">
+<title lang="ru">Эксперты (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404115700 +0300" stop="20160404120000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404120000 +0300" stop="20160404121500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404121500 +0300" stop="20160404122800 +0300" channel="300093">
+<title lang="ru">Франция в фокусе (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404122800 +0300" stop="20160404123000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404123000 +0300" stop="20160404124500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404124500 +0300" stop="20160404125700 +0300" channel="300093">
+<title lang="ru">Техника 24 (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404125700 +0300" stop="20160404130000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404130000 +0300" stop="20160404131000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404131000 +0300" stop="20160404131600 +0300" channel="300093">
+<title lang="ru">Мода (12+)</title>
+<category lang="ru">Развлекательные</category>
+</programme>
+<programme start="20160404131600 +0300" stop="20160404132800 +0300" channel="300093">
+<title lang="ru">Бис! (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404132800 +0300" stop="20160404133000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404133000 +0300" stop="20160404134000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404134000 +0300" stop="20160404135700 +0300" channel="300093">
+<title lang="ru">Репортеры (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404135700 +0300" stop="20160404140000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404140000 +0300" stop="20160404141500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404141500 +0300" stop="20160404141600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404141600 +0300" stop="20160404142100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404142100 +0300" stop="20160404142800 +0300" channel="300093">
+<title lang="ru">В прессе (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404142800 +0300" stop="20160404143000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404143000 +0300" stop="20160404144500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404144500 +0300" stop="20160404144600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404144600 +0300" stop="20160404145100 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404145100 +0300" stop="20160404145800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160404145800 +0300" stop="20160404150000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404150000 +0300" stop="20160404151500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404151500 +0300" stop="20160404151600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404151600 +0300" stop="20160404152100 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404152100 +0300" stop="20160404152800 +0300" channel="300093">
+<title lang="ru">Культурные критики (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404152800 +0300" stop="20160404153000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404153000 +0300" stop="20160404154500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404154500 +0300" stop="20160404154600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404154600 +0300" stop="20160404155100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404155100 +0300" stop="20160404155700 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160404155700 +0300" stop="20160404160000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404160000 +0300" stop="20160404161000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404161000 +0300" stop="20160404162800 +0300" channel="300093">
+<title lang="ru">К вопросу о (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404162800 +0300" stop="20160404163000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404163000 +0300" stop="20160404164000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404164000 +0300" stop="20160404165200 +0300" channel="300093">
+<title lang="ru">51% (12+)</title>
+<category lang="ru">Познавательные</category>
+</programme>
+<programme start="20160404165200 +0300" stop="20160404165700 +0300" channel="300093">
+<title lang="ru">Ты рядом (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404165700 +0300" stop="20160404170000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404170000 +0300" stop="20160404171000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404171000 +0300" stop="20160404172800 +0300" channel="300093">
+<title lang="ru">Разговоры о Европе (12+)</title>
+<category lang="ru">Познавательные</category>
+</programme>
+<programme start="20160404172800 +0300" stop="20160404173000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404173000 +0300" stop="20160404174000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404174000 +0300" stop="20160404175700 +0300" channel="300093">
+<title lang="ru">Разговоры о Европе (12+)</title>
+<category lang="ru">Познавательные</category>
+</programme>
+<programme start="20160404175700 +0300" stop="20160404180000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404180000 +0300" stop="20160404181600 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404181600 +0300" stop="20160404182800 +0300" channel="300093">
+<title lang="ru">Бис! (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404182800 +0300" stop="20160404183000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404183000 +0300" stop="20160404184500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404184500 +0300" stop="20160404185700 +0300" channel="300093">
+<title lang="ru">Открытая Азия (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404185700 +0300" stop="20160404190000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404190000 +0300" stop="20160404191500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404191500 +0300" stop="20160404191600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404191600 +0300" stop="20160404192800 +0300" channel="300093">
+<title lang="ru">Топ-истории (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404192800 +0300" stop="20160404193000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404193000 +0300" stop="20160404194500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404194500 +0300" stop="20160404194600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404194600 +0300" stop="20160404195100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404195100 +0300" stop="20160404195700 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160404195700 +0300" stop="20160404200000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404200000 +0300" stop="20160404201000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404201000 +0300" stop="20160404203000 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404203000 +0300" stop="20160404203200 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404203200 +0300" stop="20160404205800 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404205800 +0300" stop="20160404210000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404210000 +0300" stop="20160404211500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404211500 +0300" stop="20160404211600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404211600 +0300" stop="20160404212100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404212100 +0300" stop="20160404212800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160404212800 +0300" stop="20160404213000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404213000 +0300" stop="20160404214500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404214500 +0300" stop="20160404214600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404214600 +0300" stop="20160404215100 +0300" channel="300093">
+<title lang="ru">Время СМИ (12+)</title>
+</programme>
+<programme start="20160404215100 +0300" stop="20160404215800 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404215800 +0300" stop="20160404220000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404220000 +0300" stop="20160404221700 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404221700 +0300" stop="20160404221800 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404221800 +0300" stop="20160404222800 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404222800 +0300" stop="20160404223000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404223000 +0300" stop="20160404224500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404224500 +0300" stop="20160404224600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404224600 +0300" stop="20160404225800 +0300" channel="300093">
+<title lang="ru">Взгляд на Африку (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404225800 +0300" stop="20160404230000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404230000 +0300" stop="20160404231500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404231500 +0300" stop="20160404231600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404231600 +0300" stop="20160404232100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404232100 +0300" stop="20160404232800 +0300" channel="300093">
+<title lang="ru">Время СМИ (12+)</title>
+</programme>
+<programme start="20160404232800 +0300" stop="20160404233000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404233000 +0300" stop="20160404234500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404234500 +0300" stop="20160404234600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404234600 +0300" stop="20160404235800 +0300" channel="300093">
+<title lang="ru">Взгляд на Африку (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160404235800 +0300" stop="20160405000000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405000000 +0300" stop="20160405001500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405001500 +0300" stop="20160405001600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405001600 +0300" stop="20160405002100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405002100 +0300" stop="20160405002800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160405002800 +0300" stop="20160405003000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405003000 +0300" stop="20160405004500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405004500 +0300" stop="20160405004600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405004600 +0300" stop="20160405005800 +0300" channel="300093">
+<title lang="ru">Бизнес + Обзор медиа (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405005800 +0300" stop="20160405010000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405010000 +0300" stop="20160405011100 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405011100 +0300" stop="20160405013000 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405013000 +0300" stop="20160405013200 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405013200 +0300" stop="20160405015700 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405015700 +0300" stop="20160405020000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405020000 +0300" stop="20160405021500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405021500 +0300" stop="20160405022000 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160405022000 +0300" stop="20160405022800 +0300" channel="300093">
+<title lang="ru">Мода (12+)</title>
+<category lang="ru">Развлекательные</category>
+</programme>
+<programme start="20160405022800 +0300" stop="20160405023000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405023000 +0300" stop="20160405024500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405024500 +0300" stop="20160405025700 +0300" channel="300093">
+<title lang="ru">Бис! (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405025700 +0300" stop="20160405030000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405030000 +0300" stop="20160405031500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405031500 +0300" stop="20160405032800 +0300" channel="300093">
+<title lang="ru">Открытая Азия (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405032800 +0300" stop="20160405033000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405033000 +0300" stop="20160405034500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405034500 +0300" stop="20160405035500 +0300" channel="300093">
+<title lang="ru">Взгляд на Африку (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405035500 +0300" stop="20160405035700 +0300" channel="300093">
+<title lang="ru">Репортаж (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405035700 +0300" stop="20160405040000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405040000 +0300" stop="20160405041100 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405041100 +0300" stop="20160405043000 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405043000 +0300" stop="20160405043200 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405043200 +0300" stop="20160405045700 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405045700 +0300" stop="20160405050000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405050000 +0300" stop="20160405051500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405051500 +0300" stop="20160405052800 +0300" channel="300093">
+<title lang="ru">51% (12+)</title>
+<category lang="ru">Познавательные</category>
+</programme>
+<programme start="20160405052800 +0300" stop="20160405053000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405053000 +0300" stop="20160405054500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405054500 +0300" stop="20160405055700 +0300" channel="300093">
+<title lang="ru">Люди и прибыль (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405055700 +0300" stop="20160405060000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405060000 +0300" stop="20160405061500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405061500 +0300" stop="20160405062500 +0300" channel="300093">
+<title lang="ru">Взгляд на Африку (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405062500 +0300" stop="20160405062800 +0300" channel="300093">
+<title lang="ru">Репортаж (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405062800 +0300" stop="20160405063000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405063000 +0300" stop="20160405064500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405064500 +0300" stop="20160405065700 +0300" channel="300093">
+<title lang="ru">Открытая Азия (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405065700 +0300" stop="20160405070000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405070000 +0300" stop="20160405071500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405071500 +0300" stop="20160405071600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405071600 +0300" stop="20160405071900 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405071900 +0300" stop="20160405072300 +0300" channel="300093">
+<title lang="ru">Экстракт Мэг (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405072300 +0300" stop="20160405072800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160405072800 +0300" stop="20160405073000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405073000 +0300" stop="20160405074500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405074500 +0300" stop="20160405074600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405074600 +0300" stop="20160405075100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405075100 +0300" stop="20160405075800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160405075800 +0300" stop="20160405080000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405080000 +0300" stop="20160405081700 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405081700 +0300" stop="20160405081800 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405081800 +0300" stop="20160405082100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405082100 +0300" stop="20160405082800 +0300" channel="300093">
+<title lang="ru">Во французской прессе (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405082800 +0300" stop="20160405083000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405083000 +0300" stop="20160405084500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405084500 +0300" stop="20160405084600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405084600 +0300" stop="20160405085100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405085100 +0300" stop="20160405085800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160405085800 +0300" stop="20160405090000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405090000 +0300" stop="20160405091600 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405091600 +0300" stop="20160405091700 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405091700 +0300" stop="20160405092200 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405092200 +0300" stop="20160405092800 +0300" channel="300093">
+<title lang="ru">Экстракт Мэг (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405092800 +0300" stop="20160405093000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405093000 +0300" stop="20160405094400 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405094400 +0300" stop="20160405094500 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405094500 +0300" stop="20160405095500 +0300" channel="300093">
+<title lang="ru">Фокус + Спорт (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405095500 +0300" stop="20160405095800 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405095800 +0300" stop="20160405100000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405100000 +0300" stop="20160405101500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405101500 +0300" stop="20160405101600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405101600 +0300" stop="20160405102100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405102100 +0300" stop="20160405102800 +0300" channel="300093">
+<title lang="ru">В мировой прессе (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405102800 +0300" stop="20160405103000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405103000 +0300" stop="20160405104400 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405104400 +0300" stop="20160405104500 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405104500 +0300" stop="20160405105500 +0300" channel="300093">
+<title lang="ru">Фокус + Спорт (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405105500 +0300" stop="20160405105700 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405105700 +0300" stop="20160405110000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405110000 +0300" stop="20160405111600 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405111600 +0300" stop="20160405112800 +0300" channel="300093">
+<title lang="ru">51% (12+)</title>
+<category lang="ru">Познавательные</category>
+</programme>
+<programme start="20160405112800 +0300" stop="20160405113000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405113000 +0300" stop="20160405114600 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405114600 +0300" stop="20160405115100 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160405115100 +0300" stop="20160405115700 +0300" channel="300093">
+<title lang="ru">Мода (12+)</title>
+<category lang="ru">Развлекательные</category>
+</programme>
+<programme start="20160405115700 +0300" stop="20160405120000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405120000 +0300" stop="20160405121000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405121000 +0300" stop="20160405122800 +0300" channel="300093">
+<title lang="ru">Разговоры о Европе (12+)</title>
+<category lang="ru">Познавательные</category>
+</programme>
+<programme start="20160405122800 +0300" stop="20160405123000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405123000 +0300" stop="20160405124000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405124000 +0300" stop="20160405125700 +0300" channel="300093">
+<title lang="ru">Разговоры о Европе (12+)</title>
+<category lang="ru">Познавательные</category>
+</programme>
+<programme start="20160405125700 +0300" stop="20160405130000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405130000 +0300" stop="20160405131000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405131000 +0300" stop="20160405131600 +0300" channel="300093">
+<title lang="ru">Ты рядом (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405131600 +0300" stop="20160405132800 +0300" channel="300093">
+<title lang="ru">Бис! (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405132800 +0300" stop="20160405133000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405133000 +0300" stop="20160405134000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405134000 +0300" stop="20160405135700 +0300" channel="300093">
+<title lang="ru">К вопросу о (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405135700 +0300" stop="20160405140000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405140000 +0300" stop="20160405141500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405141500 +0300" stop="20160405141600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405141600 +0300" stop="20160405142100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405142100 +0300" stop="20160405142800 +0300" channel="300093">
+<title lang="ru">В прессе (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405142800 +0300" stop="20160405143000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405143000 +0300" stop="20160405144500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405144500 +0300" stop="20160405144600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405144600 +0300" stop="20160405145100 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405145100 +0300" stop="20160405145800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160405145800 +0300" stop="20160405150000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405150000 +0300" stop="20160405151500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405151500 +0300" stop="20160405151600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405151600 +0300" stop="20160405152100 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405152100 +0300" stop="20160405152800 +0300" channel="300093">
+<title lang="ru">Культурные критики (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405152800 +0300" stop="20160405153000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405153000 +0300" stop="20160405154500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405154500 +0300" stop="20160405154600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405154600 +0300" stop="20160405155100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405155100 +0300" stop="20160405155700 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160405155700 +0300" stop="20160405160000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405160000 +0300" stop="20160405161000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405161000 +0300" stop="20160405162800 +0300" channel="300093">
+<title lang="ru">Вниз к Земле (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405162800 +0300" stop="20160405163000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405163000 +0300" stop="20160405164000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405164000 +0300" stop="20160405165700 +0300" channel="300093">
+<title lang="ru">Репортеры (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405165700 +0300" stop="20160405170000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405170000 +0300" stop="20160405171500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405171500 +0300" stop="20160405172800 +0300" channel="300093">
+<title lang="ru">Открытая Азия (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405172800 +0300" stop="20160405173000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405173000 +0300" stop="20160405174500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405174500 +0300" stop="20160405175700 +0300" channel="300093">
+<title lang="ru">Очная ставка (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405175700 +0300" stop="20160405180000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405180000 +0300" stop="20160405181600 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405181600 +0300" stop="20160405182800 +0300" channel="300093">
+<title lang="ru">Бис! (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405182800 +0300" stop="20160405183000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405183000 +0300" stop="20160405184500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405184500 +0300" stop="20160405185700 +0300" channel="300093">
+<title lang="ru">Вопросы Ближнего Востока (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405185700 +0300" stop="20160405190000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405190000 +0300" stop="20160405191500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405191500 +0300" stop="20160405191600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405191600 +0300" stop="20160405192800 +0300" channel="300093">
+<title lang="ru">Топ-истории (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405192800 +0300" stop="20160405193000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405193000 +0300" stop="20160405194500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405194500 +0300" stop="20160405194600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405194600 +0300" stop="20160405195100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405195100 +0300" stop="20160405195700 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160405195700 +0300" stop="20160405200000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405200000 +0300" stop="20160405201000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405201000 +0300" stop="20160405203000 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405203000 +0300" stop="20160405203200 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405203200 +0300" stop="20160405205800 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405205800 +0300" stop="20160405210000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405210000 +0300" stop="20160405211500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405211500 +0300" stop="20160405211600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405211600 +0300" stop="20160405212100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405212100 +0300" stop="20160405212800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160405212800 +0300" stop="20160405213000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405213000 +0300" stop="20160405214500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405214500 +0300" stop="20160405214600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405214600 +0300" stop="20160405215100 +0300" channel="300093">
+<title lang="ru">Время СМИ (12+)</title>
+</programme>
+<programme start="20160405215100 +0300" stop="20160405215800 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405215800 +0300" stop="20160405220000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405220000 +0300" stop="20160405221700 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405221700 +0300" stop="20160405221800 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405221800 +0300" stop="20160405222800 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405222800 +0300" stop="20160405223000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405223000 +0300" stop="20160405224500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405224500 +0300" stop="20160405224600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405224600 +0300" stop="20160405225800 +0300" channel="300093">
+<title lang="ru">Взгляд на Африку (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405225800 +0300" stop="20160405230000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405230000 +0300" stop="20160405231500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405231500 +0300" stop="20160405231600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405231600 +0300" stop="20160405232100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405232100 +0300" stop="20160405232800 +0300" channel="300093">
+<title lang="ru">Время СМИ (12+)</title>
+</programme>
+<programme start="20160405232800 +0300" stop="20160405233000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405233000 +0300" stop="20160405234500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405234500 +0300" stop="20160405234600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405234600 +0300" stop="20160405235800 +0300" channel="300093">
+<title lang="ru">Взгляд на Африку (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160405235800 +0300" stop="20160406000000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406000000 +0300" stop="20160406001500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406001500 +0300" stop="20160406001600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406001600 +0300" stop="20160406002100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406002100 +0300" stop="20160406002800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160406002800 +0300" stop="20160406003000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406003000 +0300" stop="20160406004500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406004500 +0300" stop="20160406004600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406004600 +0300" stop="20160406005800 +0300" channel="300093">
+<title lang="ru">Бизнес + Обзор медиа (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406005800 +0300" stop="20160406010000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406010000 +0300" stop="20160406011100 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406011100 +0300" stop="20160406013000 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406013000 +0300" stop="20160406013200 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406013200 +0300" stop="20160406015700 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406015700 +0300" stop="20160406020000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406020000 +0300" stop="20160406021500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406021500 +0300" stop="20160406022000 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160406022000 +0300" stop="20160406022800 +0300" channel="300093">
+<title lang="ru">Эксперты (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406022800 +0300" stop="20160406023000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406023000 +0300" stop="20160406024500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406024500 +0300" stop="20160406025700 +0300" channel="300093">
+<title lang="ru">Бис! (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406025700 +0300" stop="20160406030000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406030000 +0300" stop="20160406031500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406031500 +0300" stop="20160406032800 +0300" channel="300093">
+<title lang="ru">Вопросы Ближнего Востока (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406032800 +0300" stop="20160406033000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406033000 +0300" stop="20160406034500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406034500 +0300" stop="20160406035500 +0300" channel="300093">
+<title lang="ru">Взгляд на Африку (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406035500 +0300" stop="20160406035700 +0300" channel="300093">
+<title lang="ru">Репортаж (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406035700 +0300" stop="20160406040000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406040000 +0300" stop="20160406041100 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406041100 +0300" stop="20160406043000 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406043000 +0300" stop="20160406043200 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406043200 +0300" stop="20160406045700 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406045700 +0300" stop="20160406050000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406050000 +0300" stop="20160406051500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406051500 +0300" stop="20160406052800 +0300" channel="300093">
+<title lang="ru">Эксперты (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406052800 +0300" stop="20160406053000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406053000 +0300" stop="20160406054500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406054500 +0300" stop="20160406055700 +0300" channel="300093">
+<title lang="ru">Вопросы Ближнего Востока (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406055700 +0300" stop="20160406060000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406060000 +0300" stop="20160406061500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406061500 +0300" stop="20160406062500 +0300" channel="300093">
+<title lang="ru">Взгляд на Африку (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406062500 +0300" stop="20160406062800 +0300" channel="300093">
+<title lang="ru">Репортаж (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406062800 +0300" stop="20160406063000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406063000 +0300" stop="20160406064500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406064500 +0300" stop="20160406065700 +0300" channel="300093">
+<title lang="ru">Очная ставка (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406065700 +0300" stop="20160406070000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406070000 +0300" stop="20160406071500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406071500 +0300" stop="20160406071600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406071600 +0300" stop="20160406071900 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406071900 +0300" stop="20160406072300 +0300" channel="300093">
+<title lang="ru">Экстракт Мэг (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406072300 +0300" stop="20160406072800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160406072800 +0300" stop="20160406073000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406073000 +0300" stop="20160406074500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406074500 +0300" stop="20160406074600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406074600 +0300" stop="20160406075100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406075100 +0300" stop="20160406075800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160406075800 +0300" stop="20160406080000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406080000 +0300" stop="20160406081700 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406081700 +0300" stop="20160406081800 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406081800 +0300" stop="20160406082100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406082100 +0300" stop="20160406082800 +0300" channel="300093">
+<title lang="ru">Во французской прессе (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406082800 +0300" stop="20160406083000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406083000 +0300" stop="20160406084500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406084500 +0300" stop="20160406084600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406084600 +0300" stop="20160406085100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406085100 +0300" stop="20160406085800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160406085800 +0300" stop="20160406090000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406090000 +0300" stop="20160406091600 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406091600 +0300" stop="20160406091700 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406091700 +0300" stop="20160406092200 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406092200 +0300" stop="20160406092800 +0300" channel="300093">
+<title lang="ru">Экстракт Мэг (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406092800 +0300" stop="20160406093000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406093000 +0300" stop="20160406094400 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406094400 +0300" stop="20160406094500 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406094500 +0300" stop="20160406095500 +0300" channel="300093">
+<title lang="ru">Фокус + Спорт (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406095500 +0300" stop="20160406095800 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406095800 +0300" stop="20160406100000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406100000 +0300" stop="20160406101500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406101500 +0300" stop="20160406101600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406101600 +0300" stop="20160406102100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406102100 +0300" stop="20160406102800 +0300" channel="300093">
+<title lang="ru">В мировой прессе (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406102800 +0300" stop="20160406103000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406103000 +0300" stop="20160406104400 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406104400 +0300" stop="20160406104500 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406104500 +0300" stop="20160406105500 +0300" channel="300093">
+<title lang="ru">Фокус + Спорт (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406105500 +0300" stop="20160406105700 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406105700 +0300" stop="20160406110000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406110000 +0300" stop="20160406111600 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406111600 +0300" stop="20160406112800 +0300" channel="300093">
+<title lang="ru">Техника 24 (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406112800 +0300" stop="20160406113000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406113000 +0300" stop="20160406114600 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406114600 +0300" stop="20160406115100 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160406115100 +0300" stop="20160406115700 +0300" channel="300093">
+<title lang="ru">Ты рядом (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406115700 +0300" stop="20160406120000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406120000 +0300" stop="20160406121500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406121500 +0300" stop="20160406122800 +0300" channel="300093">
+<title lang="ru">Вопросы Ближнего Востока (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406122800 +0300" stop="20160406123000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406123000 +0300" stop="20160406124500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406124500 +0300" stop="20160406125700 +0300" channel="300093">
+<title lang="ru">Очная ставка (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406125700 +0300" stop="20160406130000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406130000 +0300" stop="20160406131000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406131000 +0300" stop="20160406131600 +0300" channel="300093">
+<title lang="ru">Эксперты (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406131600 +0300" stop="20160406132800 +0300" channel="300093">
+<title lang="ru">Бис! (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406132800 +0300" stop="20160406133000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406133000 +0300" stop="20160406134000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406134000 +0300" stop="20160406135700 +0300" channel="300093">
+<title lang="ru">Вниз к Земле (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406135700 +0300" stop="20160406140000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406140000 +0300" stop="20160406141500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406141500 +0300" stop="20160406141600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406141600 +0300" stop="20160406142100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406142100 +0300" stop="20160406142800 +0300" channel="300093">
+<title lang="ru">В прессе (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406142800 +0300" stop="20160406143000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406143000 +0300" stop="20160406144500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406144500 +0300" stop="20160406144600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406144600 +0300" stop="20160406145100 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406145100 +0300" stop="20160406145800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160406145800 +0300" stop="20160406150000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406150000 +0300" stop="20160406151500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406151500 +0300" stop="20160406151600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406151600 +0300" stop="20160406152100 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406152100 +0300" stop="20160406152800 +0300" channel="300093">
+<title lang="ru">Культурные критики (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406152800 +0300" stop="20160406153000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406153000 +0300" stop="20160406154500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406154500 +0300" stop="20160406154600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406154600 +0300" stop="20160406155100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406155100 +0300" stop="20160406155700 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160406155700 +0300" stop="20160406160000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406160000 +0300" stop="20160406161500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406161500 +0300" stop="20160406162800 +0300" channel="300093">
+<title lang="ru">Люди и прибыль (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406162800 +0300" stop="20160406163000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406163000 +0300" stop="20160406164500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406164500 +0300" stop="20160406165700 +0300" channel="300093">
+<title lang="ru">Очная ставка (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406165700 +0300" stop="20160406170000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406170000 +0300" stop="20160406171500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406171500 +0300" stop="20160406172800 +0300" channel="300093">
+<title lang="ru">Вопросы Ближнего Востока (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406172800 +0300" stop="20160406173000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406173000 +0300" stop="20160406174500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406174500 +0300" stop="20160406175700 +0300" channel="300093">
+<title lang="ru">Франция 24. Интервью (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406175700 +0300" stop="20160406180000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406180000 +0300" stop="20160406181600 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406181600 +0300" stop="20160406182800 +0300" channel="300093">
+<title lang="ru">Бис! (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406182800 +0300" stop="20160406183000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406183000 +0300" stop="20160406184500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406184500 +0300" stop="20160406185700 +0300" channel="300093">
+<title lang="ru">В Северной и Южной Америке (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406185700 +0300" stop="20160406190000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406190000 +0300" stop="20160406191500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406191500 +0300" stop="20160406191600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406191600 +0300" stop="20160406192800 +0300" channel="300093">
+<title lang="ru">Топ-истории (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406192800 +0300" stop="20160406193000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406193000 +0300" stop="20160406194500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406194500 +0300" stop="20160406194600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406194600 +0300" stop="20160406195100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406195100 +0300" stop="20160406195700 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160406195700 +0300" stop="20160406200000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406200000 +0300" stop="20160406201000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406201000 +0300" stop="20160406203000 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406203000 +0300" stop="20160406203200 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406203200 +0300" stop="20160406205800 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406205800 +0300" stop="20160406210000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406210000 +0300" stop="20160406211500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406211500 +0300" stop="20160406211600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406211600 +0300" stop="20160406212100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406212100 +0300" stop="20160406212800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160406212800 +0300" stop="20160406213000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406213000 +0300" stop="20160406214500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406214500 +0300" stop="20160406214600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406214600 +0300" stop="20160406215100 +0300" channel="300093">
+<title lang="ru">Время СМИ (12+)</title>
+</programme>
+<programme start="20160406215100 +0300" stop="20160406215800 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406215800 +0300" stop="20160406220000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406220000 +0300" stop="20160406221700 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406221700 +0300" stop="20160406221800 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406221800 +0300" stop="20160406222800 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406222800 +0300" stop="20160406223000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406223000 +0300" stop="20160406224500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406224500 +0300" stop="20160406224600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406224600 +0300" stop="20160406225800 +0300" channel="300093">
+<title lang="ru">Взгляд на Африку (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406225800 +0300" stop="20160406230000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406230000 +0300" stop="20160406231500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406231500 +0300" stop="20160406231600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406231600 +0300" stop="20160406232100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406232100 +0300" stop="20160406232800 +0300" channel="300093">
+<title lang="ru">Время СМИ (12+)</title>
+</programme>
+<programme start="20160406232800 +0300" stop="20160406233000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406233000 +0300" stop="20160406234500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406234500 +0300" stop="20160406234600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406234600 +0300" stop="20160406235800 +0300" channel="300093">
+<title lang="ru">Взгляд на Африку (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160406235800 +0300" stop="20160407000000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407000000 +0300" stop="20160407001500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407001500 +0300" stop="20160407001600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407001600 +0300" stop="20160407002100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407002100 +0300" stop="20160407002800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160407002800 +0300" stop="20160407003000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407003000 +0300" stop="20160407004500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407004500 +0300" stop="20160407004600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407004600 +0300" stop="20160407005800 +0300" channel="300093">
+<title lang="ru">Бизнес + Обзор медиа (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407005800 +0300" stop="20160407010000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407010000 +0300" stop="20160407011100 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407011100 +0300" stop="20160407013000 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407013000 +0300" stop="20160407013200 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407013200 +0300" stop="20160407015700 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407015700 +0300" stop="20160407020000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407020000 +0300" stop="20160407021500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407021500 +0300" stop="20160407022000 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160407022000 +0300" stop="20160407022800 +0300" channel="300093">
+<title lang="ru">Ты рядом (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407022800 +0300" stop="20160407023000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407023000 +0300" stop="20160407024500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407024500 +0300" stop="20160407025700 +0300" channel="300093">
+<title lang="ru">Бис! (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407025700 +0300" stop="20160407030000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407030000 +0300" stop="20160407031500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407031500 +0300" stop="20160407032800 +0300" channel="300093">
+<title lang="ru">В Северной и Южной Америке (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407032800 +0300" stop="20160407033000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407033000 +0300" stop="20160407034500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407034500 +0300" stop="20160407035500 +0300" channel="300093">
+<title lang="ru">Взгляд на Африку (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407035500 +0300" stop="20160407035700 +0300" channel="300093">
+<title lang="ru">Репортаж (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407035700 +0300" stop="20160407040000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407040000 +0300" stop="20160407041100 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407041100 +0300" stop="20160407043000 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407043000 +0300" stop="20160407043200 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407043200 +0300" stop="20160407045700 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407045700 +0300" stop="20160407050000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407050000 +0300" stop="20160407051000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407051000 +0300" stop="20160407052800 +0300" channel="300093">
+<title lang="ru">Репортеры (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407052800 +0300" stop="20160407053000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407053000 +0300" stop="20160407054000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407054000 +0300" stop="20160407055200 +0300" channel="300093">
+<title lang="ru">В Северной и Южной Америке (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407055200 +0300" stop="20160407055700 +0300" channel="300093">
+<title lang="ru">Мода (12+)</title>
+<category lang="ru">Развлекательные</category>
+</programme>
+<programme start="20160407055700 +0300" stop="20160407060000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407060000 +0300" stop="20160407061500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407061500 +0300" stop="20160407062500 +0300" channel="300093">
+<title lang="ru">Взгляд на Африку (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407062500 +0300" stop="20160407062800 +0300" channel="300093">
+<title lang="ru">Репортаж (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407062800 +0300" stop="20160407063000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407063000 +0300" stop="20160407064500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407064500 +0300" stop="20160407065700 +0300" channel="300093">
+<title lang="ru">Франция 24. Интервью (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407065700 +0300" stop="20160407070000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407070000 +0300" stop="20160407071500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407071500 +0300" stop="20160407071600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407071600 +0300" stop="20160407071900 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407071900 +0300" stop="20160407072300 +0300" channel="300093">
+<title lang="ru">Экстракт Мэг (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407072300 +0300" stop="20160407072800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160407072800 +0300" stop="20160407073000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407073000 +0300" stop="20160407074500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407074500 +0300" stop="20160407074600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407074600 +0300" stop="20160407075100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407075100 +0300" stop="20160407075800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160407075800 +0300" stop="20160407080000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407080000 +0300" stop="20160407081700 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407081700 +0300" stop="20160407081800 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407081800 +0300" stop="20160407082100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407082100 +0300" stop="20160407082800 +0300" channel="300093">
+<title lang="ru">Во французской прессе (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407082800 +0300" stop="20160407083000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407083000 +0300" stop="20160407084500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407084500 +0300" stop="20160407084600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407084600 +0300" stop="20160407085100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407085100 +0300" stop="20160407085800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160407085800 +0300" stop="20160407090000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407090000 +0300" stop="20160407091600 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407091600 +0300" stop="20160407091700 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407091700 +0300" stop="20160407092200 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407092200 +0300" stop="20160407092800 +0300" channel="300093">
+<title lang="ru">Экстракт Мэг (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407092800 +0300" stop="20160407093000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407093000 +0300" stop="20160407094400 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407094400 +0300" stop="20160407094500 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407094500 +0300" stop="20160407095500 +0300" channel="300093">
+<title lang="ru">Фокус + Спорт (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407095500 +0300" stop="20160407095800 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407095800 +0300" stop="20160407100000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407100000 +0300" stop="20160407101500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407101500 +0300" stop="20160407101600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407101600 +0300" stop="20160407102100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407102100 +0300" stop="20160407102800 +0300" channel="300093">
+<title lang="ru">В мировой прессе (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407102800 +0300" stop="20160407103000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407103000 +0300" stop="20160407104400 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407104400 +0300" stop="20160407104500 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407104500 +0300" stop="20160407105500 +0300" channel="300093">
+<title lang="ru">Фокус + Спорт (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407105500 +0300" stop="20160407105700 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407105700 +0300" stop="20160407110000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407110000 +0300" stop="20160407111000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407111000 +0300" stop="20160407112800 +0300" channel="300093">
+<title lang="ru">Вниз к Земле (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407112800 +0300" stop="20160407113000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407113000 +0300" stop="20160407114000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407114000 +0300" stop="20160407114500 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160407114500 +0300" stop="20160407115700 +0300" channel="300093">
+<title lang="ru">Открытая Азия (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407115700 +0300" stop="20160407120000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407120000 +0300" stop="20160407121500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407121500 +0300" stop="20160407122800 +0300" channel="300093">
+<title lang="ru">Техника 24 (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407122800 +0300" stop="20160407123000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407123000 +0300" stop="20160407124500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407124500 +0300" stop="20160407125700 +0300" channel="300093">
+<title lang="ru">Франция 24. Интервью (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407125700 +0300" stop="20160407130000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407130000 +0300" stop="20160407131500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407131500 +0300" stop="20160407132800 +0300" channel="300093">
+<title lang="ru">Бис! (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407132800 +0300" stop="20160407133000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407133000 +0300" stop="20160407134500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407134500 +0300" stop="20160407135700 +0300" channel="300093">
+<title lang="ru">51% (12+)</title>
+<category lang="ru">Познавательные</category>
+</programme>
+<programme start="20160407135700 +0300" stop="20160407140000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407140000 +0300" stop="20160407141500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407141500 +0300" stop="20160407141600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407141600 +0300" stop="20160407142100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407142100 +0300" stop="20160407142800 +0300" channel="300093">
+<title lang="ru">В прессе (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407142800 +0300" stop="20160407143000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407143000 +0300" stop="20160407144500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407144500 +0300" stop="20160407144600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407144600 +0300" stop="20160407145200 +0300" channel="300093">
+<title lang="ru">Французские связи (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407145200 +0300" stop="20160407145800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160407145800 +0300" stop="20160407150000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407150000 +0300" stop="20160407151500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407151500 +0300" stop="20160407151600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407151600 +0300" stop="20160407152100 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407152100 +0300" stop="20160407152800 +0300" channel="300093">
+<title lang="ru">Культурные критики (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407152800 +0300" stop="20160407153000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407153000 +0300" stop="20160407154500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407154500 +0300" stop="20160407154600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407154600 +0300" stop="20160407155100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407155100 +0300" stop="20160407155700 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160407155700 +0300" stop="20160407160000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407160000 +0300" stop="20160407161500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407161500 +0300" stop="20160407162800 +0300" channel="300093">
+<title lang="ru">Эксперты (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407162800 +0300" stop="20160407163000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407163000 +0300" stop="20160407164500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407164500 +0300" stop="20160407165700 +0300" channel="300093">
+<title lang="ru">Франция 24. Интервью (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407165700 +0300" stop="20160407170000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407170000 +0300" stop="20160407171500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407171500 +0300" stop="20160407172800 +0300" channel="300093">
+<title lang="ru">В Северной и Южной Америке (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407172800 +0300" stop="20160407173000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407173000 +0300" stop="20160407174500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407174500 +0300" stop="20160407175700 +0300" channel="300093">
+<title lang="ru">Люди и прибыль (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407175700 +0300" stop="20160407180000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407180000 +0300" stop="20160407181500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407181500 +0300" stop="20160407182800 +0300" channel="300093">
+<title lang="ru">Бис! (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407182800 +0300" stop="20160407183000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407183000 +0300" stop="20160407184500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407184500 +0300" stop="20160407185700 +0300" channel="300093">
+<title lang="ru">Репортеры (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407185700 +0300" stop="20160407190000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407190000 +0300" stop="20160407191500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407191500 +0300" stop="20160407191600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407191600 +0300" stop="20160407192800 +0300" channel="300093">
+<title lang="ru">Топ-истории (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407192800 +0300" stop="20160407193000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407193000 +0300" stop="20160407194500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407194500 +0300" stop="20160407194600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407194600 +0300" stop="20160407195100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407195100 +0300" stop="20160407195700 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160407195700 +0300" stop="20160407200000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407200000 +0300" stop="20160407201000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407201000 +0300" stop="20160407203000 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407203000 +0300" stop="20160407203200 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407203200 +0300" stop="20160407205800 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407205800 +0300" stop="20160407210000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407210000 +0300" stop="20160407211500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407211500 +0300" stop="20160407211600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407211600 +0300" stop="20160407212100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407212100 +0300" stop="20160407212800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160407212800 +0300" stop="20160407213000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407213000 +0300" stop="20160407214500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407214500 +0300" stop="20160407214600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407214600 +0300" stop="20160407215100 +0300" channel="300093">
+<title lang="ru">Время СМИ (12+)</title>
+</programme>
+<programme start="20160407215100 +0300" stop="20160407215800 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407215800 +0300" stop="20160407220000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407220000 +0300" stop="20160407221700 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407221700 +0300" stop="20160407221800 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407221800 +0300" stop="20160407222800 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407222800 +0300" stop="20160407223000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407223000 +0300" stop="20160407224500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407224500 +0300" stop="20160407224600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407224600 +0300" stop="20160407225800 +0300" channel="300093">
+<title lang="ru">Взгляд на Африку (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407225800 +0300" stop="20160407230000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407230000 +0300" stop="20160407231500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407231500 +0300" stop="20160407231600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407231600 +0300" stop="20160407232100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407232100 +0300" stop="20160407232800 +0300" channel="300093">
+<title lang="ru">Время СМИ (12+)</title>
+</programme>
+<programme start="20160407232800 +0300" stop="20160407233000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407233000 +0300" stop="20160407234500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407234500 +0300" stop="20160407234600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407234600 +0300" stop="20160407235800 +0300" channel="300093">
+<title lang="ru">Взгляд на Африку (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160407235800 +0300" stop="20160408000000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408000000 +0300" stop="20160408001500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408001500 +0300" stop="20160408001600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408001600 +0300" stop="20160408002100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408002100 +0300" stop="20160408002800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160408002800 +0300" stop="20160408003000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408003000 +0300" stop="20160408004500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408004500 +0300" stop="20160408004600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408004600 +0300" stop="20160408005800 +0300" channel="300093">
+<title lang="ru">Бизнес + Обзор медиа (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408005800 +0300" stop="20160408010000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408010000 +0300" stop="20160408011100 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408011100 +0300" stop="20160408013000 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408013000 +0300" stop="20160408013200 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408013200 +0300" stop="20160408015700 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408015700 +0300" stop="20160408020000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408020000 +0300" stop="20160408021500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408021500 +0300" stop="20160408022000 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160408022000 +0300" stop="20160408022800 +0300" channel="300093">
+<title lang="ru">Французские связи (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408022800 +0300" stop="20160408023000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408023000 +0300" stop="20160408024500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408024500 +0300" stop="20160408025700 +0300" channel="300093">
+<title lang="ru">Бис! (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408025700 +0300" stop="20160408030000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408030000 +0300" stop="20160408031500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408031500 +0300" stop="20160408032800 +0300" channel="300093">
+<title lang="ru">Люди и прибыль (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408032800 +0300" stop="20160408033000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408033000 +0300" stop="20160408034500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408034500 +0300" stop="20160408035500 +0300" channel="300093">
+<title lang="ru">Взгляд на Африку (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408035500 +0300" stop="20160408035700 +0300" channel="300093">
+<title lang="ru">Репортаж (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408035700 +0300" stop="20160408040000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408040000 +0300" stop="20160408041100 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408041100 +0300" stop="20160408043000 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408043000 +0300" stop="20160408043200 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408043200 +0300" stop="20160408045700 +0300" channel="300093">
+<title lang="ru">Отчет (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408045700 +0300" stop="20160408050000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408050000 +0300" stop="20160408051500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408051500 +0300" stop="20160408052800 +0300" channel="300093">
+<title lang="ru">Техника 24 (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408052800 +0300" stop="20160408053000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408053000 +0300" stop="20160408054500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408054500 +0300" stop="20160408055700 +0300" channel="300093">
+<title lang="ru">Открытая Азия (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408055700 +0300" stop="20160408060000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408060000 +0300" stop="20160408061500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408061500 +0300" stop="20160408062500 +0300" channel="300093">
+<title lang="ru">Взгляд на Африку (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408062500 +0300" stop="20160408062800 +0300" channel="300093">
+<title lang="ru">Репортаж (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408062800 +0300" stop="20160408063000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408063000 +0300" stop="20160408064500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408064500 +0300" stop="20160408065700 +0300" channel="300093">
+<title lang="ru">Люди и прибыль (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408065700 +0300" stop="20160408070000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408070000 +0300" stop="20160408071500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408071500 +0300" stop="20160408071600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408071600 +0300" stop="20160408071900 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408071900 +0300" stop="20160408072300 +0300" channel="300093">
+<title lang="ru">Экстракт Мэг (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408072300 +0300" stop="20160408072800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160408072800 +0300" stop="20160408073000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408073000 +0300" stop="20160408074500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408074500 +0300" stop="20160408074600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408074600 +0300" stop="20160408075100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408075100 +0300" stop="20160408075800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160408075800 +0300" stop="20160408080000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408080000 +0300" stop="20160408081700 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408081700 +0300" stop="20160408081800 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408081800 +0300" stop="20160408082100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408082100 +0300" stop="20160408082800 +0300" channel="300093">
+<title lang="ru">Во французской прессе (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408082800 +0300" stop="20160408083000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408083000 +0300" stop="20160408084500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408084500 +0300" stop="20160408084600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408084600 +0300" stop="20160408085100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408085100 +0300" stop="20160408085800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160408085800 +0300" stop="20160408090000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408090000 +0300" stop="20160408091600 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408091600 +0300" stop="20160408091700 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408091700 +0300" stop="20160408092200 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408092200 +0300" stop="20160408092800 +0300" channel="300093">
+<title lang="ru">Экстракт Мэг (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408092800 +0300" stop="20160408093000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408093000 +0300" stop="20160408094400 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408094400 +0300" stop="20160408094500 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408094500 +0300" stop="20160408095500 +0300" channel="300093">
+<title lang="ru">Фокус + Спорт (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408095500 +0300" stop="20160408095800 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408095800 +0300" stop="20160408100000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408100000 +0300" stop="20160408101500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408101500 +0300" stop="20160408101600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408101600 +0300" stop="20160408102100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408102100 +0300" stop="20160408102800 +0300" channel="300093">
+<title lang="ru">В мировой прессе (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408102800 +0300" stop="20160408103000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408103000 +0300" stop="20160408104400 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408104400 +0300" stop="20160408104500 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408104500 +0300" stop="20160408105500 +0300" channel="300093">
+<title lang="ru">Фокус + Спорт (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408105500 +0300" stop="20160408105700 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408105700 +0300" stop="20160408110000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408110000 +0300" stop="20160408111500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408111500 +0300" stop="20160408112100 +0300" channel="300093">
+<title lang="ru">Ты рядом (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408112100 +0300" stop="20160408112800 +0300" channel="300093">
+<title lang="ru">Мода (12+)</title>
+<category lang="ru">Развлекательные</category>
+</programme>
+<programme start="20160408112800 +0300" stop="20160408113000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408113000 +0300" stop="20160408114500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408114500 +0300" stop="20160408115000 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160408115000 +0300" stop="20160408115700 +0300" channel="300093">
+<title lang="ru">Французские связи (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408115700 +0300" stop="20160408120000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408120000 +0300" stop="20160408121500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408121500 +0300" stop="20160408122800 +0300" channel="300093">
+<title lang="ru">Репортеры (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408122800 +0300" stop="20160408123000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408123000 +0300" stop="20160408124500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408124500 +0300" stop="20160408125700 +0300" channel="300093">
+<title lang="ru">Люди и прибыль (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408125700 +0300" stop="20160408130000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408130000 +0300" stop="20160408131500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408131500 +0300" stop="20160408132800 +0300" channel="300093">
+<title lang="ru">Бис! (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408132800 +0300" stop="20160408133000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408133000 +0300" stop="20160408134500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408134500 +0300" stop="20160408135700 +0300" channel="300093">
+<title lang="ru">Эксперты (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408135700 +0300" stop="20160408140000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408140000 +0300" stop="20160408141500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408141500 +0300" stop="20160408141600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408141600 +0300" stop="20160408142100 +0300" channel="300093">
+<title lang="ru">Бизнес (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408142100 +0300" stop="20160408142800 +0300" channel="300093">
+<title lang="ru">В прессе (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408142800 +0300" stop="20160408143000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408143000 +0300" stop="20160408144500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408144500 +0300" stop="20160408144600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408144600 +0300" stop="20160408145100 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408145100 +0300" stop="20160408145800 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160408145800 +0300" stop="20160408150000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408150000 +0300" stop="20160408151500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408151500 +0300" stop="20160408151600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408151600 +0300" stop="20160408152100 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408152100 +0300" stop="20160408152800 +0300" channel="300093">
+<title lang="ru">Культурные критики (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408152800 +0300" stop="20160408153000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408153000 +0300" stop="20160408154500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408154500 +0300" stop="20160408154600 +0300" channel="300093">
+<title lang="ru">Заголовки (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408154600 +0300" stop="20160408155100 +0300" channel="300093">
+<title lang="ru">Фокус (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408155100 +0300" stop="20160408155700 +0300" channel="300093">
+<title lang="ru">Спорт (12+)</title>
+<category lang="ru">Спорт</category>
+</programme>
+<programme start="20160408155700 +0300" stop="20160408160000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408160000 +0300" stop="20160408161500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408161500 +0300" stop="20160408162800 +0300" channel="300093">
+<title lang="ru">Открытая Азия (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408162800 +0300" stop="20160408163000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408163000 +0300" stop="20160408164500 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408164500 +0300" stop="20160408165700 +0300" channel="300093">
+<title lang="ru">Люди и прибыль (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408165700 +0300" stop="20160408170000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408170000 +0300" stop="20160408171000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408171000 +0300" stop="20160408172800 +0300" channel="300093">
+<title lang="ru">К вопросу о (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408172800 +0300" stop="20160408173000 +0300" channel="300093">
+<title lang="ru">Погода (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408173000 +0300" stop="20160408174000 +0300" channel="300093">
+<title lang="ru">Новости (12+)</title>
+<category lang="ru">Информационные</category>
+</programme>
+<programme start="20160408174000 +0300" stop="20160408175200 +0300" channel="300093">
+<title lang="ru">51% (12+)</title>
+<category lang="ru">Познавательные</category>
+</programme>
