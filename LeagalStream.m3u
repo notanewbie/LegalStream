@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, 1-1 ABC News Digital 1
+#EXTINF:0 tvg-num="1.1",ABC News Digital 1
 http://abclive.abcnews.com/i/abc_live1@136327/index_1200_av-b.m3u8
 #EXTINF:0, 1-2 ABC News Digital 2
 http://abclive.abcnews.com/i/abc_live2@136328/index_1200_av-b.m3u8
