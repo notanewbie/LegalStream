@@ -24,7 +24,7 @@
 <desc lang="en">Breaking news and world news from France 24 on Business, Sports, Culture. Video news. News from the US, Europe, Asia Pacific, Africa, Middle East, America.</desc>
 </programme>
 <programme start="20160101010000 +0300" stop="20170101010000 +0300" channel="ABCN1">
-<title lang="en">Live Coverage of Today's News</title>
+<title lang="en">Live Stream Coverage</title>
 <category lang="en">News</category>
 <desc lang="en">Get breaking national and world news, broadcast video coverage, and exclusive interviews. Find the top news online at ABC News.</desc>
 </programme>
@@ -34,17 +34,17 @@
 <desc lang="en"></desc>
 </programme>
 <programme start="20160101010000 +0300" stop="20170101010000 +0300" channel="ABCN3">
-<title lang="en">Live Coverage of Today's News</title>
+<title lang="en">Live Stream Coverage</title>
 <category lang="en">News</category>
 <desc lang="en">Get breaking national and world news, broadcast video coverage, and exclusive interviews. Find the top news online at ABC News.</desc>
 </programme>
 <programme start="20160101010000 +0300" stop="20170101010000 +0300" channel="ABCN4">
-<title lang="en">Regularly Scheduled Programming</title>
-<category lang="en"></category>
+<title lang="en">ABC Ditial Origianl Content</title>
+<category lang="en">Entertainment</category>
 <desc lang="en"></desc>
 </programme>
 <programme start="20160101010000 +0300" stop="20170101010000 +0300" channel="ABCN5">
-<title lang="en">Live Coverage of Today's News</title>
+<title lang="en">Live Stream Coverage</title>
 <category lang="en">News</category>
 <desc lang="en">Get breaking national and world news, broadcast video coverage, and exclusive interviews. Find the top news online at ABC News.</desc>
 </programme>
