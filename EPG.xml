@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "http://www.teleguide.info/download/xmltv.dtd">
 <tv generator-info-name="TVH_W/0.751l" generator-info-url="http://www.teleguide.info/">
 <channel id="300093">
-<display-name lang="ru">Fraance 24</display-name>
+<display-name lang="en">Fraance 24</display-name>
 </channel>
-<programme start="20160101000000 +0300" stop="20170101000000 +0300" channel="300093">
-<title lang="ru">France 24 News</title>
-<category lang="ru">News</category>
+<programme start="20160101010000 +0300" stop="20170101010000 +0300" channel="300093">
+<title lang="en">France 24 News</title>
+<category lang="en">News</category>
 <desc lang="en">Breaking news and world news from France 24 on Business, Sports, Culture. Video news. News from the US, Europe, Asia Pacific, Africa, Middle East, America.</desc>
 </programme>
