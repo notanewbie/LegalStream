@@ -19,7 +19,7 @@ http://msnbc2prod-lh.akamaihd.net/i/msnbc2_live01@9615/index_1200_av-b.m3u8
 http://msnbclive-lh.akamaihd.net/i/msnbc_live11@183423/index_1200_av-b.m3u8
 #EXTINF:0, 4-3 NBC News Live Event
 http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/index_1200_av-b.m3u8
-#EXTINF:-1 tvg-id="300093" tvg-num="5", 5 France 24
+#EXTINF:-1 tvg-id="300093" tvg-num="5",France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_1200.m3u8
 #EXTINF:0, 6 RT News
 https://rt-a.akamaihd.net/ch_01@325605/480p.m3u8
