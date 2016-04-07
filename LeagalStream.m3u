@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABCN1" tvg-num="101",ABC News Digital 1
 http://abclive.abcnews.com/i/abc_live1@136327/index_1200_av-b.m3u8
-#EXTINF:0, 1-2 ABC News Digital 2
+#EXTINF:0, tvg-id="ABCN2" 1-2 ABC News Digital 2
 http://abclive.abcnews.com/i/abc_live2@136328/index_1200_av-b.m3u8
-#EXTINF:0, 1-3 ABC News Digital 3
+#EXTINF:0, tvg-id="ABCN3" 1-3 ABC News Digital 3
 http://abclive.abcnews.com/i/abc_live3@136329/index_1200_av-b.m3u8
-#EXTINF:0, 1-4 ABC News Digital 4
+#EXTINF:0, tvg-id="ABCN4" 1-4 ABC News Digital 4
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:0, 1-5 ABC News Digital 5
+#EXTINF:0, tvg-id="ABCN5" 1-5 ABC News Digital 5
 http://abclive.abcnews.com/i/abc_live5@136331/index_1200_av-b.m3u8
 #EXTINF:0, 2 CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
