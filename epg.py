@@ -66,6 +66,7 @@ print numbers
 DoubleDigit(8)
 
 def ABC1():
+    ToDay()
     global year
     year = int(year)
     global month
@@ -87,6 +88,7 @@ def ABC1():
     return Program
 ABC1 = ABC1()
 def ABC2():
+    ToDay()
     global year
     year = int(year)
     global month
@@ -108,6 +110,7 @@ def ABC2():
     return Program
 ABC2 = ABC2()
 def ABC3():
+    ToDay()
     global year
     year = int(year)
     global month
@@ -129,6 +132,7 @@ def ABC3():
     return Program
 ABC3 = ABC3()
 def ABC4():
+    ToDay()
     global year
     year = int(year)
     global month
@@ -150,6 +154,7 @@ def ABC4():
     return Program
 ABC4 = ABC4()
 def ABC5():
+    ToDay()
     global year
     year = int(year)
     global month
