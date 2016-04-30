@@ -180,3 +180,18 @@ i = 0
 for object in ABC1:
     Filee = Filee + ABC1[i]
     i = i + 1
+i = 0
+for object in ABC2:
+    Filee = Filee + ABC2[i]
+    i = i + 1
+i = 0
+for object in ABC3:
+    Filee = Filee + ABC3[i]
+    i = i + 1
+i = 0
+for object in ABC4:
+    Filee = Filee + ABC4[i]
+    i = i + 1
+file_ = open('output.xml', 'w')
+file_.write(Filee + "</tv>")
+file_.close()
