@@ -17,6 +17,12 @@ def ToDay():
     global numbers
     numbers = str(year) + str(month) + str(day) + str(day) + str(hour) + str(second) + "00"
 ToDay()
+StartYear = year
+StartMonth = month
+StartDay = day
+StartHour = hour
+StartMinute = minute
+StartSecond = second
 def DoubleDigit(Integer):
     return "%02d"%Integer
 def PlusOneDay():
@@ -82,7 +88,7 @@ def ABC1():
     i = 0
     Program = []
     for i in range(0, 365):
-        Program.append('<programme start="' + str(year) + str(month) + str(day) + str(day) + str(hour) + str(second) + '00 -0400" stop=' + RetPlusOneDay() + '00 -0400" channel="ABCN1"><title lang="en">Now on ABC News</title><category lang="en">News</category></programme>')
+        Program.append('<programme start="' + str(year) + str(month) + str(day) + str(day) + str(hour) + str(second) + '00 -0400" stop="' + RetPlusOneDay() + '00 -0400" channel="ABCN1"><title lang="en">Now on ABC News</title><category lang="en">News</category></programme>')
         i = i + 1
         print str(round(float(i)/365*100, 1)) + "% of ABC News Digital 1 Schedule Complete."
     return Program
@@ -104,7 +110,7 @@ def ABC2():
     i = 0
     Program = []
     for i in range(0, 365):
-        Program.append('<programme start="' + str(year) + str(month) + str(day) + str(day) + str(hour) + str(second) + '00 -0400" stop=' + RetPlusOneDay() + '00 -0400" channel="ABCN2"><title lang="en">Regularly Scheduled Programming</title><category lang="en">News</category></programme>')
+        Program.append('<programme start="' + str(year) + str(month) + str(day) + str(day) + str(hour) + str(second) + '00 -0400" stop="' + RetPlusOneDay() + '00 -0400" channel="ABCN2"><title lang="en">Regularly Scheduled Programming</title><category lang="en">News</category></programme>')
         i = i + 1
         print str(round(float(i)/365*100, 1)) + "% of ABC News Digital 2 Schedule Complete."
     return Program
@@ -126,7 +132,7 @@ def ABC3():
     i = 0
     Program = []
     for i in range(0, 365):
-        Program.append('<programme start="' + str(year) + str(month) + str(day) + str(day) + str(hour) + str(second) + '00 -0400" stop=' + RetPlusOneDay() + '00 -0400" channel="ABCN3"><title lang="en">Regularly Scheduled Programming</title><category lang="en">News</category></programme>')
+        Program.append('<programme start="' + str(year) + str(month) + str(day) + str(day) + str(hour) + str(second) + '00 -0400" stop="' + RetPlusOneDay() + '00 -0400" channel="ABCN3"><title lang="en">Regularly Scheduled Programming</title><category lang="en">News</category></programme>')
         i = i + 1
         print str(round(float(i)/365*100, 1)) + "% of ABC News Digital 3 Schedule Complete."
     return Program
@@ -148,7 +154,7 @@ def ABC4():
     i = 0
     Program = []
     for i in range(0, 365):
-        Program.append('<programme start="' + str(year) + str(month) + str(day) + str(day) + str(hour) + str(second) + '00 -0400" stop=' + RetPlusOneDay() + '00 -0400" channel="ABCN4"><title lang="en">Regularly Scheduled Programming</title><category lang="en">News</category></programme>')
+        Program.append('<programme start="' + str(year) + str(month) + str(day) + str(day) + str(hour) + str(second) + '00 -0400" stop="' + RetPlusOneDay() + '00 -0400" channel="ABCN4"><title lang="en">Regularly Scheduled Programming</title><category lang="en">News</category></programme>')
         i = i + 1
         print str(round(float(i)/365*100, 1)) + "% of ABC News Digital 4 Schedule Complete."
     return Program
@@ -170,7 +176,7 @@ def ABC5():
     i = 0
     Program = []
     for i in range(0, 365):
-        Program.append('<programme start="' + str(year) + str(month) + str(day) + str(day) + str(hour) + str(second) + '00 -0400" stop=' + RetPlusOneDay() + '00 -0400" channel="ABCN5"><title lang="en">Regularly Scheduled Programming</title><category lang="en">News</category></programme>')
+        Program.append('<programme start="' + str(year) + str(month) + str(day) + str(day) + str(hour) + str(second) + '00 -0400" stop="' + RetPlusOneDay() + '00 -0400" channel="ABCN5"><title lang="en">Regularly Scheduled Programming</title><category lang="en">News</category></programme>')
         i = i + 1
         print str(round(float(i)/365*100, 1)) + "% of ABC News Digital 5 Schedule Complete."
     return Program
@@ -195,3 +201,15 @@ for object in ABC4:
 file_ = open('output.xml', 'w')
 file_.write(Filee + "</tv>")
 file_.close()
+ToDay()
+EndYear = year
+EndMonth = month
+EndDay = day
+EndHour = hour
+EndMinute = minute
+EndSecond = second
+
+if EndSecond > StartSecond and EndMinute == StartMinute:
+    print "Generating EPG data took " + str(EndSecond - StartSecond) + "s."
+if EndSecond > StartSecond and EndMinute > StartMinute:
+    print "Generating EPG data took " + str(EndMinute - StartMinute) + "m and " + str(EndSecond - StartSecond) + "s."
