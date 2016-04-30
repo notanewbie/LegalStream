@@ -17,12 +17,21 @@ def ToDay():
     global numbers
     numbers = str(year) + str(month) + str(day) + str(day) + str(hour) + str(second) + "00"
 ToDay()
-StartYear = year
-StartMonth = month
-StartDay = day
-StartHour = hour
-StartMinute = minute
-StartSecond = second
+StartYear = int(year)
+StartMonth = int(month)
+StartDay = int(day)
+StartHour = int(hour)
+StartMinute = int(minute)
+StartSecond = int(second)
+ToDay()
+EndYear = int(year)
+EndMonth = int(month)
+EndDay = int(day)
+EndHour = int(hour)
+EndMinute = int(minute)
+EndSecond = int(second)
+MinuteLength = EndMinute - StartMinute
+SecondLength = EndSecond - StartSecond
 def DoubleDigit(Integer):
     return "%02d"%Integer
 def PlusOneDay():
@@ -202,14 +211,12 @@ file_ = open('output.xml', 'w')
 file_.write(Filee + "</tv>")
 file_.close()
 ToDay()
-EndYear = year
-EndMonth = month
-EndDay = day
-EndHour = hour
-EndMinute = minute
-EndSecond = second
-
-if EndSecond > StartSecond and EndMinute == StartMinute:
-    print "Generating EPG data took " + str(EndSecond - StartSecond) + "s."
-if EndSecond > StartSecond and EndMinute > StartMinute:
-    print "Generating EPG data took " + str(EndMinute - StartMinute) + "m and " + str(EndSecond - StartSecond) + "s."
+EndYear = int(year)
+EndMonth = int(month)
+EndDay = int(day)
+EndHour = int(hour)
+EndMinute = int(minute)
+EndSecond = int(second)
+MinuteLength = EndMinute - StartMinute
+SecondLength = EndSecond - StartSecond
+print "Generating EPG data took " + str(MinuteLength) + "m and " + str(SecondLength) + "s."
