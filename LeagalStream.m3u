@@ -140,3 +140,5 @@ http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/index_2540_av-b.m3u8
 http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/index_1240_av-p.m3u8
 #EXTINF:0,BYUTV International HD
 http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/index_2540_av-b.m3u8
+#EXTINF:0,2016 NFL Draft
+https://video-api.yql.yahoo.com/v1/hlsfilter/8250dc3b-f156-3911-a2be-8802ce5baf0b.m3u8?bitrates=565,941,1555,2420,3440,5090,6740&cdn=atlas&devtype=smartphone&domain_name=ci-7e199994f7-ad4fcf15.http.atlas.cdn.yimg.com&isLive=true&lang=en-US&ps=0ug37qlbia76t_q5flu3b5&region=US&site=sports
