@@ -144,3 +144,5 @@ http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/index_2540_av-b.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
 #EXTINF:0,Vevo TV 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
+#EXTINF:0,Vevo TV 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
