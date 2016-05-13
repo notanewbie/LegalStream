@@ -146,3 +146,9 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
 #EXTINF:0,Vevo TV 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
+#EXTINF:0,RadioU TV
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:radioutv_all.smil/playlist.m3u8
+#EXTINF:0,Spirit Television
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8
+#EXTINF:0,Family Friendly Entertainment
+http://54.225.64.228:1935/live/roku2/playlist.m3u8
