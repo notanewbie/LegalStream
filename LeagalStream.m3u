@@ -152,3 +152,5 @@ http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:radioutv_all.smil/play
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8
 #EXTINF:0,Family Friendly Entertainment
 http://54.225.64.228:1935/live/roku2/playlist.m3u8
+#EXTINF:0,Rap Resurrection
+http://edge2.tikilive.com:1935/unrestricted_tikilive/36008/amlst:amKEQ2Y2gYN4/playlist.m3u8
