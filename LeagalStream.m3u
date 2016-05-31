@@ -146,6 +146,8 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
 #EXTINF:0,Vevo Nashville
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
+#EXTINF:0,Vevo Hits HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0,RadioU TV
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:radioutv_all.smil/playlist.m3u8
 #EXTINF:0,Spirit Television
