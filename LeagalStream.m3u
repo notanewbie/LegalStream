@@ -43,6 +43,8 @@ http://fnurtmp-f.akamaihd.net/i/06LIVE_1@81838/index_1500_av-p.m3u8
 http://fnurtmp-f.akamaihd.net/i/07LIVE_1@199242/index_1500_av-p.m3u8
 #EXTINF:0, 8-9 Fox News Live Event 7
 http://fnurtmp-f.akamaihd.net/i/08LIVE_1@199243/index_1500_av-p.m3u8
+#EXTINF:0, Fox News Convention Coverage
+http://fnurtmp-f.akamaihd.net/i/RNCPOOL_1@344188/master.m3u8
 #EXTINF:0, 9 CNN Debate
 http://cnn-lh.akamaihd.net/i/cnndebates_1@352100/index_1400_av-b.m3u8
 #EXTINF:0, 10 TWiT
