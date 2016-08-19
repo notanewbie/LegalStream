@@ -162,3 +162,9 @@ http://54.225.64.228:1935/live/roku2/playlist.m3u8
 http://edge2.tikilive.com:1935/unrestricted_tikilive/36008/amlst:amKEQ2Y2gYN4/playlist.m3u8
 #EXTINF:0,KHZTV
 http://rbc.streamguys.com/khztv/khztv/playlist.m3u8
+#EXTINF:0,VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:0,BBC News
+http://live-997.ld5.edge.filmon.com/live/27.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5bbe774cd35ea3d9d6b4c8d8068658315c85edee182f4a032970fcc737aef9edbf6094f4ab993e32be59875f8a0581c80c80e60374cce9bc1801fa11da651b6803e162449886c89fc46bd743f35b3be28f6bdc8f0a56a1d31091568c371f4102d194eb2c4815a63de556256d5171d95f9388bd17285b6c1d7c7547d8d93f27dcb12d2c49ae80cc9049040a49b35e0ceb
+#EXTINF:0,Euronews
+http://stream-09.vty.dailymotion.com/17/dm/1/x2j4h4m/live.isml/events(live-1471382567)/live-audio=128000-video=1200000.m3u8
