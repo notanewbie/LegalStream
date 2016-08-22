@@ -168,3 +168,7 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 http://live-997.ld5.edge.filmon.com/live/27.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5bbe774cd35ea3d9d6b4c8d8068658315c85edee182f4a032970fcc737aef9edbf6094f4ab993e32be59875f8a0581c80c80e60374cce9bc1801fa11da651b6803e162449886c89fc46bd743f35b3be28f6bdc8f0a56a1d31091568c371f4102d194eb2c4815a63de556256d5171d95f9388bd17285b6c1d7c7547d8d93f27dcb12d2c49ae80cc9049040a49b35e0ceb
 #EXTINF:0,Euronews
 http://stream-09.vty.dailymotion.com/17/dm/1/x2j4h4m/live.isml/events(live-1471382567)/live-audio=128000-video=1200000.m3u8
+#EXTINF:0,Olympic Channel
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_4_1464000.m3u8
+#EXTINF:0,Olympic Channel HD
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
