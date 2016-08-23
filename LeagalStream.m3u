@@ -172,3 +172,5 @@ http://stream-09.vty.dailymotion.com/17/dm/1/x2j4h4m/live.isml/events(live-14713
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_4_1464000.m3u8
 #EXTINF:0,Olympic Channel HD
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:0,DiamondClub.tv (CordKillers Feed)
+http://ks1.diamondclub.tv/hls4/cordkillers.m3u8
