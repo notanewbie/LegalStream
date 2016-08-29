@@ -190,3 +190,5 @@ http://ingest.diamondclub.tv/hls4/gonnageek.m3u8
 http://ks1.diamondclub.tv/hls4/weirdthings.m3u8
 #EXTINF:0,Newsy
 https://content.uplynk.com/channel/04cce35dcd994bbc82d61805ae67a65f.m3u8?ad=pluto&hlsver=6
+#EXTINF:0,Weather Network
+http://d383mxeq7zv96c.cloudfront.net/api/ott/getVideoStream/USNATIONAL/master.m3u8?country=us 
