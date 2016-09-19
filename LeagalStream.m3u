@@ -192,3 +192,5 @@ http://ks1.diamondclub.tv/hls4/weirdthings.m3u8
 https://content.uplynk.com/channel/04cce35dcd994bbc82d61805ae67a65f.m3u8?ad=pluto&hlsver=6
 #EXTINF:0,Weather Network
 http://d383mxeq7zv96c.cloudfront.net/api/ott/getVideoStream/USNATIONAL/master.m3u8?country=us 
+#EXTINF:0,NFL Now Live
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
