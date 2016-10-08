@@ -82,11 +82,9 @@ http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8
 #EXTINF:0, 60 ACC Network
 http://raycomhds-lh.akamaihd.net/i/hdslive_01@136338/index_3500_av-b.m3u8
 #EXTINF:0, 61 SEC on CBS
-http://cbssports-origin.mdialog.com/cbssports/live/e09761d7-69f9-40e7-8d78-0535f3cecb26/manifest.m3u8
-#EXTINF:0, 62 SEC on CBS 2
-http://cbssports-linear.mdialog.com/video_assets/seclive.m3u8
-#EXTINF:0, 63 SEC on CBS 3
-http://cbssports-linear.mdialog.com/video_assets/seclive3.m3u8
+http://cbssportslive-f.akamaihd.net/seclive1_1_350@13913
+#EXTINF:0, 62 SEC on CBS HD
+http://cbssportslive-f.akamaihd.net/seclive1_1_1200@13913
 #EXTINF:0, 64 CBS College Basketball
 http://cbssports-origin.mdialog.com/cbssports/live/4fdd561d-ff33-4558-9cba-f53b9aa95d65/ssb/200603-b_cbklive1_cbklive1-800-1.m3u8
 #EXTINF:0, 65 CBS College Basketball 2
