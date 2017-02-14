@@ -55,8 +55,12 @@ http://msnbclive-lh.akamaihd.net/i/msnbc_live11@183423/index_1200_av-b.m3u8
 http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/index_1200_av-b.m3u8
 #EXTINF:0,Newsmax TV
 http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_1728_av-p.m3u8
+#EXTINF:0,RT America
+http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index.m3u8
 #EXTINF:0,RT News
-https://rt-a.akamaihd.net/ch_01@325605/480p.m3u8
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
+#EXTINF:0,RT UK
+http://rt-uk-live.hls.adaptive.level3.net/rt/uk/index.m3u8
 #EXTINF:0,Shift by msnbc
 http://msnbc2prod-lh.akamaihd.net/i/msnbc2_live01@9615/index_1200_av-b.m3u8
 #EXTINF:0,TWiT
