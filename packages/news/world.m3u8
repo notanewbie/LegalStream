@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:0,CBN News
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:-1 tvg-id="300093" tvg-num="5",France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+#EXTINF:0,RT News
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
+#EXTINF:0,RT UK
+http://rt-uk-live.hls.adaptive.level3.net/rt/uk/index.m3u8
+#EXTINF:0,VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
