@@ -10,26 +10,35 @@ Stream now at https://github.com/notanewbie/LegalStream/tree/master/packages/chr
 1. Daystar
 2. Hillsong Channel
 3. TBN
+
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/christianity/prosperity.m3u8
 
 <h4>Protestant</h4>
 1. NRB Network
+
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/christianity/protestant.m3u8
+
 <h3>Entertainment</h3>
 Stream now at https://github.com/notanewbie/LegalStream/tree/master/packages/entertainment
 <h4>Comedy</h4>
 1. Adult Swim
 2. Adult Swim Animated Marathon
 3. Adult Swim Live Action Marathon
+
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/comedy.m3u8
+
 <h4>General</h4>
 1. BYU TV
 2. BYU TV International
 3. Yes TV (geoblocked from certain countries)
+
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/general.m3u8
+
 <h4>Kids</h4>
 1. PBS Kids
+
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/kids.m3u8
+
 <h4>Music</h4>
 1. Christian Hip Hop Television
 2. Family Friendly Entertainment
@@ -38,7 +47,9 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/ent
 5. RadioU TV
 6. Rap Ressurection
 7. Spirit Television
+
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/music.m3u8
+
 <h4>Podcasts</h4>
 1. DiamondClub.tv 24/7
 2. DiamondClub.tv CordKillers
@@ -48,9 +59,13 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/ent
 6. DiamondClub.tv Online Tenky
 7. DiamondClub.tv Willie Dills
 8. DiamondClubs.tv Weird Things
+
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/podcasts.m3u8
+
 <h3>News</h3>
+
 Stream now at https://github.com/notanewbie/LegalStream/tree/master/packages/news
+
 <h4>Live Events</h4>
 1. ABC News Digital
 2. ABC News Digital 2
@@ -76,26 +91,35 @@ Stream now at https://github.com/notanewbie/LegalStream/tree/master/packages/new
 22. NBC News Live Event
 23. Shift by msnbc
 24. WSJ Live
+
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/live.m3u8
+
 <h4>Business News</h4>
 1. Bloomberg Asia
 2. Bloomberg Europe
 3. Bloomberg US
+
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/money.m3u8
+
 <h4>Tech News</h4>
 1. TWiT
 2. TWiT alt
+
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/tech.m3u8
+
 <h4>US News</h4>
 1. CBSN
 2. Newsmax TV
 3. RT America
 4. Weather Network
+
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/us.m3u8
+
 <h4>World News</h4>
 1. CBN News
 2. France 24
 3. RT News
 4. RT UK
 5. VOA
+
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/world.m3u8
