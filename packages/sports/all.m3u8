@@ -1,16 +1,16 @@
+#EXTINF:0,105.7 The Fan
+http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8
+#EXTINF:0,106.7 The Fan
+http://cbslocalhls-i.akamaihd.net/hls/live/204776/WJFK-FM-IOS/wjfklive.m3u8
 #EXTINF:0,ACC Network
 http://raycomhds-lh.akamaihd.net/i/hdslive_01@136338/index_3500_av-b.m3u8
-#EXTINF:0,SEC on CBS
-http://cbssportslive-f.akamaihd.net/seclive1_1_350@13913
 #EXTINF:0,CBS College Basketball
 http://cbssports-origin.mdialog.com/cbssports/live/4fdd561d-ff33-4558-9cba-f53b9aa95d65/ssb/200603-b_cbklive1_cbklive1-800-1.m3u8
 #EXTINF:0,CBS College Basketball 2
 http://cbssports-linear.mdialog.com/video_assets/CBKLive1.m3u8?api_key=c154bed4055b15eeff69c9d99baff6e4
-#EXTINF:0,106.7 The Fan
-http://cbslocalhls-i.akamaihd.net/hls/live/204776/WJFK-FM-IOS/wjfklive.m3u8
-#EXTINF:0,105.7 The Fan
-http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8
-#EXTINF:0,Olympics Channel
-https://raw.githubusercontent.com/notanewbie/olympics/master/master.m3u8
 #EXTINF:0,NFL Now Live
 https://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+#EXTINF:0,Olympics Channel
+https://raw.githubusercontent.com/notanewbie/olympics/master/master.m3u8
+#EXTINF:0,SEC on CBS
+http://cbssportslive-f.akamaihd.net/seclive1_1_350@13913
