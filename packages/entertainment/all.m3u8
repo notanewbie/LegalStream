@@ -1,39 +1,3 @@
-#EXTINF:0,JUCE TV
-http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
-#EXTINF:0,Christian Hip Hop Television
-http://telvuehls_t01997-i.akamaihd.net/hls/live/218552/T01997-2/playlist.m3u8
-#EXTINF:0,Yes TV
-http://stream-live-edge-a01.crossroadscloud.com:8081/yestv-ont-multibit/yestv-ont-multibit/playlist.m3u8
-#EXTINF:0,BYUTV
-https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
-#EXTINF:0,BYUTV International
-https://byubhls-i.akamaihd.net/hls/live/267282/byutvintport/master.m3u8
-#EXTINF:0,RadioU TV
-http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:radioutv_all.smil/playlist.m3u8
-#EXTINF:0,Spirit Television
-http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8
-#EXTINF:0,Family Friendly Entertainment
-http://54.225.64.228:1935/live/roku2/playlist.m3u8
-#EXTINF:0,Rap Resurrection
-http://edge2.tikilive.com:1935/unrestricted_tikilive/36008/amlst:amKEQ2Y2gYN4/playlist.m3u8
-#EXTINF:0,KHZTV
-http://rbc.streamguys.com/khztv/khztv/playlist.m3u8
-#EXTINF:0,DiamondClub.tv 24/7
-http://ks1.diamondclub.tv/hls2/dctv.m3u8
-#EXTINF:0,DiamondClub.tv CordKillers
-http://ks1.diamondclub.tv/hls4/cordkillers.m3u8
-#EXTINF:0,DiamondClub.tv Mike TV
-https://usher.ttvnw.net/api/channel/hls/miketvlive.m3u8
-#EXTINF:0,DiamondClub.tv OMGChad!
-https://usher.ttvnw.net/api/channel/hls/omgchad.m3u8
-#EXTINF:0,DiamondClub.tv Online Tenky
-https://usher.ttvnw.net/api/channel/hls/online_tenky.m3u8
-#EXTINF:0,DiamondClub.tv Willie Dills
-https://usher.ttvnw.net/api/channel/hls/williedillssf.m3u8
-#EXTINF:0,DiamondClub.tv GonnaGeek
-http://ingest.diamondclub.tv/hls4/gonnageek.m3u8
-#EXTINF:0,DiamondClub.tv Weird Things
-http://ks1.diamondclub.tv/hls4/weirdthings.m3u8
 #EXTINF:0,Adult Swim
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
 #EXTINF:0,Adult Swim Animated Marathon
@@ -42,15 +6,51 @@ http://amd.cdn.turner.com/adultswim/big/streams/playlists/animated-marathon.m3u8
 http://amd.cdn.turner.com/adultswim/big/streams/playlists/live-action-marathon.m3u8
 #EXTINF:0,Adult Swim Live Action Marathon
 http://amd.cdn.turner.com/adultswim/big/streams/playlists/live-action-marathon.m3u8
+#EXTINF:0,BYUTV
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
+#EXTINF:0,BYUTV International
+https://byubhls-i.akamaihd.net/hls/live/267282/byutvintport/master.m3u8
+#EXTINF:0,Christian Hip Hop Television
+http://telvuehls_t01997-i.akamaihd.net/hls/live/218552/T01997-2/playlist.m3u8
+#EXTINF:0,DiamondClub.tv 24/7
+http://ks1.diamondclub.tv/hls2/dctv.m3u8
+#EXTINF:0,DiamondClub.tv CordKillers
+http://ks1.diamondclub.tv/hls4/cordkillers.m3u8
+#EXTINF:0,DiamondClub.tv GonnaGeek
+http://ingest.diamondclub.tv/hls4/gonnageek.m3u8
+#EXTINF:0,DiamondClub.tv Mike TV
+https://usher.ttvnw.net/api/channel/hls/miketvlive.m3u8
+#EXTINF:0,DiamondClub.tv OMGChad!
+https://usher.ttvnw.net/api/channel/hls/omgchad.m3u8
+#EXTINF:0,DiamondClub.tv Online Tenky
+https://usher.ttvnw.net/api/channel/hls/online_tenky.m3u8
+#EXTINF:0,DiamondClub.tv Willie Dills
+https://usher.ttvnw.net/api/channel/hls/williedillssf.m3u8
+#EXTINF:0,DiamondClub.tv Weird Things
+http://ks1.diamondclub.tv/hls4/weirdthings.m3u8
+#EXTINF:0,Family Friendly Entertainment
+http://54.225.64.228:1935/live/roku2/playlist.m3u8
+#EXTINF:0,Ghost Planet 24/7
+http://adultswimhls-i.akamaihd.net/hls/live/242140/adultswim_2/main/1/master.m3u8
+#EXTINF:0,JUCE TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
+#EXTINF:0,KHZTV
+http://rbc.streamguys.com/khztv/khztv/playlist.m3u8
+#EXTINF:0,Off The Air 24/7
+http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
+#EXTINF:0,PBS Kids
+http://live-cdn.pbskids.org/out/u/est.m3u8
+#EXTINF:0,RadioU TV
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:radioutv_all.smil/playlist.m3u8
+#EXTINF:0,Rap Resurrection
+http://edge2.tikilive.com:1935/unrestricted_tikilive/36008/amlst:amKEQ2Y2gYN4/playlist.m3u8
+#EXTINF:0,Spirit Television
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8
 #EXTINF:0,The Venture Bros. 24/7
 http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
 #EXTINF:0,Tim and Eric 24/7
 http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
-#EXTINF:0,Off The Air 24/7
-http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
-#EXTINF:0,Ghost Planet 24/7
-http://adultswimhls-i.akamaihd.net/hls/live/242140/adultswim_2/main/1/master.m3u8
 #EXTINF:0,Toonami
 http://amd.cdn.turner.com/adultswim/big/streams/playlists/toonami.m3u8
-#EXTINF:0,PBS Kids
-http://live-cdn.pbskids.org/out/u/est.m3u8
+#EXTINF:0,Yes TV
+http://stream-live-edge-a01.crossroadscloud.com:8081/yestv-ont-multibit/yestv-ont-multibit/playlist.m3u8
