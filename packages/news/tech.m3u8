@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,TWiT
+http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
+#EXTINF:0,TWiT alt
+http://209.131.99.99/twit/live/low
