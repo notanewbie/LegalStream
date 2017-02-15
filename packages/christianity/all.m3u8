@@ -1,9 +1,7 @@
 #EXTINF:0,TBN
 http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_1728_av-p.m3u8
-#EXTINF:0,The Church Channel
+#EXTINF:0,Hillsong Channel
 http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/index_1728_av-p.m3u8
-#EXTINF:0,TCT
-http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/TCTHLS/TCTHLS_Live_600/TCTHLS_Live_600.m3u8
 #EXTINF:0,TCT Family
 http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/TCTHDHLS/TCTHDHLS_Live_1200/TCTHDHLS_Live_1200.m3u8
 #EXTINF:0,NRB Network
