@@ -1,10 +1,8 @@
-#EXTINF:0,TBN
-http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_1728_av-p.m3u8
-#EXTINF:0,Hillsong Channel
-http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/index_1728_av-p.m3u8
-#EXTINF:0,TCT Family
-http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/TCTHDHLS/TCTHDHLS_Live_1200/TCTHDHLS_Live_1200.m3u8
-#EXTINF:0,NRB Network
-http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:0,Daystar HD
 http://brightcove03-f.akamaihd.net/daystar_HD_720@112478
+#EXTINF:0,Hillsong Channel
+http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/index_1728_av-p.m3u8
+#EXTINF:0,NRB Network
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:0,TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_1728_av-p.m3u8
