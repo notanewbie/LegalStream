@@ -109,9 +109,10 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/new
 
 <h4>US News</h4>
 1. CBSN
-2. Newsmax TV
-3. RT America
-4. Weather Network
+2. CBSN alt (mobile stream)
+3. Newsmax TV
+4. RT America
+5. Weather Network
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/us.m3u8
 
