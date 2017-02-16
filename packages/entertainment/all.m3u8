@@ -8,3 +8,5 @@ https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/enterta
 https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/music.m3u8
 #EXTINF:0,  >>> Podcasts
 https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/podcasts.m3u8
+#EXTINF:0,  >>> Anime
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/anime.m3u8
