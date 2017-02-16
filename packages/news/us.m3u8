@@ -1,5 +1,7 @@
 #EXTINF:0,CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:0,CBSN alt
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 #EXTINF:0,Newsmax TV
 http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
 #EXTINF:0,RT America
