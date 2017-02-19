@@ -5,7 +5,9 @@ An m3u8 playlist featuring many LEGALLY FREE IPTV streams. For use with VLC.
 I now have packages, allowing you to mix and match channel genres, allowing you to have only the channels YOU want in your lineup.
 
 <h3>Christianity</h3>
-Stream now at https://github.com/notanewbie/LegalStream/tree/master/packages/christianity
+
+Features 4 channels. Stream now at https://github.com/notanewbie/LegalStream/tree/master/packages/christianity
+
 <h4> Prosperity</h4>
 1. Daystar
 2. Hillsong Channel
@@ -19,7 +21,9 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/chr
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/christianity/protestant.m3u8
 
 <h3>Entertainment</h3>
-Stream now at https://github.com/notanewbie/LegalStream/tree/master/packages/entertainment
+
+Features 22 channels. Stream now at https://github.com/notanewbie/LegalStream/tree/master/packages/entertainment
+
 <h4>Comedy</h4>
 1. Adult Swim
 2. Adult Swim Animated Marathon
@@ -64,7 +68,7 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/ent
 
 <h3>News</h3>
 
-Stream now at https://github.com/notanewbie/LegalStream/tree/master/packages/news
+Features 39 channels. Stream now at https://github.com/notanewbie/LegalStream/tree/master/packages/news
 
 <h4>Live Events</h4>
 1. ABC News Digital
@@ -109,18 +113,42 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/new
 
 <h4>US News</h4>
 1. CBSN
-2. CBSN alt (mobile stream)
-3. Newsmax TV
-4. RT America
-5. Weather Network
+2. Newsmax TV
+3. RT America
+4. Weather Network
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/us.m3u8
 
 <h4>World News</h4>
 1. CBN News
-2. France 24
-3. RT News
-4. RT UK
-5. VOA
+2. CCTV 13 News
+3. France 24
+4. RT News
+5. RT UK
+6. VOA
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/world.m3u8
+
+<h3>Sports</h3>
+
+Features 8 channels. Stream now at https://github.com/notanewbie/LegalStream/tree/master/packages/sports
+
+<h4>Coverage</h4>
+1. 105.7 The Fan
+2. 106.7 The Fan
+3. NFL Now Live
+
+Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/sports/coverage.m3u8
+
+<h4>Live</h4>
+1. ACC Network
+2. NCAA Basketball on CBS
+3. NASCAR Live Event
+4. SEC on CBS
+
+Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/sports/live.m3u8
+
+<h4>Marathon</h4>
+1. Olympics Channel
+
+Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/sports/marathon.m3u8
