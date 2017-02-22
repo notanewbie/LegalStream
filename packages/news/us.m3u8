@@ -6,3 +6,5 @@ http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
 http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index.m3u8
 #EXTINF:0,Weather Network
 http://d383mxeq7zv96c.cloudfront.net/api/ott/getVideoStream/USNATIONAL/master.m3u8?country=us
+#EXTINF:0,WeatherNation TV
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
