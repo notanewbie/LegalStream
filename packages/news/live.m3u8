@@ -23,6 +23,8 @@ http://cnn-lh.akamaihd.net/i/cnndebates_1@352100/master.m3u8
 http://fnctvehd1-f.akamaihd.net/FNC_1_600@37340?v=3.9.0&p=aasp-3.9.0.19.11&fp=MAC 20,0,0,286&r=QPUSQ&g=LWCNQBOOITEE&primaryToken=st=1453498468~exp=1454078468~acl=/*~id=aaaabbbb744212575d85959674f9607ab26f67708a917157472832386337c904~hmac=2d40d7172054c532cccd41d29ed7dca559bbd882ac14dfcdc89f2b00317764d0
 #EXTINF:0,Fox News Convention Coverage
 http://fnurtmp-f.akamaihd.net/i/RNCPOOL_1@344188/master.m3u8
+#EXTINF:0,Fox News CPAC Coverage
+http://fnurtmp-f.akamaihd.net/i/1487857399769_01@436154/master.m3u8
 #EXTINF:0,Fox News Digital Hangout
 http://fnurtmp-f.akamaihd.net/i/DIGHANGOUT_1@344188/master.m3u8
 #EXTINF:0,Fox News Live Event
