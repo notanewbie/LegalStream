@@ -4,6 +4,8 @@ An m3u8 playlist featuring many LEGALLY FREE IPTV streams. For use with VLC.
 
 I now have packages, allowing you to mix and match channel genres, allowing you to have only the channels YOU want in your lineup.
 
+Example: https://github.com/notanewbie/My-Legalstream
+
 <h3>Christianity</h3>
 
 Features 4 channels. Stream now at https://github.com/notanewbie/LegalStream/tree/master/packages/christianity
