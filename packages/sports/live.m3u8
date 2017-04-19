@@ -1,5 +1,7 @@
 #EXTINF:0,ACC Network
 http://raycomhds-lh.akamaihd.net/i/hdslive_01@136338/master.m3u8
+#EXTINF:0,MLB Free Game of the Day
+http://dcarack03.vpg.cdn.yimg.com/live/dax-global/external/mlbgotd/mlbgotd_856.m3u8?a=mlbcom&ib=sapi&ih=6c12f8f1&ns=c+i+ci+cii+ps+flags+ru&s=2d0da2315bf7b197930dcc365b047031&vid=8f2936f3-177c-3730-a5eb-d9fa0e0bdb40&x=1492583011&ps=4o3x65u4&flags=marker_cslrtt+marker_csbrtt+marker_ar2+am_allow
 #EXTINF:0,NASCAR Live Event
 http://nascar_prhd-f.akamaihd.net/i/nascarliveevent_01@81650/master.m3u8
 #EXTINF:0,NCAA College Basketball on CBS
