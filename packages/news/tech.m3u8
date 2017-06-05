@@ -1,7 +1,3 @@
 #EXTM3U
 #EXTINF:0,TWiT
-http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
-#EXTINF:0,TWiT alt
-http://209.131.99.99/twit/live/low
-#EXTINF:0,WWDC 2017
-https://appleliveevents-i.akamaihd.net/hls/live/222436/17qopibbefvoiuhbsefvbsefvopihb06/master/4500/4500.m3u8
+https://video-edge-d5a4c8.iad03.hls.ttvnw.net/v0/CvYBG2X4EYY0kH0q25uh8CF7rHbUd1wlEMZ8u86wC8AC_a9jjgMji-QDDT26F8wfUt-VcBUKFuHa5_mYwi6oqo4ZE7bBWjxZ-dEZ25NEQBnm7AVMCfaCTMTGmUoVhCy8SDeByXYFx9Zk-7LKEZyHa5WMfgpwIWO60z_HSQprPwNeE--pwj7uSQDJEvv2Dze-Y8Xc8dA2SBohjBEEUTvWVY6u-wIpDKZzg2z46w2yfl1GoHrJEcKedbqdo1iI4pIC-xu60pbAQ7O1HB9SugDBnMmrjEzuF5GX041ylM_ApGbFxf3etMG7ATtR1glYbgBroCzKvIGkwIEIEhAB5hbcBB0ku_dCQ85R_bqOGgxDAwz3jrjx1Aoymvg/index-live.m3u8
