@@ -3,3 +3,5 @@
 http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
 #EXTINF:0,TWiT alt
 http://209.131.99.99/twit/live/low
+#EXTINF:0,WWDC 2017
+https://appleliveevents-i.akamaihd.net/hls/live/222436/17qopibbefvoiuhbsefvbsefvopihb06/master/4500/4500.m3u8
