@@ -41,6 +41,8 @@ http://fnurtmp-f.akamaihd.net/i/06LIVE_1@81838/master.m3u8
 http://fnurtmp-f.akamaihd.net/i/07LIVE_1@199242/master.m3u8
 #EXTINF:0,Fox News Live Event 7
 http://fnurtmp-f.akamaihd.net/i/08LIVE_1@199243/master.m3u8
+#EXTINF:0,Fox News Live Event 2017
+http://fnurtmp-f.akamaihd.net/i/1499778422052_01@345607/master.m3u8
 #EXTINF:0,msnbc Live Event
 http://msnbclive-lh.akamaihd.net/i/msnbc_live11@183423/master.m3u8
 #EXTINF:0,NBC News Live Event
