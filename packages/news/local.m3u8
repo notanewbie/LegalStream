@@ -1,8 +1,14 @@
 #EXTM3U
 #EXTINF:0,Fox 5 Washington DC (WTTG-TV)
 http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+#EXTINF:0,NBC Bay Area (KNTV-TV)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
+#EXTINF:0,NBC Bay Area Traffic Cam (KNTV-TV)
+http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
 #EXTINF:0,News4 (WRC-TV)
 http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:0,News4 White House Cam (WRC-TV)
+http://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 #EXTINF:0,NBC4 News (KNBC-TV)
 http://knbclive-f.akamaihd.net/i/knbca1_1@13988/master.m3u8
 #EXTINF:0,NBC 7 News (KNSD-TV)
