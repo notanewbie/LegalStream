@@ -27,6 +27,8 @@ http://wtvjlive-f.akamaihd.net/i/wtvja1_1@19309/master.m3u8
 http://knsdlive-f.akamaihd.net/i/knsdb1_1@71120/master.m3u8
 #EXTINF:0,NBC 10 News (KTEN-TV)
 http://kten-lh.akamaihd.net/i/KTEN_1079@5589/master.m3u8
+#EXTINF:0,WALB News10
+http://walb-lh.akamaihd.net/i/WALB_853@69286/master.m3u8
 #EXTINF:0,WBTV News
 http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
 #EXTINF:0,WPLG-TV
