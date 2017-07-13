@@ -43,19 +43,13 @@ http://fnurtmp-f.akamaihd.net/i/07LIVE_1@199242/master.m3u8
 http://fnurtmp-f.akamaihd.net/i/08LIVE_1@199243/master.m3u8
 #EXTINF:0,Fox News Live Event 2017
 http://fnurtmp-f.akamaihd.net/i/1499778422052_01@345607/master.m3u8
-#EXTINF:0,Fox 5 Washington DC (WTTG-TV)
-http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:0,msnbc Live Event
 http://msnbclive-lh.akamaihd.net/i/msnbc_live11@183423/master.m3u8
 #EXTINF:0,NBC News Live Event
 http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8
-#EXTINF:0,News4 (WRC-TV)
-http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 #EXTINF:0,Reuters Channel
 http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
 #EXTINF:0,Shift by msnbc
 http://msnbc2prod-lh.akamaihd.net/i/msnbc2_live01@9615/master.m3u8
-#EXTINF:0,WBTV News
-http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
 #EXTINF:0,WSJ Live
 http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
