@@ -11,6 +11,8 @@ http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 http://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 #EXTINF:0,NBC4 News (KNBC-TV)
 http://knbclive-f.akamaihd.net/i/knbca1_1@13988/master.m3u8
+#EXTINF:0,NBC5 News (WMAQ-TV)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
 #EXTINF:0,NBC 6 South Florida (WTVJ-TV)
 http://wtvjlive-f.akamaihd.net/i/wtvja1_1@19309/master.m3u8
 #EXTINF:0,NBC 7 News (KNSD-TV)
