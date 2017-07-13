@@ -16,7 +16,7 @@ Features 4 channels. Stream now at https://github.com/notanewbie/LegalStream/tre
 2. Hillsong Channel
 3. TBN
 
-Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/christianity/prosperity.m3u8
+Features 3 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/christianity/prosperity.m3u8
 
 <h4>Protestant</h4>
 
@@ -33,8 +33,9 @@ Features 22 channels. Stream now at https://github.com/notanewbie/LegalStream/tr
 1. Adult Swim
 2. Adult Swim Animated Marathon
 3. Adult Swim Live Action Marathon
+4. Rick & Morty 24/7 [NEW!]
 
-Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/comedy.m3u8
+Features 4 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/comedy.m3u8
 
 <h4>General</h4>
 
@@ -42,7 +43,7 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/ent
 2. BYU TV International
 3. Yes TV (geoblocked from certain countries)
 
-Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/general.m3u8
+Features 3 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/general.m3u8
 
 <h4>Kids</h4>
 
@@ -60,7 +61,7 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/ent
 6. Rap Ressurection
 7. Spirit Television
 
-Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/music.m3u8
+Features 7 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/music.m3u8
 
 <h4>Podcasts</h4>
 
@@ -73,7 +74,7 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/ent
 7. DiamondClub.tv Willie Dills
 8. DiamondClubs.tv Weird Things
 
-Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/podcasts.m3u8
+Features 8 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/podcasts.m3u8
 
 <h3>News</h3>
 
@@ -93,20 +94,50 @@ Features 39 channels. Stream now at https://github.com/notanewbie/LegalStream/tr
 10. CNN Debate
 11. FNC Live Event
 12. Fox News Convention Coverage
-13. Fox News Digital Hangout
-14. Fox News Live Event
-15. Fox News Live Event 2
-16. Fox News Live Event 3
-17. Fox News Live Event 4
-18. Fox News Live Event 5
-19. Fox News Live Event 6
-20. Fox News Live Event 7
-21. msnbc Live Event
-22. NBC News Live Event
-23. Shift by msnbc
-24. WSJ Live
+13. Fox News CPAC Coverage
+14. Fox News Digital Hangout
+15. Fox News Live Event
+16. Fox News Live Event 2
+17. Fox News Live Event 3
+18. Fox News Live Event 4
+19. Fox News Live Event 5
+20. Fox News Live Event 6
+21. Fox News Live Event 7
+22. Fox News Live Event 2017 [NEW!]
+23. msnbc Live Event
+24. NBC News Live Event
+25. Reuters Channel [NEW!]
+26. Shift by msnbc
+27. WSJ Live
 
-Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/live.m3u8
+Features 27 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/live.m3u8
+
+<h4>Local News [COMING SOON!]</h4>
+
+1. KOB4 News
+2. 7 News (WDHH-TV)
+3. Fox 5 Washington DC (WTTG-TV)
+4. NBC Bay Area (KNTV)
+5. NBC Bay Area Traffic Cam (KNTV-TV)
+6. NBC2 News (KTUU-TV)
+7. News4 (WRC-TV)
+8. News4 White House Cam (WRC-TV)
+9. NBC4 News (KNBC-TV)
+10. NBC4 New York News (WNBC-TV)
+11. NBC4 New York News (WNBC-TV) alt
+12. NBC5 News (KXAS-TV)
+13. NBC5 News (WMAQ-TV)
+14. NBC 6 South Florida (WTVJ-TV)
+15. NBC 7 News (KNSD-TV)
+16. NBC 10 News (KTEN-TV)
+17. NBC News Channel 13 (WNYT-TV)
+18. WALB News10
+19. WBTV News
+20. WCCB News Rising
+21. WPLG-TV
+22. WUSA9 Breaking News
+
+Features 22 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/local.m3u8
 
 <h4>Business News</h4>
 
@@ -119,16 +150,18 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/new
 <h4>Tech News</h4>
 
 1. TWiT
-2. TWiT alt
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/tech.m3u8
 
 <h4>US News</h4>
 
 1. CBSN
-2. Newsmax TV
-3. RT America
-4. Weather Network
+2. Fox News Talk
+3. Free Speech TV
+4. Newsmax TV
+5. RT America
+6. Weather Network
+7. WeatherNation TV
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/us.m3u8
 
@@ -158,14 +191,16 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/spo
 <h4>Live</h4>
 
 1. ACC Network
-2. NCAA Basketball on CBS
-3. NASCAR Live Event
-4. SEC on CBS
+2. NASCAR Live Event
+3. NCAA Basketball on CBS
+4. NHL Free Game of the Day [NEW!]
+5. SEC on CBS
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/sports/live.m3u8
 
 <h4>Marathon</h4>
 
 1. Olympics Channel
+2. NBC Olympics Channel [COMING SOON!]
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/sports/marathon.m3u8
