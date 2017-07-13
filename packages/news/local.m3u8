@@ -33,6 +33,8 @@ http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
 http://walb-lh.akamaihd.net/i/WALB_853@69286/master.m3u8
 #EXTINF:0,WBTV News
 http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+#EXTINF:0,WCCB News Rising
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 #EXTINF:0,WPLG-TV
 http://wtvjlive-f.akamaihd.net/i/wtvja2_1@19309/master.m3u8
 #EXTINF:0,WUSA9 Breaking News
