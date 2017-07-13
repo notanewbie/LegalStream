@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,7 News (WDHH-TV)
+http://bcoveliveios-i.akamaihd.net/hls/live/246496/4744899807001/livestream/master.m3u8
 #EXTINF:0,Fox 5 Washington DC (WTTG-TV)
 http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:0,NBC Bay Area (KNTV-TV)
