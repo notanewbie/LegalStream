@@ -4,7 +4,7 @@ http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 #EXTINF:0,CCTV 13 News
 http://ak.live.cntv.cn/i/cctv13dvr_1@167347/master.m3u8
 #EXTINF:0,CGTN America
-https://livestream-f.akamaihd.net/7082210_2743426_ae410ea5_1_678@190595
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
 #EXTINF:-1 tvg-id="300093" tvg-num="5",France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
 #EXTINF:0,RT News
