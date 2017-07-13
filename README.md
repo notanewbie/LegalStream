@@ -11,6 +11,7 @@ Example: https://github.com/notanewbie/My-Legalstream
 Features 4 channels. Stream now at https://github.com/notanewbie/LegalStream/tree/master/packages/christianity
 
 <h4> Prosperity</h4>
+
 1. Daystar
 2. Hillsong Channel
 3. TBN
@@ -18,6 +19,7 @@ Features 4 channels. Stream now at https://github.com/notanewbie/LegalStream/tre
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/christianity/prosperity.m3u8
 
 <h4>Protestant</h4>
+
 1. NRB Network
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/christianity/protestant.m3u8
@@ -27,6 +29,7 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/chr
 Features 22 channels. Stream now at https://github.com/notanewbie/LegalStream/tree/master/packages/entertainment
 
 <h4>Comedy</h4>
+
 1. Adult Swim
 2. Adult Swim Animated Marathon
 3. Adult Swim Live Action Marathon
@@ -34,6 +37,7 @@ Features 22 channels. Stream now at https://github.com/notanewbie/LegalStream/tr
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/comedy.m3u8
 
 <h4>General</h4>
+
 1. BYU TV
 2. BYU TV International
 3. Yes TV (geoblocked from certain countries)
@@ -41,11 +45,13 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/ent
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/general.m3u8
 
 <h4>Kids</h4>
+
 1. PBS Kids
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/kids.m3u8
 
 <h4>Music</h4>
+
 1. Christian Hip Hop Television
 2. Family Friendly Entertainment
 3. JUCE TV
@@ -57,6 +63,7 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/ent
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/music.m3u8
 
 <h4>Podcasts</h4>
+
 1. DiamondClub.tv 24/7
 2. DiamondClub.tv CordKillers
 3. DiamondClub.tv GonnaGeek
@@ -73,6 +80,7 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/ent
 Features 39 channels. Stream now at https://github.com/notanewbie/LegalStream/tree/master/packages/news
 
 <h4>Live Events</h4>
+
 1. ABC News Digital
 2. ABC News Digital 2
 3. ABC News Digital 3
@@ -101,6 +109,7 @@ Features 39 channels. Stream now at https://github.com/notanewbie/LegalStream/tr
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/live.m3u8
 
 <h4>Business News</h4>
+
 1. Bloomberg Asia
 2. Bloomberg Europe
 3. Bloomberg US
@@ -108,12 +117,14 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/new
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/money.m3u8
 
 <h4>Tech News</h4>
+
 1. TWiT
 2. TWiT alt
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/tech.m3u8
 
 <h4>US News</h4>
+
 1. CBSN
 2. Newsmax TV
 3. RT America
@@ -122,6 +133,7 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/new
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/us.m3u8
 
 <h4>World News</h4>
+
 1. CBN News
 2. CCTV 13 News
 3. France 24
@@ -136,6 +148,7 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/new
 Features 8 channels. Stream now at https://github.com/notanewbie/LegalStream/tree/master/packages/sports
 
 <h4>Coverage</h4>
+
 1. 105.7 The Fan
 2. 106.7 The Fan
 3. NFL Now Live
@@ -143,6 +156,7 @@ Features 8 channels. Stream now at https://github.com/notanewbie/LegalStream/tre
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/sports/coverage.m3u8
 
 <h4>Live</h4>
+
 1. ACC Network
 2. NCAA Basketball on CBS
 3. NASCAR Live Event
@@ -151,6 +165,7 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/spo
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/sports/live.m3u8
 
 <h4>Marathon</h4>
+
 1. Olympics Channel
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/sports/marathon.m3u8
