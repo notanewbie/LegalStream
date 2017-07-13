@@ -8,3 +8,5 @@ https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/te
 https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/us.m3u8
 #EXTINF:0,  >>> World News
 https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/world.m3u8
+#EXTINF:0,  >>> Local News
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/local.m3u8
