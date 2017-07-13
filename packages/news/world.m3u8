@@ -2,7 +2,7 @@
 #EXTINF:0,CBN News
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 #EXTINF:0,CCTV 13 News
-http://ak.live.cntv.cn/i/cctv13dvr_1@167347/master.m3u8?AUTH=ip%3D108.18.248.241%7Est%3D1487259429%7Eexp%3D1487345829%7Eacl%3D%2F*%7Ehmac%3D9c77e6b66de8c3815d271df2a8999f044c502ceb72b8e8be2437cdceee393a82
+http://ak.live.cntv.cn/i/cctv13dvr_1@167347/master.m3u8
 #EXTINF:0,CGTN America
 https://livestream-f.akamaihd.net/7082210_2743426_ae410ea5_1_678@190595
 #EXTINF:-1 tvg-id="300093" tvg-num="5",France 24
