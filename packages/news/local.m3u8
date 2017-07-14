@@ -45,6 +45,8 @@ http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
 http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
 #EXTINF:0,NewsWest 9 KWES
 http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+#EXTINF:0,SWX Right Now
+http://khq-lh.akamaihd.net/i/KHQ_1194@18032/master.m3u8?forceCacheClearSM=154221100000
 #EXTINF:0,WALB News10
 http://walb-lh.akamaihd.net/i/WALB_853@69286/master.m3u8
 #EXTINF:0,WBTV News
