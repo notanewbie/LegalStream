@@ -9,6 +9,8 @@ http://bcoveliveios-i.akamaihd.net/hls/live/246496/4744899807001/livestream/mast
 http://wxia-lh.akamaihd.net/i/WXIALive_1@342562/master.m3u8
 #EXTINF:0,Fox 5 Washington DC (WTTG-TV)
 http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+#EXTINF:0,KXAN News
+http://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
 #EXTINF:0,NBC Bay Area (KNTV-TV)
 http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
 #EXTINF:0,NBC Bay Area Traffic Cam (KNTV-TV)
