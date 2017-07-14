@@ -144,6 +144,7 @@ Features 27 channels. Stream now at https://github.com/notanewbie/LegalStream/bl
 28. WLBZ2 [NEW!]
 29. WPLG-TV
 30. WUSA9 Breaking News
+31. WXXV25 24/7 [NEW!]
 
 Features 22 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/local.m3u8
 
