@@ -114,29 +114,33 @@ Features 27 channels. Stream now at https://github.com/notanewbie/LegalStream/bl
 
 <h4>Local News [NEW!]</h4>
 
-1. District of Columbia Network [NEW!]
-2. KOB4 News
-3. 7 News (WDHH-TV)
-4. Fox 5 Washington DC (WTTG-TV)
-5. NBC Bay Area (KNTV)
-6. NBC Bay Area Traffic Cam (KNTV-TV)
-7. NBC2 News (KTUU-TV)
-8. News4 (WRC-TV)
-9. News4 White House Cam (WRC-TV)
-10. NBC4 News (KNBC-TV)
-11. NBC4 New York News (WNBC-TV)
-12. NBC4 New York News (WNBC-TV) alt
-13. NBC5 News (KXAS-TV)
-14. NBC5 News (WMAQ-TV)
-15. NBC 6 South Florida (WTVJ-TV)
-16. NBC 7 News (KNSD-TV)
-17. NBC 10 News (KTEN-TV)
-18. NBC News Channel 13 (WNYT-TV)
-19. WALB News10
-20. WBTV News
-21. WCCB News Rising
-22. WPLG-TV
-23. WUSA9 Breaking News
+1. 7 News (WDHH-TV)
+2. 11Alive (WXIA-TV) [NEW!]
+3. 12 News Now (KBMT-TV) [NEW!]
+4. District of Columbia Network [NEW!]
+5. KOB4 News
+6. KXAN News [NEW!]
+7. Fox 5 Washington DC (WTTG-TV)
+8. NBC Bay Area (KNTV)
+9. NBC Bay Area Traffic Cam (KNTV-TV)
+10. NBC2 News (KTUU-TV)
+11. News4 (WRC-TV)
+12. News4 White House Cam (WRC-TV)
+13. NBC4 News (KNBC-TV)
+14. NBC4 New York News (WNBC-TV)
+15. NBC4 New York News (WNBC-TV) alt
+16. NBC5 News (KXAS-TV)
+17. NBC5 News (WMAQ-TV)
+18. NBC 6 South Florida (WTVJ-TV)
+19. NBC 7 News (KNSD-TV)
+20. NBC 10 News (KTEN-TV)
+21. NBC News Channel 13 (WNYT-TV)
+22. WALB News10
+23. WBTV News
+24. WCCB News Rising
+25. WLBZ2 [NEW!]
+26. WPLG-TV
+27. WUSA9 Breaking News
 
 Features 22 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/local.m3u8
 
