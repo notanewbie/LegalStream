@@ -7,6 +7,8 @@ http://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/246496/4744899807001/livestream/master.m3u8
 #EXTINF:0,11Alive (WXIA-TV)
 http://wxia-lh.akamaihd.net/i/WXIALive_1@342562/master.m3u8
+#EXTINF:0,12News Now (KBMT-TV)
+http://kjac-lh.akamaihd.net/i/KJACLive_1@359455/master.m3u8
 #EXTINF:0,Fox 5 Washington DC (WTTG-TV)
 http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:0,KXAN News
@@ -45,6 +47,8 @@ http://walb-lh.akamaihd.net/i/WALB_853@69286/master.m3u8
 http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
 #EXTINF:0,WCCB News Rising
 http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+#EXTINF:0,WLBZ2
+http://wlbz-lh.akamaihd.net/i/WLBZ_Live_1@27474/master.m3u8
 #EXTINF:0,WPLG-TV
 http://wtvjlive-f.akamaihd.net/i/wtvja2_1@19309/master.m3u8
 #EXTINF:0,WUSA9 Breaking News
