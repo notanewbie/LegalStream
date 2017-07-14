@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:0,KOB4 News
 http://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
 #EXTINF:0,7 News (WDHH-TV)
