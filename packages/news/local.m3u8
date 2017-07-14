@@ -59,3 +59,5 @@ http://wlbz-lh.akamaihd.net/i/WLBZ_Live_1@27474/master.m3u8
 http://wtvjlive-f.akamaihd.net/i/wtvja2_1@19309/master.m3u8
 #EXTINF:0,WUSA9 Breaking News
 http://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+#EXTINF:0,WXXV25 24/7
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
