@@ -129,22 +129,24 @@ Features 27 channels. Stream now at https://github.com/notanewbie/LegalStream/bl
 13. NBC4 News (KNBC-TV)
 14. NBC4 New York News (WNBC-TV)
 15. NBC4 New York News (WNBC-TV) alt
-16. NBC5 News (KXAS-TV)
-17. NBC5 News (WMAQ-TV)
-18. NBC 6 South Florida (WTVJ-TV)
-19. NBC 7 News (KNSD-TV)
-20. NBC 10 News (KTEN-TV)
-21. NBC News Channel 13 (WNYT-TV)
-22. News Channel 12 KTVZ
-23. NewsWest 9 KWES [NEW!]
-24. SWX Right Now [NEW!]
-25. WALB News10
-26. WBTV News
-27. WCCB News Rising
-28. WLBZ2 [NEW!]
-29. WPLG-TV
-30. WUSA9 Breaking News
-31. WXXV25 24/7 [NEW!]
+16. NBC5 KFYR-TV [NEW!]
+17. NBC5 KFYR-TV alt [NEW!]
+18. NBC5 News (KXAS-TV)
+19. NBC5 News (WMAQ-TV)
+20. NBC 6 South Florida (WTVJ-TV)
+21. NBC 7 News (KNSD-TV)
+22. NBC 10 News (KTEN-TV)
+23. NBC News Channel 13 (WNYT-TV)
+24. News Channel 12 KTVZ
+25. NewsWest 9 KWES [NEW!]
+26. SWX Right Now [NEW!]
+27. WALB News10
+28. WBTV News
+29. WCCB News Rising
+30. WLBZ2 [NEW!]
+31. WPLG-TV
+32. WUSA9 Breaking News
+33. WXXV25 24/7 [NEW!]
 
 Features 22 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/local.m3u8
 
