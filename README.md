@@ -135,12 +135,13 @@ Features 27 channels. Stream now at https://github.com/notanewbie/LegalStream/bl
 19. NBC 7 News (KNSD-TV)
 20. NBC 10 News (KTEN-TV)
 21. NBC News Channel 13 (WNYT-TV)
-22. WALB News10
-23. WBTV News
-24. WCCB News Rising
-25. WLBZ2 [NEW!]
-26. WPLG-TV
-27. WUSA9 Breaking News
+22. News Channel 12 KTVZ
+23. WALB News10
+24. WBTV News
+25. WCCB News Rising
+26. WLBZ2 [NEW!]
+27. WPLG-TV
+28. WUSA9 Breaking News
 
 Features 22 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/local.m3u8
 
