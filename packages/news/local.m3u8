@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:0,District of Columbia Network
-http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:0,KOB4 News
-http://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
-#EXTINF:0,NewsChannel 12 KTVZ
-http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
 #EXTINF:0,7 News (WDHH-TV)
 http://bcoveliveios-i.akamaihd.net/hls/live/246496/4744899807001/livestream/master.m3u8
 #EXTINF:0,11Alive (WXIA-TV)
 http://wxia-lh.akamaihd.net/i/WXIALive_1@342562/master.m3u8
 #EXTINF:0,12News Now (KBMT-TV)
 http://kjac-lh.akamaihd.net/i/KJACLive_1@359455/master.m3u8
+#EXTINF:0,District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:0,KOB4 News
+http://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
+#EXTINF:0,NewsChannel 12 KTVZ
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
 #EXTINF:0,Fox 5 Washington DC (WTTG-TV)
 http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:0,KXAN News
