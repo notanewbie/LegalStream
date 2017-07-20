@@ -2,5 +2,7 @@
 http://brightcove03-f.akamaihd.net/daystar_HD_720@112478
 #EXTINF:0,Hillsong Channel
 http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
+#EXTINF:0,Praise Temple
+http://cdn.media7.truegod.tv/ptlive/smil:praisetemple.smil/playlist.m3u8
 #EXTINF:0,TBN
 http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
