@@ -14,7 +14,8 @@ Features 4 channels. Stream now at https://github.com/notanewbie/LegalStream/tre
 
 1. Daystar
 2. Hillsong Channel
-3. TBN
+3. Praise Temple [NEW!]
+4. TBN
 
 Features 3 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/christianity/prosperity.m3u8
 
