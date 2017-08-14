@@ -172,12 +172,13 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/new
 <h4>US News</h4>
 
 1. CBSN
-2. Fox News Talk
-3. Free Speech TV
-4. Newsmax TV
-5. RT America
-6. Weather Network
-7. WeatherNation TV
+2. CRN Digital Webcam
+3. Fox News Talk
+4. Free Speech TV
+5. Newsmax TV
+6. RT America
+7. Weather Network
+8. WeatherNation TV
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/us.m3u8
 
