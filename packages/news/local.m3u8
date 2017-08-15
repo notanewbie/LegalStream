@@ -61,6 +61,8 @@ http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 http://wlbz-lh.akamaihd.net/i/WLBZ_Live_1@27474/master.m3u8
 #EXTINF:0,WPLG-TV
 http://wtvjlive-f.akamaihd.net/i/wtvja2_1@19309/master.m3u8
+#EXTINF:0,WPRO
+http://c742ef32-lp-live.ums.ustream.tv/playlist/auditorium/channel/5940267/playlist.m3u8?token=223313_1502802287753&appType=11&appVersion=2&ts=1502802287&chunkingType=improved&geo=US&sgn=d3d5b9bb917f4997dcbcb14d11597ae4f72189f2&cdnHost=uhs-akamai.ustream.tv/
 #EXTINF:0,WUSA9 Breaking News
 http://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
 #EXTINF:0,WXXV25 24/7
