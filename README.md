@@ -150,8 +150,9 @@ Features 27 channels. Stream now at https://github.com/notanewbie/LegalStream/bl
 29. WCCB News Rising
 30. WLBZ2 [NEW!]
 31. WPLG-TV
-32. WUSA9 Breaking News
-33. WXXV25 24/7 [NEW!]
+32. WPRO
+33. WUSA9 Breaking News
+34. WXXV25 24/7 [NEW!]
 
 Features 22 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/local.m3u8
 
