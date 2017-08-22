@@ -186,7 +186,7 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/new
 <h4>World News</h4>
 
 1. CBN News
-2. CCTV 13 News
+2. CGTN English
 3. France 24
 4. RT News
 5. RT UK
