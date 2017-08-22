@@ -204,6 +204,7 @@ Features 8 channels. Stream now at https://github.com/notanewbie/LegalStream/tre
 2. 106.7 The Fan
 3. Campus Insiders
 4. NFL Now Live
+5. Stadium
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/sports/coverage.m3u8
 
