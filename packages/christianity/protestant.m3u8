@@ -1,9 +1,5 @@
 #EXTINF:0,CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:0,Legacy 360
-http://cdn.media7.truegod.tv/thelegacy/mp4:lmservices360/playlist.m3u8
-#EXTINF:0,Legacy Conference
-http://cdn.media7.truegod.tv/thelegacy/smil:legacy.smil/playlist.m3u8
 #EXTINF:0,NRB Network
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:0,St. Peter's Church Live
