@@ -1,11 +1,9 @@
 #EXTINF:0,DiamondClub.tv 24/7
-http://ks1.diamondclub.tv/hls2/dctv.m3u8
+https://ingest.diamondclub.tv/hls2/dctv.m3u8
 #EXTINF:0,DiamondClub.tv CordKillers
-http://ks1.diamondclub.tv/hls4/cordkillers.m3u8
+https://ingest.diamondclub.tv/hls4/cordkillers.m3u8
 #EXTINF:0,DiamondClub.tv GonnaGeek
 http://ingest.diamondclub.tv/hls4/gonnageek.m3u8
-#EXTINF:0,DiamondClub.tv Mike TV
-https://usher.ttvnw.net/api/channel/hls/miketvlive.m3u8
 #EXTINF:0,DiamondClub.tv OMGChad!
 https://usher.ttvnw.net/api/channel/hls/omgchad.m3u8
 #EXTINF:0,DiamondClub.tv Online Tenky
