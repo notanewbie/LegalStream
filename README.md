@@ -68,13 +68,12 @@ Features 7 channels. Stream now at https://github.com/notanewbie/LegalStream/blo
 1. DiamondClub.tv 24/7
 2. DiamondClub.tv CordKillers
 3. DiamondClub.tv GonnaGeek
-4. DiamondClub.tv Mike TV
-5. DiamondClub.tv OMGChad!
-6. DiamondClub.tv Online Tenky
-7. DiamondClub.tv Willie Dills
-8. DiamondClubs.tv Weird Things
+4. DiamondClub.tv OMGChad!
+5. DiamondClub.tv Online Tenky
+6. DiamondClub.tv Willie Dills
+7. DiamondClubs.tv Weird Things
 
-Features 8 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/podcasts.m3u8
+Features 7 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/podcasts.m3u8
 
 <h3>News</h3>
 
