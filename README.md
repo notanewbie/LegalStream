@@ -34,11 +34,8 @@ Features 22 channels. Stream now at https://github.com/notanewbie/LegalStream/tr
 <h4>Comedy</h4>
 
 1. Adult Swim
-2. Adult Swim Animated Marathon
-3. Adult Swim Live Action Marathon
-4. Rick & Morty 24/7 [NEW!]
 
-Features 4 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/comedy.m3u8
+Features 1 channel. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/comedy.m3u8
 
 <h4>General</h4>
 
