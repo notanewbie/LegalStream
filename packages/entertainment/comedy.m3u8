@@ -1,8 +1,2 @@
 #EXTINF:0,Adult Swim
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
-#EXTINF:0,Adult Swim Animated Marathon
-http://amd.cdn.turner.com/adultswim/big/streams/playlists/animated-marathon.m3u8
-#EXTINF:0,Adult Swim Live Action Marathon
-http://amd.cdn.turner.com/adultswim/big/streams/playlists/live-action-marathon.m3u8
-#EXTINF:0,Rick & Morty 24/7
-https://adultswimhls-i.akamaihd.net/hls/live/249294/adultswim_5/main/1/stream.m3u8
