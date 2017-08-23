@@ -22,10 +22,8 @@ Features 3 channels. Stream now at https://github.com/notanewbie/LegalStream/blo
 <h4>Protestant</h4>
 
 1. CBN
-2. Legacy 360 [NEW!]
-3. Legacy Conference [NEW!]
-4. NRB Network
-5. St. Peter's Church Live [NEW!]
+2. NRB Network
+3. St. Peter's Church Live [NEW!]
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/christianity/protestant.m3u8
 
