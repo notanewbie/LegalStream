@@ -2,6 +2,8 @@
 http://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:0,CRN Digital Webcam
 http://edge1.tikilive.com:1935/html5_tikilive/33657/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTMzNjU3JmNOYW1lPWNybnN0dWRpb2xpdmUmb0lEPTEzNDE1OCZvTmFtZT1jcm5kaWdpdGFsdGFsayZzSWQ9aTZjMm44MGZkazRkYWwwYzY1aDc5YmNlcTMmdUlEPTAmdU5hbWU9R3Vlc3RkYWE2Yg==&id=TqLMODDkVIPO0kFQEts8
+#EXTINF:0,FNC Preview (No Audio)
+http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/master.m3u8
 #EXTINF:0,Fox News Talk
 http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
 #EXTINF:0,Free Speech TV
