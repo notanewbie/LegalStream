@@ -208,10 +208,11 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/spo
 <h4>Live</h4>
 
 1. ACC Network
-2. NASCAR Live Event
-3. NCAA Basketball on CBS
-4. NHL Free Game of the Day [NEW!]
-5. SEC on CBS
+2. Hillsdale Football
+3. NASCAR Live Event
+4. NCAA Basketball on CBS
+5. NHL Free Game of the Day [NEW!]
+6. SEC on CBS
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/sports/live.m3u8
 
