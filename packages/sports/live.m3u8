@@ -1,5 +1,7 @@
 #EXTINF:0,ACC Network
 http://raycomhds-lh.akamaihd.net/i/hdslive_01@136338/master.m3u8
+#EXTINF:0,Hillsdale Football
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/hillsdalevideo/playlist.m3u8
 #EXTINF:0,NASCAR Live Event
 http://nascar_prhd-f.akamaihd.net/i/nascarliveevent_01@81650/master.m3u8
 #EXTINF:0,NCAA College Basketball on CBS
