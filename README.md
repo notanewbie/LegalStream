@@ -140,14 +140,16 @@ Features 27 channels. Stream now at https://github.com/notanewbie/LegalStream/bl
 24. News Channel 12 KTVZ
 25. NewsWest 9 KWES [NEW!]
 26. SWX Right Now [NEW!]
-27. WALB News10
-28. WBTV News
-29. WCCB News Rising
-30. WLBZ2 [NEW!]
-31. WPLG-TV
-32. WPRO
-33. WUSA9 Breaking News
-34. WXXV25 24/7 [NEW!]
+27. Town of Vienna Community Network [NEW!]
+28. Town of Vienna Community Network [HQ] [NEW!]
+29. WALB News10
+30. WBTV News
+31. WCCB News Rising
+32. WLBZ2 [NEW!]
+33. WPLG-TV
+34. WPRO
+35. WUSA9 Breaking News
+36. WXXV25 24/7 [NEW!]
 
 Features 22 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/local.m3u8
 
