@@ -172,13 +172,12 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/new
 1. CBSN
 2. CRN Digital Webcam
 3. FNC Preview (No Audio)
-4. FNC Preview
-5. Fox News Talk
-6. Free Speech TV
-7. Newsmax TV
-8. RT America
-9. Weather Network
-10. WeatherNation TV
+4. Fox News Talk
+5. Free Speech TV
+6. Newsmax TV
+7. RT America
+8. Weather Network
+9. WeatherNation TV
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/us.m3u8
 
@@ -221,6 +220,6 @@ Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/spo
 <h4>Marathon</h4>
 
 1. Olympics Channel
-2. NBC Olympics Channel [COMING SOON!]
+2. Red Bull TV
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/sports/marathon.m3u8
