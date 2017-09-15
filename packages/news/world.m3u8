@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,ABC News Channel
+http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
 #EXTINF:0,CBN News
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 #EXTINF:0,CGTN America
