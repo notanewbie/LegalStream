@@ -13,6 +13,12 @@ http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 http://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
 #EXTINF:0,KXAN News
 http://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
+#EXTINF:0,LTV
+http://pub.leominster.tv:1934/Pub/smil:Pub.smil/playlist.m3u8
+#EXTINF:0,LTV EDU
+http://edu.leominster.tv:1932/Edu/smil:Edu.smil/playlist.m3u8
+#EXTINF:0,LTV GOV
+http://gov.leominster.tv:1933/Gov/smil:Gov.smil/playlist.m3u8
 #EXTINF:0,NBC Bay Area (KNTV-TV)
 http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
 #EXTINF:0,NBC Bay Area Traffic Cam (KNTV-TV)
