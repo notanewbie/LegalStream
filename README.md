@@ -41,7 +41,10 @@ Features 1 channel. Stream now at https://github.com/notanewbie/LegalStream/blob
 
 1. BYU TV
 2. BYU TV International
-3. Yes TV (geoblocked from certain countries)
+3. Nature Vision
+4. Pursuit Channel
+5. TACH
+6. Yes TV (geoblocked from certain countries)
 
 Features 3 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/general.m3u8
 
