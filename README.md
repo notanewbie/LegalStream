@@ -124,35 +124,38 @@ Features 27 channels. Stream now at https://github.com/notanewbie/LegalStream/bl
 5. KOB4 News
 6. KXAN News [NEW!]
 7. Fox 5 Washington DC (WTTG-TV)
-8. NBC Bay Area (KNTV)
-9. NBC Bay Area Traffic Cam (KNTV-TV)
-10. NBC2 News (KTUU-TV)
-11. News4 (WRC-TV)
-12. News4 White House Cam (WRC-TV)
-13. NBC4 News (KNBC-TV)
-14. NBC4 New York News (WNBC-TV)
-15. NBC4 New York News (WNBC-TV) alt
-16. NBC5 KFYR-TV [NEW!]
-17. NBC5 KFYR-TV alt [NEW!]
-18. NBC5 News (KXAS-TV)
-19. NBC5 News (WMAQ-TV)
-20. NBC 6 South Florida (WTVJ-TV)
-21. NBC 7 News (KNSD-TV)
-22. NBC 10 News (KTEN-TV)
-23. NBC News Channel 13 (WNYT-TV)
-24. News Channel 12 KTVZ
-25. NewsWest 9 KWES [NEW!]
-26. SWX Right Now [NEW!]
-27. Town of Vienna Community Network [NEW!]
-28. Town of Vienna Community Network [HQ] [NEW!]
-29. WALB News10
-30. WBTV News
-31. WCCB News Rising
-32. WLBZ2 [NEW!]
-33. WPLG-TV
-34. WPRO
-35. WUSA9 Breaking News
-36. WXXV25 24/7 [NEW!]
+8. LTV [NEW!]
+9. LTV EDU [NEW!]
+10. LTV GOV [NEW!]
+11. NBC Bay Area (KNTV)
+12. NBC Bay Area Traffic Cam (KNTV-TV)
+13. NBC2 News (KTUU-TV)
+14. News4 (WRC-TV)
+15. News4 White House Cam (WRC-TV)
+16. NBC4 News (KNBC-TV)
+17. NBC4 New York News (WNBC-TV)
+18. NBC4 New York News (WNBC-TV) alt
+19. NBC5 KFYR-TV [NEW!]
+20. NBC5 KFYR-TV alt [NEW!]
+21. NBC5 News (KXAS-TV)
+22. NBC5 News (WMAQ-TV)
+23. NBC 6 South Florida (WTVJ-TV)
+24. NBC 7 News (KNSD-TV)
+25. NBC 10 News (KTEN-TV)
+26. NBC News Channel 13 (WNYT-TV)
+27. News Channel 12 KTVZ
+28. NewsWest 9 KWES [NEW!]
+29. SWX Right Now [NEW!]
+30. Town of Vienna Community Network [NEW!]
+31. Town of Vienna Community Network [HQ] [NEW!]
+32. WALB News10
+33. WBTV News
+34. WCCB News Rising
+35. WLBZ2 [NEW!]
+36. WPLG-TV
+37. WPRO
+38. WUSA9 Breaking News
+39. WXXV25 24/7 [NEW!]
 
 Features 22 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/local.m3u8
 
