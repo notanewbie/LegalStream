@@ -1,0 +1,22 @@
+#EXTINF:0,California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:0,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:0,Channel AKA
+http://live.aatw.simplestreamcdn.com/aka/live.m3u8
+#EXTINF:0,Chilled TV
+http://live.aatw.simplestreamcdn.com/chilled/live.m3u8
+#EXTINF:0,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0,JUCE TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+#EXTINF:0,KHZTV
+http://rbc.streamguys.com/khztv/khztv/playlist.m3u8
+#EXTINF:0,Kiss TV
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-desktop.m3u8
+#EXTINF:0,Now Music TV
+http://live.aatw.simplestreamcdn.com/now/live.m3u8
+#EXTINF:0,RitmoVision
+https://gcdn.2mdn.net/api/manifest/hls_playlist/id/155da8caa1c58d36/itag/94/source/doubleclick_dmm/requiressl/yes/ratebypass/yes/pfa/1/goi/160/sgoap/clen%3D478913%3Bdur%3D30.093%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1500064283497641/sgovp/clen%3D3154241%3Bdur%3D30.029%3Bgir%3Dyes%3Bitag%3D135%3Blmt%3D1500064287689509/hls_chunk_host/r6---sn-p5qlsnsd.c.2mdn.net/playlist_type/LIVE/ei/MyppWZjXI8G1qgXh3rPoDw/mm/42/mn/sn-p5qlsnsd/ms/onc/mv/m/pl/16/dover/6/mt/1505758520/ip/108.45.130.179/ipbits/0/expire/3644512307/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,pfa,goi,sgoap,sgovp,hls_chunk_host,playlist_type,ei,mm,mn,ms,mv,pl/signature/690E023F5FFBDBF4A80397ACF839C67B9ED68953.54DCD0BAF2E1B6DD8347CF57A1EF51116F4D088F/key/ck2/playlist/index.m3u8
+#EXTINF:0,Spirit Television
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit1/playlist.m3u8
