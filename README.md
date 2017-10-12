@@ -95,17 +95,18 @@ Features 39 channels. Stream now at https://github.com/notanewbie/LegalStream/tr
 8. C-SPAN 2 Live Event
 9. C-SPAN 3 Live Event
 10. CNN Debate
-11. FOX Live Event [NEW!]
-12. Fox News Convention Coverage
-13. Fox News CPAC Coverage
-14. Fox News Digital Hangout
-15. msnbc Live Event
-16. NBC News Live Event
-17. Reuters Channel [NEW!]
-18. Shift by msnbc
-19. WSJ Live
+11. CNN Live Event [NEW!]
+12. FOX Live Event [NEW!]
+13. Fox News Convention Coverage
+14. Fox News CPAC Coverage
+15. Fox News Digital Hangout
+16. msnbc Live Event
+17. NBC News Live Event
+18. Reuters Channel [NEW!]
+19. Shift by msnbc
+20. WSJ Live
 
-Features 19 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/live.m3u8
+Features 20 channels. Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/news/live.m3u8
 
 <h4>Local News [NEW!]</h4>
 
