@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Bloomberg Asia
-https://cdn-videos.akamaized.net/btv/zixi/cloudfront/asia/live/primary.m3u8
+https://mediaapnortheast.akamaized.net/btv/desktop/live.m3u8
 #EXTINF:0,Bloomberg Europe
-https://cdn-videos.akamaized.net/btv/zixi/fastly/europe/live/primary.m3u8
+https://live-bloomberg-eu-west.global.ssl.fastly.net/btv/desktop/live.m3u8
 #EXTINF:0,Bloomberg US
-https://cdn-videos.akamaized.net/btv/zixi/fastly/us/live/primary.m3u8
+https://live-bloomberg-us-east.global.ssl.fastly.net/btv/desktop/live.m3u8
