@@ -3,10 +3,10 @@ https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
 #EXTINF:0,BYUTV International
 https://byubhls-i.akamaihd.net/hls/live/267282/byutvintport/master.m3u8
 #EXTINF:0,Nature Vision
-http://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/ntrnaturevision/playlist.m3u8
+https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/ntrnaturevision/playlist.m3u8
 #EXTINF:0,Pursuit Channel
-http://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/pursuitlive/playlist.m3u8
+https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/pursuitlive/playlist.m3u8
 #EXTINF:0,TACH
-http://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/tach/playlist.m3u8
+https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/tach/playlist.m3u8
 #EXTINF:0,Yes TV
 http://stream-live-edge-a01.crossroadscloud.com:8081/yestv-ont-multibit/yestv-ont-multibit/playlist.m3u8
