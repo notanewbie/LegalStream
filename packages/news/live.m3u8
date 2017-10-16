@@ -1,57 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABCN1" tvg-num="101",ABC News Digital
-http://abclive.abcnews.com/i/abc_live1@136327/master.m3u8
+https://abclive.abcnews.com/i/abc_live1@136327/master.m3u8
 #EXTINF:0 tvg-id="ABCN2",ABC News Digital 2
-http://abclive.abcnews.com/i/abc_live2@136328/master.m3u8
+https://abclive.abcnews.com/i/abc_live2@136328/master.m3u8
 #EXTINF:0 tvg-id="ABCN3",ABC News Digital 3
-http://abclive.abcnews.com/i/abc_live3@136329/master.m3u8
+https://abclive.abcnews.com/i/abc_live3@136329/master.m3u8
 #EXTINF:0 tvg-id="ABCN4",ABC News Digital 4
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+https://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 #EXTINF:0 tvg-id="ABCN5",ABC News Digital 5
-http://abclive.abcnews.com/i/abc_live5@136331/master.m3u8
+https://abclive.abcnews.com/i/abc_live5@136331/master.m3u8
 #EXTINF:0,C-SPAN.org Live Event
 http://dotorg1-lh.akamaihd.net/i/dotorg1_1@301849/master.m3u8
 #EXTINF:0,C-SPAN Live Event
-http://cspan1nontve-lh.akamaihd.net/i/CSpan1NonTVE_1@312667/master.m3u8
+https://cspan1nontve-lh.akamaihd.net/i/CSpan1NonTVE_1@312667/master.m3u8
 #EXTINF:0,C-SPAN 2 Live Event
-http://cspan2nontve-lh.akamaihd.net/i/CSpan2NonTVE_1@312669/master.m3u8
+https://cspan2nontve-lh.akamaihd.net/i/CSpan2NonTVE_1@312669/master.m3u8
 #EXTINF:0,C-SPAN 3 Live Event
-http://cspan3nontve-lh.akamaihd.net/i/CSpan3NonTVE_1@312670/master.m3u8
+https://cspan3nontve-lh.akamaihd.net/i/CSpan3NonTVE_1@312670/master.m3u8
 #EXTINF:0,CNN Debate
 http://cnn-lh.akamaihd.net/i/cnndebates_1@352100/master.m3u8
 #EXTINF:0,CNN Live Event
 https://cnn-i.akamaihd.net/hls/live/253955/dotcomlive_3/v2/master.m3u8?__b__=650
 #EXTINF:0,FOX Live Event
-http://fnurtmp-f.akamaihd.net/i/1506940541851_01@335695/master.m3u8
+https://fnurtmp-f.akamaihd.net/i/1506940541851_01@335695/master.m3u8
 #EXTINF:0,Fox News Convention Coverage
-http://fnurtmp-f.akamaihd.net/i/RNCPOOL_1@344188/master.m3u8
+https://fnurtmp-f.akamaihd.net/i/RNCPOOL_1@344188/master.m3u8
 #EXTINF:0,Fox News CPAC Coverage
-http://fnurtmp-f.akamaihd.net/i/1487857399769_01@436154/master.m3u8
+https://fnurtmp-f.akamaihd.net/i/1487857399769_01@436154/master.m3u8
 #EXTINF:0,Fox News Digital Hangout
-http://fnurtmp-f.akamaihd.net/i/DIGHANGOUT_1@344188/master.m3u8
-#EXTINF:0,Fox News Live Event
-http://fnurtmp-f.akamaihd.net/i/02LIVE_1@81834/master.m3u8
-#EXTINF:0,Fox News Live Event 2
-http://fnurtmp-f.akamaihd.net/i/03LIVE_1@81835/master.m3u8
-#EXTINF:0,Fox News Live Event 3
-http://fnurtmp-f.akamaihd.net/i/04LIVE_1@81836/master.m3u8
-#EXTINF:0,Fox News Live Event 4
-http://fnurtmp-f.akamaihd.net/i/05LIVE_1@81837/master.m3u8
-#EXTINF:0,Fox News Live Event 5
-http://fnurtmp-f.akamaihd.net/i/06LIVE_1@81838/master.m3u8
-#EXTINF:0,Fox News Live Event 6
-http://fnurtmp-f.akamaihd.net/i/07LIVE_1@199242/master.m3u8
-#EXTINF:0,Fox News Live Event 7
-http://fnurtmp-f.akamaihd.net/i/08LIVE_1@199243/master.m3u8
-#EXTINF:0,Fox News Live Event 2017
-http://fnurtmp-f.akamaihd.net/i/1506940541851_01@335695/master.m3u8
+https://fnurtmp-f.akamaihd.net/i/DIGHANGOUT_1@344188/master.m3u8
 #EXTINF:0,MSNBC Live Event
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 #EXTINF:0,NBC News Live Event
-http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8
+https://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8
 #EXTINF:0,Reuters Channel
 http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
-#EXTINF:0,Shift by msnbc
-http://msnbc2prod-lh.akamaihd.net/i/msnbc2_live01@9615/master.m3u8
 #EXTINF:0,WSJ Live
 http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
