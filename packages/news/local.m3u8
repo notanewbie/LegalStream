@@ -7,6 +7,12 @@ https://wxia-lh.akamaihd.net/i/WXIALive_1@342562/master.m3u8
 https://kjac-lh.akamaihd.net/i/KJACLive_1@359455/master.m3u8
 #EXTINF:0,District of Columbia Network
 http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:0,FiOS1 News New Jersey
+https://cdnapisec.kaltura.com/p/424341/sp/42434100/playManifest/entryId/1_if6bcg01/format/applehttp/protocol/https/uiConfId/39790741/a.m3u8
+#EXTINF:0,FiOS1 News Long Island
+https://cdnapisec.kaltura.com/p/424341/sp/42434100/playManifest/entryId/1_b159ee77/format/applehttp/protocol/https/uiConfId/39790741/a.m3u8
+#EXTINF:0,FiOS1 News Lower Hudson Valley
+https://cdnapisec.kaltura.com/p/424341/sp/42434100/playManifest/entryId/1_is35xshu/format/applehttp/protocol/https/uiConfId/39790741/a.m3u8
 #EXTINF:0,Fox 5 Washington DC (WTTG-TV)
 https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:0,KOB4 News
