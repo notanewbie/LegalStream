@@ -4,3 +4,5 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:0,St. Peter's Church Live
 http://cdn.media7.truegod.tv/stpeterslive/smil:stpeters.smil/playlist.m3u8
+#EXTINF:0,Trinity Channel
+http://wowza.abnsat.com/live/trinity/playlist.m3u8
