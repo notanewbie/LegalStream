@@ -2,6 +2,8 @@
 https://raycomhds-lh.akamaihd.net/i/hdslive_01@136338/master.m3u8
 #EXTINF:0,Hillsdale Football
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/hillsdalevideo/playlist.m3u8
+#EXTINF:0,Mountain West Network
+https://6e7321dcb6b84ceb844ec3773b59e53a.midas.us-east-1.amazonaws.com/v1/master/61a556f78e4547c8ab5c6297ea291d6350767ca2/LiveEvents/hls/live/535741/event_3/2/911/master.m3u8
 #EXTINF:0,NASCAR Live Event
 http://nascar_prhd-f.akamaihd.net/i/nascarliveevent_01@81650/master.m3u8
 #EXTINF:0,NCAA College Basketball on CBS
