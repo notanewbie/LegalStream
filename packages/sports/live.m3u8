@@ -11,4 +11,4 @@ http://cbssportslive-f.akamaihd.net/i/cbklive1_1@13913/master.m3u8
 #EXTINF:0,NHL Free Game of the Day
 http://dcarack11.vpg.cdn.yimg.com/live/dax-global/external/nhlfgotd/nhlfgotd_2200.m3u8?a=nhlhighlights&ib=sapi&ih=6c12f8f1&ns=c+i+ci+cii+ps+flags+ru&s=d821dad32449c86e0451eb640d125ceb&vid=13541b09-5b61-3a1e-baef-59a44ee7846b&x=1490082759&ps=r2l52uy5&flags=marker_cslgeo+marker_csbgeo+marker_ar2+am_allow
 #EXTINF:0,SEC on CBS
-http://cbssportsliveios-i.akamaihd.net/hls/live/200603/seclive1/master.m3u8
+http://cbssportsliveios-i.akamaihd.net/hls/live/200603/seclive3/desktop.m3u8
