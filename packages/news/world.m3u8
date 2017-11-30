@@ -17,6 +17,8 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 https://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
 #EXTINF:0,i24 News
 http://stream-01.dc3.dailymotion.com/44/dm/3/x29atae/live-4.m3u8
+#EXTINF:0,NHK World
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:0,RT News
 https://secure-streams.akamaized.net/rt/index.m3u8
 #EXTINF:0,RT UK
