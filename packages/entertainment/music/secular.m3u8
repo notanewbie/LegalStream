@@ -30,3 +30,5 @@ https://gcdn.2mdn.net/api/manifest/hls_playlist/id/155da8caa1c58d36/itag/94/sour
 http://cdn.vsnw.net:8081/interradio/720i.m3u8
 #EXTINF:-1,Virgin Radio TV
 http://tv.105.net:1935/live/virgin1/index.m3u8
+#EXTINF:-1,XITE TV
+http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
