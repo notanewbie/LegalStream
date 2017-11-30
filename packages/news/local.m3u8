@@ -121,6 +121,8 @@ http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
 http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
 #EXTINF:0,SWX Right Now
 https://khq-lh.akamaihd.net/i/KHQ_1194@18032/master.m3u8?forceCacheClearSM=154221100000
+#EXTINF:0,Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
 #EXTINF:0,Town of Vienna Community Network
 https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_002/playlist.m3u8
 #EXTINF:0,Town of Vienna Community Network [HQ]
