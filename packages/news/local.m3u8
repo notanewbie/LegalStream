@@ -7,6 +7,8 @@ https://wxia-lh.akamaihd.net/i/WXIALive_1@342562/master.m3u8
 https://kjac-lh.akamaihd.net/i/KJACLive_1@359455/master.m3u8
 #EXTINF:0,360 North
 http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:0,ASD TV
+http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
 #EXTINF:0,District of Columbia Network
 http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:0,FiOS1 News New Jersey
