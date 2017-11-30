@@ -4,12 +4,8 @@ http://bl.webcaster.pro/media/start/free_9d6a8624a7702dddd15b6c4fbf272152_hd/65_
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
 #EXTINF:0,BYUTV International
 https://byubhls-i.akamaihd.net/hls/live/267282/byutvintport/master.m3u8
-#EXTINF:-1,HD Fashion UA
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0,Nature Vision
 https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/ntrnaturevision/playlist.m3u8
-#EXTINF:0,Public TV
-http://cdn-11.bonus-tv.ru/publictv/index.m3u8
 #EXTINF:0,Pursuit Channel
 https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/pursuitlive/playlist.m3u8
 #EXTINF:0,Relax.TV
@@ -20,7 +16,5 @@ https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/tach/playlist.m3u
 http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-604/mp4:Tufftv1/playlist.m3u8
 #EXTINF:0,UA TV
 http://vs38.vcdn.biz/fa5a0dda44c68b44804557b13322cff3_megogo/vod/fs/o/22814441/u_sid/0/u_uid/0/u_vod/1/u_device/flash/type.live/playlist.m3u8
-#EXTINF:0,World Fashion International
-http://cdn-01.bonus-tv.ru:8080/wfcint/index.m3u8
 #EXTINF:0,Yes TV
 http://stream-live-edge-a01.crossroadscloud.com:8081/yestv-ont-multibit/yestv-ont-multibit/playlist.m3u8
