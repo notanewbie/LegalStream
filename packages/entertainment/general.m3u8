@@ -4,6 +4,8 @@ http://bl.webcaster.pro/media/start/free_9d6a8624a7702dddd15b6c4fbf272152_hd/65_
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
 #EXTINF:0,BYUTV International
 https://byubhls-i.akamaihd.net/hls/live/267282/byutvintport/master.m3u8
+#EXTINF:-1,HD Fashion UA
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0,Nature Vision
 https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/ntrnaturevision/playlist.m3u8
 #EXTINF:0,Pursuit Channel
