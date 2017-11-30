@@ -8,6 +8,8 @@ https://byubhls-i.akamaihd.net/hls/live/267282/byutvintport/master.m3u8
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0,Nature Vision
 https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/ntrnaturevision/playlist.m3u8
+#EXTINF:0,Public TV
+http://cdn-11.bonus-tv.ru/publictv/index.m3u8
 #EXTINF:0,Pursuit Channel
 https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/pursuitlive/playlist.m3u8
 #EXTINF:0,TACH
