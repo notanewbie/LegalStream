@@ -19,9 +19,13 @@ https://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
 http://stream-01.dc3.dailymotion.com/44/dm/3/x29atae/live-4.m3u8
 #EXTINF:0,NHK World
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:0,Press TV
+http://178.32.255.199:1935/live/ptven/playlist.m3u8
 #EXTINF:0,RT News
 https://secure-streams.akamaized.net/rt/index.m3u8
 #EXTINF:0,RT UK
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
+#EXTINF:0,TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:0,VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
