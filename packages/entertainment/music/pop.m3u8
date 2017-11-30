@@ -12,8 +12,6 @@ http://live.aatw.simplestreamcdn.com/chilled/live.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:0,H!T Music Channel
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:0,JUCE TV
-http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
 #EXTINF:0,KHZTV
 http://rbc.streamguys.com/khztv/khztv/playlist.m3u8
 #EXTINF:0,Kiss TV
@@ -27,6 +25,4 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
 #EXTINF:0,NRJ TV
 http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
 #EXTINF:0,RitmoVision
-https://gcdn.2mdn.net/api/manifest/hls_playlist/id/155da8caa1c58d36/itag/94/source/doubleclick_dmm/requiressl/yes/ratebypass/yes/pfa/1/goi/160/sgoap/clen%3D478913%3Bdur%3D30.093%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1500064283497641/sgovp/clen%3D3154241%3Bdur%3D30.029%3Bgir%3Dyes%3Bitag%3D135%3Blmt%3D1500064287689509/hls_chunk_host/r6---sn-p5qlsnsd.c.2mdn.net/playlist_type/LIVE/ei/MyppWZjXI8G1qgXh3rPoDw/mm/42/mn/sn-p5qlsnsd/ms/onc/mv/m/pl/16/dover/6/mt/1505758520/ip/108.45.130.179/ipbits/0/expire/3644512307/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,pfa,goi,sgoap,sgovp,hls_chunk_host,playlist_type,ei,mm,mn,ms,mv,pl/signature/690E023F5FFBDBF4A80397ACF839C67B9ED68953.54DCD0BAF2E1B6DD8347CF57A1EF51116F4D088F/key/ck2/playlist/index.m3u8
-#EXTINF:0,Spirit Television
-http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit1/playlist.m3u8
+http://3435c1ca-lp-live.ums.ustream.tv/playlist/auditorium/channel/18739366/playlist.m3u8?token=6302570_1512075867735&appType=11&appVersion=3&ts=1512075867&chunkingType=improved&geo=US&sgn=7c5196247d694c6a813e07fc62227939ff5d171b&preferredBitrate=0&cdnHost=uhs-akamai.ustream.tv
