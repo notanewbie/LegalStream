@@ -17,6 +17,8 @@ http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 #EXTINF:0,Beach TV - Pawleys Island
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:0,Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
 #EXTINF:0,District of Columbia Network
 http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:0,FiOS1 News New Jersey
