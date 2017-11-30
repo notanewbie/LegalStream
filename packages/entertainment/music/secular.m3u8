@@ -16,8 +16,6 @@ http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:0,Music Vox TV Old's Cool
 http://stream.cdn.smcloud.net/vox-t/vox_720p/playlist.m3u8
-#EXTINF:0,KHZTV
-http://rbc.streamguys.com/khztv/khztv/playlist.m3u8
 #EXTINF:0,Kiss TV
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-desktop.m3u8
 #EXTINF:0,Now Music TV
