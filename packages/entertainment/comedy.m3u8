@@ -4,9 +4,17 @@ https://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
 http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
 #EXTINF:0,Black Jesus 24/7
 http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:0,Eric Andre Show 24/7
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 #EXTINF:0,Mr. Pickles 24/7
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 #EXTINF:0,Rick and Morty 24/7
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:0,Squidbillies 24/7
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+#EXTINF:0,Tim and Eric 24/7
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+#EXTINF:0,Venture Bros. 24/7
+http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
+#EXTINF:0,Williams Stream 24/7
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
