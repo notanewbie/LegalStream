@@ -127,6 +127,8 @@ http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
 https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_002/playlist.m3u8
 #EXTINF:0,Town of Vienna Community Network [HQ]
 https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_003/playlist.m3u8
+#EXTINF:0,TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:0,WALB News10
 https://walb-lh.akamaihd.net/i/WALB_853@69286/master.m3u8
 #EXTINF:0,WBTV News
