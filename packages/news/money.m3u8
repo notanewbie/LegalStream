@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,Biz TV
+https://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/manifest.m3u8
 #EXTINF:0,Bloomberg Asia
 https://mediaapnortheast.akamaized.net/btv/desktop/live.m3u8
 #EXTINF:0,Bloomberg Europe
