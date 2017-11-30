@@ -47,18 +47,26 @@ http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
 http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
 #EXTINF:0,House of Representatives
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:0,KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:0,Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:0,KOB4 News
 https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
 #EXTINF:0,KPNX Breaking 1
 https://b_kpnx-f.akamaihd.net/i/KPNXBreaking_1@398330/master.m3u8
 #EXTINF:0,KXAN News
 https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
+#EXTINF:0,Laurel TV
+https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
 #EXTINF:0,LTV
 http://pub.leominster.tv:1934/Pub/smil:Pub.smil/playlist.m3u8
 #EXTINF:0,LTV EDU
 http://edu.leominster.tv:1932/Edu/smil:Edu.smil/playlist.m3u8
 #EXTINF:0,LTV GOV
 http://gov.leominster.tv:1933/Gov/smil:Gov.smil/playlist.m3u8
+#EXTINF:0,Miami TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
 #EXTINF:0,NBC Bay Area (KNTV-TV)
 https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
 #EXTINF:0,NBC Bay Area Traffic Cam (KNTV-TV)
@@ -69,6 +77,8 @@ httpx://api.new.livestream.com/accounts/7987479/events/2929660/live.m3u8
 https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 #EXTINF:0,News4 White House Cam (WRC-TV)
 https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+#EXTINF:0,New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:0,NBC4 News (KNBC-TV)
 https://knbclive-f.akamaihd.net/i/knbca1_1@13988/master.m3u8
 #EXTINF:0,NBC4 New York News (WNBC-TV)
@@ -97,6 +107,18 @@ https://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
 https://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
 #EXTINF:0,NewsWest 9 KWES
 https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+#EXTINF:0,Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:0,PGCPS
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+#EXTINF:0,RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0,Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+#EXTINF:0,Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+#EXTINF:0,Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
 #EXTINF:0,SWX Right Now
 https://khq-lh.akamaihd.net/i/KHQ_1194@18032/master.m3u8?forceCacheClearSM=154221100000
 #EXTINF:0,Town of Vienna Community Network
