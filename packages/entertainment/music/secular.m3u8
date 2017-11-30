@@ -10,6 +10,8 @@ http://live.aatw.simplestreamcdn.com/chilled/live.m3u8
 http://live.aatw.simplestreamcdn.com/clubland/live.m3u8
 #EXTINF:0,The Country Network
 http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:0,Deluxe Music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 #EXTINF:0,Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:0,KHZTV
