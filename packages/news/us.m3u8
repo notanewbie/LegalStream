@@ -7,7 +7,7 @@ https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 #EXTINF:0,Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:0,Infowars
-http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+https://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
 #EXTINF:0,Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:0,Pluto TV Headlines
@@ -17,4 +17,4 @@ https://secure-streams.akamaized.net/rt-usa/index.m3u8
 #EXTINF:0,Weather Network
 https://d383mxeq7zv96c.cloudfront.net/api/ott/getVideoStream/USNATIONAL/master.m3u8?country=us
 #EXTINF:0,WeatherNation TV
-https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
