@@ -1,5 +1,7 @@
 #EXTINF:0,1Music
 http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:0,Bridge TV
+https://bl.webcaster.pro/media/start/free_9d6a8624a7702dddd15b6c4fbf272152_hd/65_91554723/6b805dbede42bab6bbb6c3b829e4a31b/4639979456.m3u8
 #EXTINF:0,California Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
 #EXTINF:0,Channel AKA
