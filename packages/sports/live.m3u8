@@ -7,7 +7,7 @@ https://6e7321dcb6b84ceb844ec3773b59e53a.midas.us-east-1.amazonaws.com/v1/master
 #EXTINF:0,NASCAR Live Event
 http://nascar_prhd-f.akamaihd.net/i/nascarliveevent_01@81650/master.m3u8
 #EXTINF:0,NCAA College Basketball on CBS
-http://cbssportslive-f.akamaihd.net/i/cbklive1_1@13913/master.m3u8
+http://cbssportsliveios-i.akamaihd.net/hls/live/200603/cbklive2/desktop.m3u8
 #EXTINF:0,NHL Free Game of the Day
 http://dcarack11.vpg.cdn.yimg.com/live/dax-global/external/nhlfgotd/nhlfgotd_2200.m3u8?a=nhlhighlights&ib=sapi&ih=6c12f8f1&ns=c+i+ci+cii+ps+flags+ru&s=d821dad32449c86e0451eb640d125ceb&vid=13541b09-5b61-3a1e-baef-59a44ee7846b&x=1490082759&ps=r2l52uy5&flags=marker_cslgeo+marker_csbgeo+marker_ar2+am_allow
 #EXTINF:0,SEC on CBS
