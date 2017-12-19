@@ -89,10 +89,6 @@ https://knbclive-f.akamaihd.net/i/knbca1_1@13988/master.m3u8
 https://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
 #EXTINF:0,NBC4 New York News (WNBC-TV) alt
 https://wnbclive-f.akamaihd.net/i/wnbca2_1@13992/master.m3u8
-#EXTINF:0,NBC5 KFYR-TV
-https://ad-playlistserver.aws.syncbak.com/playlist/898796/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjY5MTksImlzcyI6IldMUyIsIm1kNSI6IjUxNjkxOGMwODc3NDYzYzFhMWRmYzMwNGI2MWRkMDM3IiwibWlkIjoiODk4Nzk2In0.Vx7F9dBhtYzKs8GIhWg2CcEIRLjVA5548AT9KqIhM2w
-#EXTINF:0,NBC5 KFYR-TV alt
-https://playlistserver.aws.syncbak.com/playlist/13353639/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTA1NDQ3MjIsImlzcyI6IldMUyIsIm1kNSI6IjlmZGUxN2VjY2IwNjg3ZDE4ZWZmMmYwNzkxNzkxMzlhIiwibWlkIjoiMTMzNTM2MzkifQ.JZ9ihQrHoiiQsFfQJ3cuyrEHAEWUktyrawJyVLsyQRo
 #EXTINF:0,NBC5 News (KXAS-TV)
 https://kxaslive-f.akamaihd.net/i/kxasb1_1@5492/master.m3u8
 #EXTINF:0,NBC5 News (WMAQ-TV)
@@ -153,3 +149,5 @@ https://wtvjlive-f.akamaihd.net/i/wtvja2_1@19309/master.m3u8
 https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
 #EXTINF:0,WXXV25 24/7
 https://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+#EXTINF:0,WVVA
+http://wvva-lh.akamaihd.net/i/WVVA_1165@110234/master.m3u8?forceCacheClearSM=833514100000
