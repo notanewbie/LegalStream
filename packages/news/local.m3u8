@@ -109,6 +109,8 @@ https://knsdlive-f.akamaihd.net/i/knsdb1_1@71120/master.m3u8
 https://kten-lh.akamaihd.net/i/KTEN_1079@5589/master.m3u8
 #EXTINF:0,NBC 12 News (WWBT-TV)
 https://api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8
+#EXTINF:0,NBC 29 (WVIR-TV)
+http://wvir-lh.akamaihd.net/i/WVIR_736@78303/master.m3u8?forceCacheClearSM=530806100000
 #EXTINF:0,NBC News Channel 13 (WNYT-TV)
 https://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
 #EXTINF:0,NewsChannel 12 KTVZ
