@@ -81,6 +81,8 @@ httpx://api.new.livestream.com/accounts/7987479/events/2929660/live.m3u8
 https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 #EXTINF:0,News4 White House Cam (WRC-TV)
 https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+#EXTINF:0,News5 WCYB
+https://api.new.livestream.com/accounts/8522497/events/3012727/live.m3u8
 #EXTINF:0,NewsWest 9 (KWES)
 https://api.new.livestream.com/accounts/16923548/events/4681078/live.m3u8
 #EXTINF:0,New Orleans TV
