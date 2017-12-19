@@ -149,6 +149,10 @@ https://walb-lh.akamaihd.net/i/WALB_853@69286/master.m3u8
 https://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
 #EXTINF:0,WCCB News Rising
 https://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+#EXTINF:0,WCNC Breaking News
+http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
+#EXTINF:0,WCNC News
+http://wcnc-lh.akamaihd.net/i/WCNC_Shows_1@195111/master.m3u8
 #EXTINF:0,WLBZ2
 https://wlbz-lh.akamaihd.net/i/WLBZ_Live_1@27474/master.m3u8
 #EXTINF:0,WPLG-TV
