@@ -47,6 +47,8 @@ http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
 http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
 #EXTINF:0,House of Representatives
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:0,KRBC-TV
+http://krbc-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 #EXTINF:0,KBVR TV
 http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
 #EXTINF:0,Key TV
