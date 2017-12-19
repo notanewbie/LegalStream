@@ -87,6 +87,8 @@ https://api.new.livestream.com/accounts/8522497/events/3012727/live.m3u8
 https://api.new.livestream.com/accounts/16923548/events/4681078/live.m3u8
 #EXTINF:0,New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:0,NBC2 (WGRZ)
+http://wgrz-lh.akamaihd.net/i/WGRZ_Live_1@68352/master.m3u8
 #EXTINF:0,NBC4 News (KNBC-TV)
 https://knbclive-f.akamaihd.net/i/knbca1_1@13988/master.m3u8
 #EXTINF:0,NBC4 New York News (WNBC-TV)
