@@ -22,8 +22,6 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-desktop.m3u8
 http://live.aatw.simplestreamcdn.com/now/live.m3u8
 #EXTINF:0,Radio Monte Carlo TV
 http://tv.105.net/live/rmc1/playlist.m3u8
-#EXTINF:0,RitmoVision
-http://3435c1ca-lp-live.ums.ustream.tv/playlist/auditorium/channel/18739366/playlist.m3u8?token=6302570_1512075867735&appType=11&appVersion=3&ts=1512075867&chunkingType=improved&geo=US&sgn=7c5196247d694c6a813e07fc62227939ff5d171b&preferredBitrate=0&cdnHost=uhs-akamai.ustream.tv
 #EXTINF:-1,RTI HD
 http://cdn.vsnw.net:8081/interradio/720i.m3u8
 #EXTINF:-1,XITE TV
