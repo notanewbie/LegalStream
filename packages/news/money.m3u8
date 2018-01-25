@@ -2,8 +2,10 @@
 #EXTINF:0,Biz TV
 https://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/manifest.m3u8
 #EXTINF:0,Bloomberg Asia
-https://mediaapnortheast.akamaized.net/btv/desktop/live.m3u8
+https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8
+#EXTINF:0,Bloomberg Australia
+https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/aus_live.m3u8
 #EXTINF:0,Bloomberg Europe
-https://live-bloomberg-eu-west.global.ssl.fastly.net/btv/desktop/live.m3u8
+https://bblive-liveprodeuwest.hs.llnwd.net/btv/desktop/eu_live.m3u8
 #EXTINF:0,Bloomberg US
-https://live-bloomberg-us-east.global.ssl.fastly.net/btv/desktop/live.m3u8
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
