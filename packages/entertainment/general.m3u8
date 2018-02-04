@@ -4,6 +4,8 @@ https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
 https://byubhls-i.akamaihd.net/hls/live/267282/byutvintport/master.m3u8
 #EXTINF:0,CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:0,Law & Crime
+https://ssai.ooyala.com/hls/delta/cflive-use/out/u/yanejvyjuqpw5/111827/14Z2Q2ZTE6wh4qNzaOCbWsdP_nUfQ1Df/cn/cdb760284e1444db9af6954149ddc918.m3u8
 #EXTINF:0,SupTV
 http://91.134.238.137/live/goat/index.m3u8
 #EXTINF:0,TACH
