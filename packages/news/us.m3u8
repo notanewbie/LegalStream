@@ -1,6 +1,6 @@
-#EXTINF:0 group-title="News",CBSN
+#EXTINF:0 group-title="News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41bnvyqTr1L.png",CBSN
 https://www.cbsnews.com/common/video/dai_prod.m3u8
-#EXTINF:0 group-title="News",FNC Preview (No Audio)
+#EXTINF:0 group-title="News" tvg-logo="http://www.newscaststudio.com/wp-content/uploads/2017/09/fox-news-new-graphics-roundup.jpg",FNC Preview (No Audio)
 https://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/master.m3u8
 #EXTINF:0 group-title="Conservative",Fox News Talk
 https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
