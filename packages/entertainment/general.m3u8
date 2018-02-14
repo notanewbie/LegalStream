@@ -1,18 +1,18 @@
-#EXTINF:0,BYUTV
+#EXTINF:0, tvg-logo="" group-title="",BYUTV
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
-#EXTINF:0,BYUTV International
+#EXTINF:0, tvg-logo="" group-title="",BYUTV International
 https://byubhls-i.akamaihd.net/hls/live/267282/byutvintport/master.m3u8
-#EXTINF:0,CGTN Documentary
+#EXTINF:0, tvg-logo="" group-title="",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:0,Law & Crime
+#EXTINF:0, tvg-logo="" group-title="",Law & Crime
 https://ssai.ooyala.com/hls/delta/cflive-use/out/u/yanejvyjuqpw5/111827/14Z2Q2ZTE6wh4qNzaOCbWsdP_nUfQ1Df/cn/cdb760284e1444db9af6954149ddc918.m3u8
-#EXTINF:0,SupTV
+#EXTINF:0, tvg-logo="" group-title="",SupTV
 http://91.134.238.137/live/goat/index.m3u8
-#EXTINF:0,TACH
+#EXTINF:0, tvg-logo="" group-title="",TACH
 https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/tach/playlist.m3u8
-#EXTINF:0,TBD
+#EXTINF:0, tvg-logo="" group-title="",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:0,TUFF TV
+#EXTINF:0, tvg-logo="" group-title="",TUFF TV
 http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-604/mp4:Tufftv1/playlist.m3u8
-#EXTINF:0,Yes TV
+#EXTINF:0, tvg-logo="" group-title="",Yes TV
 http://stream-live-edge-a01.crossroadscloud.com:8081/yestv-ont-multibit/yestv-ont-multibit/playlist.m3u8
