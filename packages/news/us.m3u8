@@ -1,18 +1,18 @@
-#EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41bnvyqTr1L.png" group-title="News",CBSN
+#EXTINF:0, tvg-logo="https://cbschicago.files.wordpress.com/2015/11/cbsn-generic.jpg?w=1280" group-title="News",CBSN
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:0, tvg-logo="http://www.newscaststudio.com/wp-content/uploads/2017/09/fox-news-new-graphics-roundup.jpg" group-title="News",FNC Preview (No Audio)
 https://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/master.m3u8
-#EXTINF:0, group-title="Conservative",Fox News Talk
+#EXTINF:0, tvg-logo="https://radio.foxnews.com/wp-content/uploads/2012/12/FOX-News-Talk-Radio-1.jpg" group-title="Conservative",Fox News Talk
 https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:0, group-title="Liberal",Free Speech TV
+#EXTINF:0, tvg-logo="https://i.ytimg.com/vi/rPXPfq6Fg_U/maxresdefault.jpg" group-title="Liberal",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:0, group-title="Conservative",Newsmax TV
+#EXTINF:0, tvg-logo="https://cfvod.kaltura.com/p/2216081/sp/221608100/thumbnail/entry_id/1_f19eeulz/version/100001/width/768/height/435" group-title="Conservative",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:0, group-title="News",Pluto TV Headlines
+#EXTINF:0, tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/f99bf312-8fce-5925-f11b-41ba1cd7829b-News247_featured.jpg" group-title="News",Pluto TV Headlines
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:0, group-title="Liberal",RT America
+#EXTINF:0, tvg-logo="https://countercurrents.org/wp-content/uploads/2017/11/rt-america-new.si_.jpg" group-title="Liberal",RT America
 https://secure-streams.akamaized.net/rt-usa/index.m3u8
-#EXTINF:0, group-title="Weather",Weather Network
+#EXTINF:0, tvg-logo="http://www.fivestarservices.ca/assets/images/weather-network.jpg" group-title="Weather",Weather Network
 https://d383mxeq7zv96c.cloudfront.net/api/ott/getVideoStream/USNATIONAL/master.m3u8?country=us
-#EXTINF:0, group-title="Weather",WeatherNation TV
+#EXTINF:0, tvg-logo="http://www.weathernationtv.com/app/uploads/WNTV.jpg" group-title="Weather",WeatherNation TV
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
