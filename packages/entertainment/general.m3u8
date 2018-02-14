@@ -1,7 +1,5 @@
 #EXTINF:0, tvg-logo="" group-title="",BYUTV
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="",BYUTV International
-https://byubhls-i.akamaihd.net/hls/live/267282/byutvintport/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:0, tvg-logo="" group-title="",Law & Crime
