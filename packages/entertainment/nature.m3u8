@@ -1,6 +1,6 @@
-#EXTINF:0,Nature Vision
+#EXTINF:0, tvg-logo="" group-title="",Nature Vision
 https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/ntrnaturevision/playlist.m3u8
-#EXTINF:0,Pursuit Channel
+#EXTINF:0, tvg-logo="" group-title="",Pursuit Channel
 https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/pursuitlive/playlist.m3u8
-#EXTINF:0,Relax.TV
+#EXTINF:0, tvg-logo="" group-title="",Relax.TV
 http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
