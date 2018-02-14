@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:0,ABC News Channel
+#EXTINF:0, tvg-logo="" group-title="",ABC News Channel
 https://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
-#EXTINF:0,Al Jazeera English
+#EXTINF:0, tvg-logo="" group-title="",Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:0,CBN News
+#EXTINF:0, tvg-logo="" group-title="",CBN News
 https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
-#EXTINF:0,CGTN America
+#EXTINF:0, tvg-logo="" group-title="",CGTN America
 https://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
-#EXTINF:0,CGTN English
+#EXTINF:0, tvg-logo="" group-title="",CGTN English
 https://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:0,DW
+#EXTINF:0, tvg-logo="" group-title="",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:0,Euronews
+#EXTINF:0, tvg-logo="" group-title="",Euronews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1 tvg-id="300093" tvg-num="5",France 24
+#EXTINF:0, tvg-logo="" group-title="",France 24
 https://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
-#EXTINF:0,i24 News
+#EXTINF:0, tvg-logo="" group-title="",i24 News
 https://stream-01.dc3.dailymotion.com/44/dm/3/x29atae/live-4.m3u8
-#EXTINF:0,NHK World
+#EXTINF:0, tvg-logo="" group-title="",NHK World
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:0,Press TV
+#EXTINF:0, tvg-logo="" group-title="",Press TV
 http://178.32.255.199:1935/live/ptven/playlist.m3u8
-#EXTINF:0,RT News
+#EXTINF:0, tvg-logo="" group-title="",RT News
 https://secure-streams.akamaized.net/rt/index.m3u8
-#EXTINF:0,RT UK
+#EXTINF:0, tvg-logo="" group-title="",RT UK
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
-#EXTINF:0,TRT World
+#EXTINF:0, tvg-logo="" group-title="",TRT World
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:0,VOA
+#EXTINF:0, tvg-logo="" group-title="",VOA
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
