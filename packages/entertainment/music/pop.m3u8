@@ -1,18 +1,18 @@
-#EXTINF:0,Capital TV
+#EXTINF:0, tvg-logo="" group-title="",Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:0,H!T Music Channel
+#EXTINF:0, tvg-logo="" group-title="",H!T Music Channel
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:0,KHZTV
+#EXTINF:0, tvg-logo="" group-title="",KHZTV
 http://rbc.streamguys.com/khztv/khztv/playlist.m3u8
-#EXTINF:0,Kiss TV
+#EXTINF:0, tvg-logo="" group-title="",Kiss TV
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-desktop.m3u8
-#EXTINF:0,Nebiset
+#EXTINF:0, tvg-logo="" group-title="",Nebiset
 http://hls.nebiset.tv/nebiset.m3u8
-#EXTINF:0,Now Music TV
+#EXTINF:0, tvg-logo="" group-title="",Now Music TV
 http://live.aatw.simplestreamcdn.com/now/live.m3u8
-#EXTINF:0,NRJ Hits
+#EXTINF:0, tvg-logo="" group-title="",NRJ Hits
 http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
-#EXTINF:0,NRJ TV
+#EXTINF:0, tvg-logo="" group-title="",NRJ TV
 http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
-#EXTINF:0,RitmoVision
+#EXTINF:0, tvg-logo="" group-title="",RitmoVision
 http://3435c1ca-lp-live.ums.ustream.tv/playlist/auditorium/channel/18739366/playlist.m3u8?token=6302570_1512075867735&appType=11&appVersion=3&ts=1512075867&chunkingType=improved&geo=US&sgn=7c5196247d694c6a813e07fc62227939ff5d171b&preferredBitrate=0&cdnHost=uhs-akamai.ustream.tv
