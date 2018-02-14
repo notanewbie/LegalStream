@@ -1,6 +1,6 @@
-#EXTINF:-1,HD Fashion UA
+#EXTINF:-1, tvg-logo="" group-title="",HD Fashion UA
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:0,Public TV
+#EXTINF:0, tvg-logo="" group-title="",Public TV
 http://cdn-11.bonus-tv.ru/publictv/index.m3u8
-#EXTINF:0,World Fashion International
+#EXTINF:0, tvg-logo="" group-title="",World Fashion International
 http://cdn-01.bonus-tv.ru:8080/wfcint/index.m3u8
