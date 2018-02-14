@@ -1,4 +1,4 @@
-#EXTINF:0, NASA TV
+#EXTINF:0, tvg-logo="" group-title="", NASA TV
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
-#EXTINF:0, NASA TV Media Channel
+#EXTINF:0, tvg-logo="" group-title="", NASA TV Media Channel
 https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
