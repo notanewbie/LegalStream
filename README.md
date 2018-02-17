@@ -51,6 +51,7 @@ Features 3 channels. Stream now at https://github.com/notanewbie/LegalStream/blo
 <h4>Kids</h4>
 
 1. PBS Kids
+2. Steven Universe - 24/7
 
 Stream now at https://github.com/notanewbie/LegalStream/blob/master/packages/entertainment/kids.m3u8
 
