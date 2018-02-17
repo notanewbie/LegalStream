@@ -5,4 +5,4 @@ http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="",St. Peter's Church Live
 http://cdn.media7.truegod.tv/stpeterslive/smil:stpeters.smil/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="",Trinity Channel
-http://wowza.abnsat.com/live/trinity/playlist.m3u8
+http://rtmp1.abnsat.com/hls/trinity.m3u8
