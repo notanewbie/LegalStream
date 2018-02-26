@@ -2,6 +2,8 @@
 http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8
 #EXTINF:0, tvg-logo="http://sportsradiopd.com/wp-content/uploads/2015/03/1067.jpg" group-title="Local Sports",106.7 The Fan
 http://cbslocalhls-i.akamaihd.net/hls/live/204776/WJFK-FM-IOS/wjfklive.m3u8
+#EXTINF:0, tvg-logo="https://cnet2.cbsistatic.com/img/NO6Tw1v97jkjnen0NF37aLC5tEg=/fit-in/570x0/2018/02/25/a3f3b2fc-9983-4232-b905-a96426f93fa5/hq-cb4-1400x788-live.jpg" group-title="Local News",CBS Sports HQ
+https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
 #EXTINF:0, tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/0a77147546061.560ad49d9afdc.jpg" group-title="Sports News",Fox Sports News
 https://foxsportshlsg01-lh.akamaihd.net/i//fsnewshls_0@301672/master.m3u8
 #EXTINF:0, tvg-logo="https://imagecomposer.nfl.com/?f=png&w=400&l=http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png" group-title="Sports News",NFL Now Live
