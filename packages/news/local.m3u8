@@ -61,6 +61,8 @@ http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/master.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:0, tvg-logo="" group-title="",KOB4 News
 https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="",KOMU 8
+http://d2a6g6zgxepbwi.cloudfront.net/komu-edge/_definst_/livestream.stream_360p/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="",KPNX Breaking 1
 https://b_kpnx-f.akamaihd.net/i/KPNXBreaking_1@398330/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",KXAN News
@@ -163,8 +165,14 @@ https://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",WCNC News
 http://wcnc-lh.akamaihd.net/i/WCNC_Shows_1@195111/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",WISTV
+http://wistv-lh.akamaihd.net/i/WISTV_822@68771/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",WKYC News
+https://wkyc-lh.akamaihd.net/i/WKYC_Live_1@70123/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",WLBZ2
 https://wlbz-lh.akamaihd.net/i/WLBZ_Live_1@27474/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",WLTV First News
+https://api.new.livestream.com/accounts/22400479/events/6650525/live.m3u8
 #EXTINF:0, tvg-logo="" group-title="",WPLG-TV
 https://wtvjlive-f.akamaihd.net/i/wtvja2_1@19309/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",WRAL5
