@@ -13,8 +13,6 @@ https://live.cgtn.com/500/prog_index.m3u8
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="Europe",Euronews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:0, tvg-logo="" group-title="France",France 24
-https://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="Israel",i24 News
 https://stream-01.dc3.dailymotion.com/44/dm/3/x29atae/live-4.m3u8
 #EXTINF:0, tvg-logo="" group-title="Japan",NHK World
