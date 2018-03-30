@@ -44,9 +44,9 @@ http://fnurtmp-f.akamaihd.net/i/1519306980512_01@335695/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",Fox News Digital Hangout
 https://fnurtmp-f.akamaihd.net/i/DIGHANGOUT_1@344188/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",MSNBC Live Event
-https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
+http://msnbc2prod-lh.akamaihd.net/i/msnbc2_live01@9615/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",NBC News Live Event
-https://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8
+https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",Reuters Channel
 http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="",Shepard Smith Breaking News
