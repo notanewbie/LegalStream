@@ -65,6 +65,8 @@ https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
 http://d2a6g6zgxepbwi.cloudfront.net/komu-edge/_definst_/livestream.stream_360p/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="",KPNX Breaking 1
 https://b_kpnx-f.akamaihd.net/i/KPNXBreaking_1@398330/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",KRIS News
+https://api.new.livestream.com/accounts/16030759/events/4495499/live.m3u8
 #EXTINF:0, tvg-logo="" group-title="",KXAN News
 https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
 #EXTINF:0, tvg-logo="" group-title="",Laurel TV
@@ -101,6 +103,8 @@ http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 http://wgrz-lh.akamaihd.net/i/WGRZ_Live_1@68352/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",NBC3 (WRCB-TV)
 http://wrcb-lh.akamaihd.net/i/WRCB_903@73796/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",NBC4i (WCMH-TV)
+https://api.new.livestream.com/accounts/7338206/events/2798220/live.m3u8
 #EXTINF:0, tvg-logo="" group-title="",NBC4 News (KNBC-TV)
 https://knbclive-f.akamaihd.net/i/knbca1_1@13988/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",NBC4 New York News (WNBC-TV)
