@@ -9,3 +9,5 @@ https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/aus_live.m3u8
 https://bblive-liveprodeuwest.hs.llnwd.net/btv/desktop/eu_live.m3u8
 #EXTINF:0, tvg-logo="" group-title="",Bloomberg US
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:0, tvg-logo="" group-title="", Channel Eye TV
+https://ind11-lh.akamaihd.net/i/ind11_eye@389918/master.m3u8?hdnea=st=1524672541~exp=1524673141~acl=!*/i/ind11_eye@389918/*!/payload/yuppTVCom_5_-1_3e8064ebf41d4beb_US_108.31.101.199/*~hmac=857e1ccdff40ddc91b540caaf1461ff7b725e794d85a4514dc7ac5f2d272fd37
