@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:0, tvg-logo="https://worldarchery.org/sites/default/files/styles/responsive_crop_16_9custom_user_mobile_2x/public/news/images/main/olympic_channel_header.png?itok=lznOCcOV&timestamp=1472473694" group-title="Olympics",Olympics Channel
 https://live.olympicchannel.com/ocs/channel01b/master.m3u8
 #EXTINF:0, tvg-logo="https://worldarchery.org/sites/default/files/styles/responsive_crop_16_9custom_user_mobile_2x/public/news/images/main/olympic_channel_header.png?itok=lznOCcOV&timestamp=1472473694" group-title="Olympics",Olympics Channel 2
