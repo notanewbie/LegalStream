@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:0, tvg-logo="http://mediad.publicbroadcasting.net/p/krwg/files/styles/x_large/public/201703/kids_0.jpg" group-title="Cartoons",PBS Kids Channel
 https://live-cdn.pbskids.org/out/u/est.m3u8
 #EXTINF:0, tvg-logo="https://thebridgesweburn.com/wp-content/uploads/2017/04/90.jpg" group-title="Cartoons",Steven Universe 24/7
