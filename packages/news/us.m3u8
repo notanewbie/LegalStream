@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0, tvg-logo="" group-title="",ABC News Live
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 #EXTINF:0, tvg-logo="https://cbschicago.files.wordpress.com/2015/11/cbsn-generic.jpg?w=1280" group-title="News",CBSN
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:0, tvg-logo="https://snapshots.streamlive.to/snapshots/ohn58e97er36vjr_snapshot.jpg" group-title="News",FNC Preview (No Audio)
