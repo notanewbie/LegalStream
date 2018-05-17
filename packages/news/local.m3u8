@@ -131,6 +131,8 @@ https://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
 https://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
 #EXTINF:0, tvg-logo="" group-title="",NewsWest 9 KWES
 https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="",NYXT
+http://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
 #EXTINF:0, tvg-logo="" group-title="",Orange TV
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
 #EXTINF:0, tvg-logo="" group-title="",PGCPS
