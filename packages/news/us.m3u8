@@ -7,7 +7,9 @@ https://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:0, tvg-logo="" group-title="Libertarian",Counter Think With Mike Adams
 https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/master.m3u8
-#EXTINF:0, tvg-logo="https://snapshots.streamlive.to/snapshots/ohn58e97er36vjr_snapshot.jpg" group-title="News",FNC Preview (No Audio)
+#EXTINF:0, tvg-logo="https://snapshots.streamlive.to/snapshots/ohn58e97er36vjr_snapshot.jpg" group-title="News",FNC Preview
+http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
+#EXTINF:0, tvg-logo="https://snapshots.streamlive.to/snapshots/ohn58e97er36vjr_snapshot.jpg" group-title="News",FNC Preview HQ (No Audio)
 https://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/master.m3u8
 #EXTINF:0, tvg-logo="https://radio.foxnews.com/wp-content/uploads/2012/12/FOX-News-Talk-Radio-1.jpg" group-title="Conservative",Fox News Talk
 https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
