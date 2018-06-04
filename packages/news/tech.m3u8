@@ -3,3 +3,5 @@
 https://api.new.livestream.com/accounts/687825/events/8231244/live.m3u8
 #EXTINF:0, tvg-logo="" group-title="",TWiT
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="",WWDC 2018
+https://p-events-delivery.akamaized.net/18oijbasfvuhbfsdvoijhbsdfvljkb6/m3u8/hls_mvp.m3u8
