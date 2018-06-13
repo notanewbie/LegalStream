@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/S/amazonlive-media-prod/broadcast/a/a4006cb3-8f2a-48a7-a6cf-e4ea275c17f7/image/slate.jpg" group-title="Shopping",Amazon Today's Deals Live
+https://usher.ttvnw.net/api/lvs/hls/lvs.AmazonLiveTools-prod.958d17b0-5e50-4d81-a444-1d99885e851a.m3u8
 #EXTINF:0, tvg-logo="https://i.ytimg.com/vi/UOt2DDyMZ9w/maxresdefault.jpg" group-title="Game Show",BUZZR
 https://buzzr-zixi.global.ssl.fastly.net/BUZZR_HLS_TEST.m3u8?hlsid=HTTP_ID_777
 #EXTINF:0, tvg-logo="https://www.byutv.org/content/png-logos/byutv/app/square/1280x720.png" group-title="General",BYUTV
