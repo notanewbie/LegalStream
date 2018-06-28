@@ -18,13 +18,39 @@
 				"videoType": "HLS"
 			}]
 		}
+	},
+			   {
+		"id": "002",
+		"title": "Fox News Talk",
+		"shortDescription": "Conservative opinion from Fox News radio hosts.",
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnRCTWVa0n4ljXjorU1blVFX9f_1XOpVWoXUhUsiD00_C5-UFuoA",
+		"genres": ["news"],
+		"releaseDate": "2015-06-11",
+		"content": {
+			"dateAdded": "2018-06-28T19:45:00-05:00",
+			"duration": 53,
+			"videos": [{
+				"url": "https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8",
+				"quality": "HD",
+				"videoType": "HLS"
+			}]
+		}
 	}],
 	"playlists": [{
 		"name": "US News",
-		"itemIds": ["001"]
+		"itemIds": ["002", "001"]
+	},
+		     {
+		"name": "Feat",
+		"itemIds": ["001", "002"]
 	}],
 	"categories": [{
-		"name": "Featured",
+		"name": "New",
+		"playlistName": "Feat",
+		"order": "manual"
+	},
+		      {
+		"name": "US News",
 		"playlistName": "US News",
 		"order": "manual"
 	}]
