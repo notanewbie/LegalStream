@@ -7,7 +7,7 @@
 		"title": "Fox News Talk",
 		"shortDescription": "Conservative opinion from Fox News radio hosts.",
 		"thumbnail": "https://radio.foxnews.com/wp-content/uploads/2012/12/FOX-News-Talk-Radio-1.jpg",
-		"genres": ["news", "conservative", "us news"],
+		"genres": ["news"],
 		"releaseDate": "2015-06-11",
 		"content": {
 			"dateAdded": "2018-06-28T18:43:00-05:00",
