@@ -1,31 +1,31 @@
 {
-    "providerName": "FOX",
-    "lastUpdated": "2018-06-28T18:43:00-05:00",
-    "language": "en-US",
-    "tvSpecials": [
-        {
-  "id": "001",
-  "title": "Fox News Talk",
-  "content": {
-    {
-  "dateAdded": "2018-06-28T18:49:00-00:00",
-  "videos": [
-    {
-  "url": "https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8",
-  "quality": "HD",
-  "videoType": "HLS"
-}
-  ],
-  "duration": 4500
-}
-  },
-  "genres": [
-    "News",
-    "US News",
-    "Conservative",
-  ],
-  "thumbnail": "https://radio.foxnews.com/wp-content/uploads/2012/12/FOX-News-Talk-Radio-1.jpg",
-  "shortDescription": "Conservative opinion from Fox News radio hosts."
-}
-    ]
+	"providerName": "FOX",
+	"language": "en-US",
+	"lastUpdated": "2018-06-28T18:43:00-05:00",
+	"shortFormVideos": [{
+		"id": "001",
+		"title": "Fox News Talk",
+		"shortDescription": "Conservative opinion from Fox News radio hosts.",
+		"thumbnail": "https://radio.foxnews.com/wp-content/uploads/2012/12/FOX-News-Talk-Radio-1.jpg",
+		"genres": ["news", "conservative", "us news"],
+		"releaseDate": "2015-06-11",
+		"content": {
+			"dateAdded": "2018-06-28T18:43:00-05:00",
+			"duration": 53,
+			"videos": [{
+				"url": "https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8",
+				"quality": "HD",
+				"videoType": "HLS"
+			}]
+		}
+	}],
+	"playlists": [{
+		"name": "US News",
+		"itemIds": ["001"]
+	}],
+	"categories": [{
+		"name": "Featured",
+		"playlistName": "US News",
+		"order": "manual"
+	}]
 }
