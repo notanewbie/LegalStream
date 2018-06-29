@@ -21,8 +21,8 @@
 	},
 			   {
 		"id": "002",
-		"title": "Fox News Talk",
-		"shortDescription": "Conservative opinion from Fox News radio hosts.",
+		"title": "ABC News Live",
+		"shortDescription": "Coverage of American news, straight from ABC.",
 		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnRCTWVa0n4ljXjorU1blVFX9f_1XOpVWoXUhUsiD00_C5-UFuoA",
 		"genres": ["news"],
 		"releaseDate": "2015-06-11",
