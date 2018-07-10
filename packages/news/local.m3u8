@@ -71,6 +71,8 @@ https://b_kpnx-f.akamaihd.net/i/KPNXBreaking_1@398330/master.m3u8
 https://api.new.livestream.com/accounts/16030759/events/4495499/live.m3u8
 #EXTINF:0, tvg-logo="" group-title="",KXAN News
 https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="",KTVE Live Cam
+https://stream-us1-alfa.dropcam.com/nexus_aac/aa12f793f895423683a84dde703d2706/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="",Laurel TV
 https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
 #EXTINF:0, tvg-logo="" group-title="",LTV
