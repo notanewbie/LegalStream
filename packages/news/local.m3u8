@@ -163,6 +163,8 @@ http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
 http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",WALB News10
 https://walb-lh.akamaihd.net/i/WALB_853@69286/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",WAND 17
+https://api.new.livestream.com/accounts/15004678/events/4319643/live.m3u8
 #EXTINF:0, tvg-logo="" group-title="",WBTV News
 https://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",WCCB News Rising
