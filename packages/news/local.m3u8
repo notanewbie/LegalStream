@@ -177,6 +177,8 @@ http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
 http://wcnc-lh.akamaihd.net/i/WCNC_Shows_1@195111/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",WESH 2 News
 https://dai.google.com/linear/hls/p/event/cwT-uvx5ROaqHYlHudR1Fg/stream/0859b687-43f1-440c-92a7-b01328bc0578:MRN/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",WHO HD 13
+https://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8
 #EXTINF:0, tvg-logo="" group-title="",WISTV
 http://wistv-lh.akamaihd.net/i/WISTV_822@68771/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",WKYC News
