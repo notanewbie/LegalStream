@@ -21,5 +21,7 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAnx-w2g-kAvZKsEeJNf1R1lqXIUlxz-ChJV-y6eJL00PpY1_" group-title="General",TUFF TV
 http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-604/mp4:Tufftv1/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="General",What's On Pluto
+https://stitcher.pluto.tv/stitch/hls/channel/58e2cd77a84e99942f414e68/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:0, tvg-logo="https://format-com-cld-res.cloudinary.com/image/private/s--DxRqfBZa--/c_limit,g_center,h_65535,w_960/a_auto,fl_keep_iptc.progressive,q_95/v1/11ad99b9236bdedd92b2b2180fc5517d/YES-TV-CLICK-CLICK-sample.gif" group-title="General",Yes TV
 http://stream-live-edge-a01.crossroadscloud.com:8081/yestv-ont-multibit/yestv-ont-multibit/playlist.m3u8
