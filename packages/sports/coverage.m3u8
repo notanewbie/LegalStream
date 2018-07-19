@@ -9,3 +9,5 @@ https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
 https://foxsportshlsg01-lh.akamaihd.net/i//fsnewshls_0@301672/master.m3u8
 #EXTINF:0, tvg-logo="https://imagecomposer.nfl.com/?f=png&w=400&l=http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png" group-title="Sports News",NFL Now Live
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8
+#EXTINF:0, tvg-logo="" group-title="Sports News",VSiN
+https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
