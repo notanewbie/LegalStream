@@ -2,7 +2,7 @@
 #EXTINF:0, tvg-logo="" group-title="Teaching",3ABN
 http://aos01.3abn.adaptive.level3.net/hls-live/mediaoppremux-3abn_multi/_definst_/live.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Daystar_TV.PNG" group-title="Teaching",Daystar
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+https://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="Teaching",Emmanuel TV
 http://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
 #EXTINF:0, tvg-logo="" group-title="Lifestyle",Hillsong Channel
