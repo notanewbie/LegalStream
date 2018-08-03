@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:0, tvg-logo="" group-title="Teaching",3ABN
+#EXTINF:0, tvg-logo="https://3abn.org/img/logos/tv/3ABN.png" group-title="Teaching",3ABN
 http://aos01.3abn.adaptive.level3.net/hls-live/mediaoppremux-3abn_multi/_definst_/live.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Daystar_TV.PNG" group-title="Teaching",Daystar
 https://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="Teaching",Emmanuel TV
+#EXTINF:0, tvg-logo="https://cdn.dstv.com/dstvcms/2015/11/17/Emmanueal_001_lrg_lrg.jpg" group-title="Teaching",Emmanuel TV
 http://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
-#EXTINF:0, tvg-logo="" group-title="Lifestyle",Hillsong Channel
+#EXTINF:0, tvg-logo="https://d9nqqwcssctr8.cloudfront.net/wp-content/uploads/2016/06/01015623/the-channel-I-see-card-hillsong-collected.jpg" group-title="Lifestyle",Hillsong Channel
 https://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="Teaching",Praise Temple
+#EXTINF:0, tvg-logo="http://www.forward-now.com/wp-content/uploads/2012/10/Praise-Temple.jpg" group-title="Teaching",Praise Temple
 http://cdn.media7.truegod.tv/ptlive/smil:praisetemple.smil/playlist.m3u8
-#EXTINF:0, tvg-logo="" group-title="Teaching",TBN
+#EXTINF:0, tvg-logo="http://allvectorlogo.com/img/2016/07/trinity-broadcasting-network-tbn-logo.png" group-title="Teaching",TBN
 https://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
