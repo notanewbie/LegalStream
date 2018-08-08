@@ -19,6 +19,8 @@ https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",ABC News Digital 11
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",America's Election HQ
+http://fnurtmp-f.akamaihd.net/i/1533674468272_01@335695/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",C-SPAN.org Live Event
 http://dotorg1-lh.akamaihd.net/i/dotorg1_1@301849/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",C-SPAN
