@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="" group-title="",HD Fashion UA
+#EXTINF:-1, tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="",HD Fashion & Lifestyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1, tvg-logo="" group-title="",ID Fashion
+#EXTINF:-1, tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/a05b3dfe/4e8ed074_med.png" group-title="",ID Fashion
 http://95.67.8.22/hls/idfashion/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="",Public TV
+#EXTINF:0, tvg-logo="https://images.businessoffashion.com/site/uploads/2016/03/prada_aw16_atmosphere_0091.jpg?auto=format%2Ccompress&crop=top&fit=crop&h=573&w=1024" group-title="",Public TV
 http://cdn-11.bonus-tv.ru/publictv/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="",World Fashion International
+#EXTINF:0, tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/08/World-Fashion-Channel.jpg" group-title="",World Fashion International
 http://cdn-01.bonus-tv.ru:8080/wfcint/index.m3u8
