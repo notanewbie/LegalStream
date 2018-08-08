@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, tvg-logo="" group-title="", NASA TV
+#EXTINF:0, tvg-logo="https://greyareanews.com/wp-content/uploads/2017/10/nasa-logo-web-rgb_0-678x381.gif" group-title="NASA", NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:0, tvg-logo="" group-title="", NASA TV Media Channel
+#EXTINF:0, tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/0/4/1/10414700/10414700_nasatv_media_hr_1330361951,640x360,b:1.jpg" group-title="NASA", NASA TV Media Channel
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
