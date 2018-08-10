@@ -1,8 +1,8 @@
-#EXTINF:0, tvg-logo="" group-title="",Family Friendly Entertainment
+#EXTINF:0, tvg-logo="http://www.freeetv.com/images/01_logo/family_friendly_tv_usa.jpg" group-title="",Family Friendly Entertainment
 http://54.225.64.228:1935/live/roku2/playlist.m3u8
-#EXTINF:0, tvg-logo="" group-title="",JUCE TV
+#EXTINF:0, tvg-logo="https://www.tbninafrica.org/image.php/programme-cover-1527230445.jpg?w=1200&h=675&src=/images/static/programme-cover-1527230445.jpg" group-title="",JUCE TV
 http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="",RadioU TV
+#EXTINF:0, tvg-logo="http://radiou.com/wp-content/uploads/2015/06/RadioUTVPoster960.jpg" group-title="",RadioU TV
 http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv1/playlist.m3u8
-#EXTINF:0, tvg-logo="" group-title="",Spirit Television
+#EXTINF:0, tvg-logo="https://www.rokuchannels.tv/wp-content/uploads/2014/01/spirit.jpg" group-title="",Spirit Television
 http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit1/playlist.m3u8
