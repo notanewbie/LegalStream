@@ -1,18 +1,18 @@
-#EXTINF:0, tvg-logo="" group-title="",Capital TV
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Capital_TV_logo.png/revision/latest?cb=20150327095613" group-title="",Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="",H!T Music Channel
+#EXTINF:0, tvg-logo="http://www.freeetv.com/images/01_logo/hit_tv.jpg" group-title="",H!T Music Channel
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:0, tvg-logo="" group-title="",KHZTV
+#EXTINF:0, tvg-logo="http://khztv.com/wp-content/themes/khz_theme/images/logo.png" group-title="",KHZTV
 http://rbc.streamguys.com/khztv/khztv/playlist.m3u8
-#EXTINF:0, tvg-logo="" group-title="",Kiss TV
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Kiss_Network_logo.svg/1200px-Kiss_Network_logo.svg.png" group-title="",Kiss TV
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-desktop.m3u8
-#EXTINF:0, tvg-logo="" group-title="",Nebiset
+#EXTINF:0, tvg-logo="https://i.ytimg.com/vi/bPfz8L8BllA/maxresdefault_live.jpg" group-title="",Nebiset
 http://hls.nebiset.tv/nebiset.m3u8
-#EXTINF:0, tvg-logo="" group-title="",Now Music TV
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NOW_Music.png/revision/latest?cb=20161029104720" group-title="",Now Music TV
 http://live.aatw.simplestreamcdn.com/now/live.m3u8
-#EXTINF:0, tvg-logo="" group-title="",NRJ Hits
+#EXTINF:0, tvg-logo="https://www.parsatv.com/index_files/channels/nrjhitstv.jpg" group-title="",NRJ Hits
 http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
-#EXTINF:0, tvg-logo="" group-title="",NRJ TV
+#EXTINF:0, tvg-logo="http://image-api.nrj.fr/http/www.nrj-play.fr%2Fimg%2Fdefault-PLAY.jpg?referer=NRJ+Play" group-title="",NRJ TV
 http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
-#EXTINF:0, tvg-logo="" group-title="",RitmoVision
+#EXTINF:0, tvg-logo="http://38iztv.com/wp-content/uploads/2017/08/7f3c97_628acc6350f3457d8fece3d091af5940-e1501731763981.jpg" group-title="",RitmoVision
 http://3435c1ca-lp-live.ums.ustream.tv/playlist/auditorium/channel/18739366/playlist.m3u8?token=6302570_1512075867735&appType=11&appVersion=3&ts=1512075867&chunkingType=improved&geo=US&sgn=7c5196247d694c6a813e07fc62227939ff5d171b&preferredBitrate=0&cdnHost=uhs-akamai.ustream.tv
