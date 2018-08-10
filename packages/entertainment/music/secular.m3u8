@@ -1,28 +1,28 @@
-#EXTINF:0, tvg-logo="" group-title="",1Music
+#EXTINF:0, tvg-logo="http://us0-cdn.onlineradiobox.com/img/fblogo/8/66158.v8.png" group-title="",1Music
 http://stream.1music.hu/stream/1music.m3u8
-#EXTINF:0, tvg-logo="" group-title="",Bridge TV
+#EXTINF:0, tvg-logo="https://i.ytimg.com/vi/8SCN1kPjcBc/hqdefault.jpg" group-title="",Bridge TV
 https://bl.webcaster.pro/media/start/free_9d6a8624a7702dddd15b6c4fbf272152_hd/65_91554723/6b805dbede42bab6bbb6c3b829e4a31b/4639979456.m3u8
-#EXTINF:0, tvg-logo="" group-title="",California Music Channel
+#EXTINF:0, tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/8c/03/f1/8c03f1a7-a5f6-707c-87ed-252e93ea9eaa/contsched.yoepvqdw.lsr/600x600bb.jpg" group-title="",California Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
-#EXTINF:0, tvg-logo="" group-title="",Channel AKA
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Channel_AKA_logo.png" group-title="",Channel AKA
 http://live.aatw.simplestreamcdn.com/aka/live.m3u8
-#EXTINF:0, tvg-logo="" group-title="",Chilled TV
+#EXTINF:0, tvg-logo="https://i.vimeocdn.com/video/538917439_1280x720.jpg" group-title="",Chilled TV
 http://live.aatw.simplestreamcdn.com/chilled/live.m3u8
-#EXTINF:0, tvg-logo="" group-title="",Clubland TV
+#EXTINF:0, tvg-logo="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/035BF243-C18E-7281-A99BD4455ACF732A.jpg" group-title="",Clubland TV
 http://live.aatw.simplestreamcdn.com/clubland/live.m3u8
-#EXTINF:0, tvg-logo="" group-title="",The Country Network
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="",The Country Network
 http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="",Deluxe Music
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DeluxeMusic2013.svg/1200px-DeluxeMusic2013.svg.png" group-title="",Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
-#EXTINF:0, tvg-logo="" group-title="",Heart TV
+#EXTINF:0, tvg-logo="http://tv.luxew.info/wp-content/uploads/2016/07/Heart-tv-uk-live.jpg" group-title="",Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="",Kiss TV
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/Kiss_TV_HD.jpg/revision/latest?cb=20161213141156" group-title="",Kiss TV
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-desktop.m3u8
-#EXTINF:0, tvg-logo="" group-title="",Now Music TV
+#EXTINF:0, tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2013/10/NOW-MUSIC-300x211.jpg?resize=300%2C211" group-title="",Now Music TV
 http://live.aatw.simplestreamcdn.com/now/live.m3u8
-#EXTINF:0, tvg-logo="" group-title="",Radio Monte Carlo TV
+#EXTINF:0, tvg-logo="http://okteve.com/wp-content/uploads/media/b2f4d5bb1b78b392048436a272d6e7ac.jpeg" group-title="",Radio Monte Carlo TV
 http://tv.105.net/live/rmc1/playlist.m3u8
-#EXTINF:-1, tvg-logo="" group-title="",RTI HD
+#EXTINF:-1, tvg-logo="http://ovego.tv/img4/rtihd.gif" group-title="",RTI HD
 http://cdn.vsnw.net:8081/interradio/720i.m3u8
-#EXTINF:-1, tvg-logo="" group-title="",XITE TV
+#EXTINF:-1, tvg-logo="https://nederlandsmedianieuws.nl/images/2017/7/Xite.jpg" group-title="",XITE TV
 http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
