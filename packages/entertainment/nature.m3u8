@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0, tvg-logo="" group-title="",Nature Vision
+#EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91KnnbNndNL.png" group-title="",Nature Vision
 https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/ntrnaturevision/playlist.m3u8
-#EXTINF:0, tvg-logo="" group-title="",Pursuit Channel
+#EXTINF:0, tvg-logo="https://image.roku.com/channels/images/011d5afb3ab64f75a6969ab0bd561b8f-hd.jpg" group-title="",Pursuit Channel
 https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/pursuitlive/playlist.m3u8
-#EXTINF:0, tvg-logo="" group-title="",Relax.TV
+#EXTINF:0, tvg-logo="https://lh4.googleusercontent.com/-svkN5xS9zTY/AAAAAAAAAAI/AAAAAAAAACw/Jlq1HSEPvBo/il/photo.jpg" group-title="",Relax.TV
 http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
