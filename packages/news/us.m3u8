@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:0, tvg-logo="" group-title="News",ABC News Live
+#EXTINF:0, tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider6.jpg" group-title="News",ABC News Live
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="Libertarian",The Alex Jones Radio Show
+#EXTINF:0, tvg-logo="https://cdn.arstechnica.net/wp-content/uploads/2018/07/youcallhimdoctorjones-800x450.png" group-title="Libertarian",The Alex Jones Radio Show
 https://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
 #EXTINF:0, tvg-logo="https://cbschicago.files.wordpress.com/2015/11/cbsn-generic.jpg?w=1280" group-title="News",CBSN
 https://www.cbsnews.com/common/video/dai_prod.m3u8
-#EXTINF:0, tvg-logo="" group-title="Libertarian",Counter Think With Mike Adams
+#EXTINF:0, tvg-logo="https://hw.infowars.com/wp-content/images/watch-counter-think-thumb.jpg" group-title="Libertarian",Counter Think With Mike Adams
 https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="Finance",Cheddar
+#EXTINF:0, tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812afe1d0f0b8d55dde67fa/featuredImage.jpg" group-title="Finance",Cheddar
 http://feed00.pluto.tv/feed04/ngrp:cheddar.stream_all/playlist.m3u8
-#EXTINF:0, tvg-logo="" group-title="News",Cheddar Big News
+#EXTINF:0, tvg-logo="https://cdn-images-1.medium.com/max/1600/1*IiN-2aKkPFTIk_ZCSNqXqQ.jpeg" group-title="News",Cheddar Big News
 https://wowzaprod124-i.akamaihd.net/hls/live/505691/261805b7/playlist.m3u8
 #EXTINF:0, tvg-logo="https://snapshots.streamlive.to/snapshots/ohn58e97er36vjr_snapshot.jpg" group-title="News",FNC Preview
 http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
@@ -25,13 +25,13 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://stream1.nra.tv/nratv/ngrp:nratvall/playlist.m3u8
 #EXTINF:0, tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/f99bf312-8fce-5925-f11b-41ba1cd7829b-News247_featured.jpg" group-title="News",Pluto TV Headlines
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:0, tvg-logo="" group-title="Libertarian",Real News With David Knight
+#EXTINF:0, tvg-logo="https://static.infowars.com/images/watch-real-news-thumb.jpg" group-title="Libertarian",Real News With David Knight
 https://infowarslive-lh.akamaihd.net/i/RealNews_1@561924/master.m3u8
 #EXTINF:0, tvg-logo="https://countercurrents.org/wp-content/uploads/2017/11/rt-america-new.si_.jpg" group-title="Liberal",RT America
 https://secure-streams.akamaized.net/rt-usa/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="News",Sky News America
+#EXTINF:0, tvg-logo="https://i.ytimg.com/vi/XOacA3RYrXk/maxresdefault_live.jpg" group-title="News",Sky News America
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/skynewsamericas_cdhls.m3u8
-#EXTINF:0, tvg-logo="" group-title="Libertarian",War Room with David Shroyer
+#EXTINF:0, tvg-logo="https://static.infowars.com/images/war-room-poster.jpg" group-title="Libertarian",War Room with David Shroyer
 https://infowarslive-lh.akamaihd.net/i/WarRoom_1@561925/master.m3u8
 #EXTINF:0, tvg-logo="http://www.fivestarservices.ca/assets/images/weather-network.jpg" group-title="Weather",Weather Network
 https://d383mxeq7zv96c.cloudfront.net/api/ott/getVideoStream/USNATIONAL/master.m3u8?country=us
