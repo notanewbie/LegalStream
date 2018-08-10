@@ -5,11 +5,11 @@ http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8
 https://bcovlive-a.akamaihd.net/89bfb670298a4b44ad400886278c56be/us-west-2/1418490336/playlist.m3u8
 #EXTINF:0, tvg-logo="https://cnet2.cbsistatic.com/img/NO6Tw1v97jkjnen0NF37aLC5tEg=/fit-in/570x0/2018/02/25/a3f3b2fc-9983-4232-b905-a96426f93fa5/hq-cb4-1400x788-live.jpg" group-title="Sports News",CBS Sports HQ
 https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
-#EXTINF:0, tvg-logo="" group-title="Sports News",Fox Sports
+#EXTINF:0, tvg-logo="https://i.kinja-img.com/gawker-media/image/upload/s--NxekXGiy--/c_scale,f_auto,fl_progressive,q_80,w_800/wnja60hjmxcsqg7hqnmf.png" group-title="Sports News",Fox Sports
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:0, tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/0a77147546061.560ad49d9afdc.jpg" group-title="Sports News",Fox Sports News
 https://foxsportshlsg01-lh.akamaihd.net/i//fsnewshls_0@301672/master.m3u8
 #EXTINF:0, tvg-logo="https://imagecomposer.nfl.com/?f=png&w=400&l=http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png" group-title="Sports News",NFL Now Live
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8
-#EXTINF:0, tvg-logo="" group-title="Sports News",VSiN
+#EXTINF:0, tvg-logo="https://www.vsin.com/assets/1/6/logo-300x157-bg-1.png" group-title="Sports News",VSiN
 https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
