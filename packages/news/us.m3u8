@@ -15,6 +15,8 @@ https://wowzaprod124-i.akamaihd.net/hls/live/505691/261805b7/playlist.m3u8
 http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
 #EXTINF:0, tvg-logo="https://snapshots.streamlive.to/snapshots/ohn58e97er36vjr_snapshot.jpg" group-title="News",FNC Preview HQ (No Audio)
 https://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/master.m3u8
+#EXTINF:0, tvg-logo="https://s17-us2.startpage.com/cgi-bin/serveimage?url=https%3A%2F%2Fnation.foxnews.com%2Faccount%2Fstatic%2Fimages%2FFN%2Ffox_nation_logo_og.jpg&sp=f8c4c7ddf18f452c96ee27ee0f7ab09e" group-title="Conservative",Fox Nation Live Stream
+https://fnurtmp-f.akamaihd.net/i/FXN_1@436154/master.m3u8
 #EXTINF:0, tvg-logo="https://radio.foxnews.com/wp-content/uploads/2012/12/FOX-News-Talk-Radio-1.jpg" group-title="Conservative",Fox News Talk
 https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 #EXTINF:0, tvg-logo="https://i.ytimg.com/vi/rPXPfq6Fg_U/maxresdefault.jpg" group-title="Liberal",Free Speech TV
