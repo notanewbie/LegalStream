@@ -32,7 +32,7 @@ http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/skynewsamericas_c
 #EXTINF:0, tvg-logo="https://images.infowarsmedia.com/images/ee646e7f-3053-4209-bbf7-6973b45eb8cc.jpg?type=large" group-title="Libertarian",The David Knight Show
 https://streaminfo-live.secure.footprint.net/hls-live/streamroot2-streaminfo3/_definst_/live.m3u8
 #EXTINF:0, tvg-logo="https://static.infowars.com/images/war-room-poster.jpg" group-title="Libertarian",War Room with David Shroyer
-https://infowarslive-lh.akamaihd.net/i/WarRoom_1@561925/master.m3u8
+https://streaminfo-live.secure.footprint.net/hls-live/streamroot2-streaminfo2/_definst_/live.m3u8
 #EXTINF:0, tvg-logo="http://www.fivestarservices.ca/assets/images/weather-network.jpg" group-title="Weather",Weather Network
 https://d383mxeq7zv96c.cloudfront.net/api/ott/getVideoStream/USNATIONAL/master.m3u8?country=us
 #EXTINF:0, tvg-logo="http://www.weathernationtv.com/app/uploads/WNTV.jpg" group-title="Weather",WeatherNation TV
