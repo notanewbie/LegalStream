@@ -6,7 +6,7 @@ https://streaminfo-live.secure.footprint.net/hls-live/streamroot2-streaminfo/_de
 #EXTINF:0, tvg-logo="https://cbschicago.files.wordpress.com/2015/11/cbsn-generic.jpg?w=1280" group-title="News",CBSN
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:0, tvg-logo="https://hw.infowars.com/wp-content/images/watch-counter-think-thumb.jpg" group-title="Libertarian",Counter Think With Mike Adams
-https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/master.m3u8
+https://infowarslive-lh.akamaihd.net/i/MikeAdams_1@704916/master.m3u8
 #EXTINF:0, tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812afe1d0f0b8d55dde67fa/featuredImage.jpg" group-title="Finance",Cheddar
 https://live.chdrstatic.com/cheddar/index.m3u8
 #EXTINF:0, tvg-logo="https://cdn-images-1.medium.com/max/1600/1*IiN-2aKkPFTIk_ZCSNqXqQ.jpeg" group-title="News",Cheddar Big News
