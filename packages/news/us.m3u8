@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0, tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider6.jpg" group-title="News",ABC News Live
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
-#EXTINF:0, tvg-logo="https://cdn.arstechnica.net/wp-content/uploads/2018/07/youcallhimdoctorjones-800x450.png" group-title="Libertarian",The Alex Jones Radio Show
-https://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:0, tvg-logo="http://ztalkradio.com/wp-content/uploads/2016/06/alex-jones.jpg" group-title="Libertarian",The Alex Jones Radio Show
+https://streaminfo-live.secure.footprint.net/hls-live/streamroot2-streaminfo/_definst_/live.m3u8
 #EXTINF:0, tvg-logo="https://cbschicago.files.wordpress.com/2015/11/cbsn-generic.jpg?w=1280" group-title="News",CBSN
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:0, tvg-logo="https://hw.infowars.com/wp-content/images/watch-counter-think-thumb.jpg" group-title="Libertarian",Counter Think With Mike Adams
@@ -19,6 +19,8 @@ https://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/master.m3u8
 https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 #EXTINF:0, tvg-logo="https://i.ytimg.com/vi/rPXPfq6Fg_U/maxresdefault.jpg" group-title="Liberal",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:0, tvg-logo="https://cdn.arstechnica.net/wp-content/uploads/2018/07/youcallhimdoctorjones-800x450.png" group-title="Libertarian",Infowars
+https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/master.m3u8
 #EXTINF:0, tvg-logo="https://cfvod.kaltura.com/p/2216081/sp/221608100/thumbnail/entry_id/1_f19eeulz/version/100001/width/768/height/435" group-title="Conservative",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:0, tvg-logo="https://image.roku.com/channels/images/a543ba57b2624e7784bbf6dabd1c78ce-hd.png" group-title="Conservative",NRATV
