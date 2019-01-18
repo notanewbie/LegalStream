@@ -9,6 +9,10 @@ https://buzzr-zixi.global.ssl.fastly.net/BUZZR_HLS_TEST.m3u8?hlsid=HTTP_ID_777
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
 #EXTINF:0, tvg-logo="http://singteltv.com.sg/_channels/pic_ch211.jpg" group-title="Documentaries",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:0, tvg-logo="https://image.roku.com/developer_channels/prod/8432f7becc7755f9a82361097f7a62d8c25b270c203565484c583dc0c2d69115.png" group-title="General",Dove Channel
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+#EXTINF:0, tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59120e45877eeb3760b3d9da/featuredImage.jpg" group-title="General",Gravitas Movies
+https://dai.google.com/linear/hls/pa/event/EpqgwRlpQKq73ySVSohJWA/stream/f3b56329-3ec7-4684-948c-4194ef970a86:CBF2/master.m3u8
 #EXTINF:0, tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="Live",Law & Crime
 https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
 #EXTINF:0, tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="Live",Law & Crime 2
@@ -17,6 +21,8 @@ https://live-lawandcrime.simplestreamcdn.com/landc_d2/live.m3u8
 https://live-lawandcrime.simplestreamcdn.com/landc_d3/live.m3u8
 #EXTINF:0, tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="Live",Law & Crime 4
 https://live-lawandcrime.simplestreamcdn.com/landc_d4/live.m3u8
+#EXTINF:0, tvg-logo="https://i.ytimg.com/vi/cSJsoHA8xdg/hqdefault.jpg" group-title="General",MovieMix
+https://dai.google.com/linear/hls/pa/event/TSIJo6RCRZWuCD9WrKtRFg/stream/a468bdd3-a0e5-4a4b-bae7-3e784ee5f4e4:CBF2/master.m3u8
 #EXTINF:0, tvg-logo="https://pmcvariety.files.wordpress.com/2017/05/pluto-tv.jpg?w=1000&h=563&crop=1" group-title="General",Pluto Movies
 https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:0, tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59976841a09fd13c9b590ce8/featuredImage.jpg" group-title="General",Pluto Movies 2
