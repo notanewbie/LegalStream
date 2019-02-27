@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0, tvg-logo="https://woollydays.files.wordpress.com/2010/07/abcnews24.jpg" group-title="Australia",ABC News Channel
-https://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index.m3u8
 #EXTINF:0, tvg-logo="http://www.encounters.co.za/wp-content/uploads/2017/05/al-jazeera-500x288.png" group-title="Qatar",Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:0, tvg-logo="http://www.cbn.com/images8/cbnnews/CBN-OG.jpg" group-title="USA",CBN News
