@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0, tvg-logo="http://www.cbn.com/images8/cbnnews/CBN-OG.jpg" group-title="",CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:0, tvg-logo="https://scontent.fosu1-1.fna.fbcdn.net/v/t31.0-8/10855075_952261624825388_686519945242005559_o.jpg?_nc_cat=102&_nc_ht=scontent.fosu1-1.fna&oh=2e6c3e4c3e867455e9ee64bb94ae596c&oe=5CDCC03C" group-title="",Cedarville University Chapel Live
+https://live.cedarville.edu/live/ngrp:dffNDX42XEi4ErY41R0RDg_all/playlist.m3u8
 #EXTINF:0, tvg-logo="https://cblproperty.blob.core.windows.net/production/assets/bltd63cf784df7f8d42-LifeWay_2137023523.jpg" group-title="",Lifeway Channel
 https://250684-lh.akamaihd.net/i/Lifeway_YHome@388663/master.m3u8
 #EXTINF:0, tvg-logo="https://lifewaychurch.life/wp-content/uploads/2015/08/lifeway-logo-horizontal-LG.png" group-title="",Lifeway Church
