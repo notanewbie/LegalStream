@@ -8,7 +8,11 @@ https://6e7321dcb6b84ceb844ec3773b59e53a.midas.us-east-1.amazonaws.com/v1/master
 #EXTINF:0, tvg-logo="https://www.nascar.com/wp-content/uploads/sites/7/2018/07/NASCAR-JPG-Centered.jpg" group-title="Stock Car Racing",NASCAR Live Event
 http://nascar_prhd-f.akamaihd.net/i/nascarliveevent_01@81650/master.m3u8
 #EXTINF:0, tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/11/cbsncaa.jpg" group-title="College Sports",NCAA College Basketball on CBS
-http://cbssportsliveios-i.akamaihd.net/hls/live/200603/cbklive2/desktop.m3u8
+https://sports-events-cedexis.cbsaavideo.com/cbk1/master.m3u8
+#EXTINF:0, tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/11/cbsncaa.jpg" group-title="College Sports",NCAA College Basketball on CBS 2
+https://sports-events-cedexis.cbsaavideo.com/cbk2/master.m3u8
+#EXTINF:0, tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/11/cbsncaa.jpg" group-title="College Sports",NCAA College Basketball on CBS 3
+https://sports-events-cedexis.cbsaavideo.com/cbk3/master.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Nfl_on_nbc_%28metallic%29.jpg" group-title="NFL",NFL on NBC
 http://sprtlive1.akamaized.net/hls/live/586250/nbc-sports0909143029-ua/master.m3u8
 #EXTINF:0, tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/06/yahoosports.jpg" group-title="Hockey",NHL Free Game of the Day
