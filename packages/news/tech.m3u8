@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:0, tvg-logo="https://p-events-delivery.akamaized.net/1902kqjxryyrbajopflcgykapfuzwetatbxq/js_files/event/poster__bf7h8lkl9wya_xlarge.jpg" group-title="News & Analysis",Apple Events
+https://apple-events.akamaized.net/hls/live/681800-b/2802kiwhflwlpjqudjnvlnpghfiutkjswkvphaofkgoehdh/master/6000/6000.m3u8
 #EXTINF:0, tvg-logo="https://computerforumz.files.wordpress.com/2015/01/twit_logo_wallpaper.png" group-title="News & Analysis",TWiT
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
