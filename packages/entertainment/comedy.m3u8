@@ -5,8 +5,12 @@ https://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
 http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
 #EXTINF:0, tvg-logo="https://i.ytimg.com/vi/6Bk0JhfXTVs/maxresdefault.jpg" group-title="",Black Jesus 24/7
 http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:0, tvg-logo="https://da4pli3l5vc0d.cloudfront.net/a2/8a/a28a297425f0afd0a07f3d8c67c8261f75624b00" group-title="",Dream Corp, LLC
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_7.m3u8
 #EXTINF:0, tvg-logo="https://tvbtn.files.wordpress.com/2016/08/the-eric-andre-show.jpg?w=640" group-title="",Eric Andre Show 24/7
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:0, tvg-logo="http://turfclub.net/wp-content/uploads/2017/01/lastpodcastontheleftlogo-web.jpg" group-title="",Last Stream on the Left
+https://adultswimhls-i.akamaihd.net/hls/live/249294/adultswim_5/main/1/stream.m3u8?hdnts=
 #EXTINF:0, tvg-logo="https://static.next-episode.net/tv-shows-images/huge/mr.-pickles.jpg" group-title="",Mr. Pickles 24/7
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 #EXTINF:0, tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/014/799/22881.jpeg" group-title="",Rick and Morty 24/7
@@ -16,6 +20,8 @@ https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
 #EXTINF:0, tvg-logo="https://i.ytimg.com/vi/mkkK3EQ4fek/maxresdefault.jpg" group-title="",Tim and Eric 24/7
 http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 #EXTINF:0, tvg-logo="https://scdn.nflximg.net/images/5409/3955409.jpg" group-title="",Venture Bros. 24/7
-http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8?hdnts=
 #EXTINF:0, tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2017/08/29/WS_thumbs.jpg" group-title="",Williams Stream 24/7
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Your_Pretty_Face_is_Going_to_Hell.png" group-title="",Your Pretty Face Is Going To Hell
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_7.m3u8
