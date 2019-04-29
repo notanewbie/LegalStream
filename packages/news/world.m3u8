@@ -13,6 +13,8 @@ https://live.cgtn.com/500/prog_index.m3u8
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/I24NEWS_logo.svg/1280px-I24NEWS_logo.svg.png" group-title="Israel",i24 News
 https://stream-01.dc3.dailymotion.com/44/dm/3/x29atae/live-4.m3u8
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/NDTV_247.svg" group-title="India",NDTV
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:0, tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/7/4/9/7/7497266/7497266_nhk_world_logo2_1299927691,640x360,b:1.jpg" group-title="Japan",NHK World
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:0, tvg-logo="http://dannews.co.nz/wp-content/uploads/2017/07/Press-TV-News-Live-Stream.jpg" group-title="Israel",Press TV
