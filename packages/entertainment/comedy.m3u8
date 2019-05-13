@@ -5,6 +5,10 @@ https://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
 http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
 #EXTINF:0, tvg-logo="https://i.ytimg.com/vi/6Bk0JhfXTVs/maxresdefault.jpg" group-title="",Black Jesus 24/7
 http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:0, tvg-logo="https://static.adweek.com/adweek.com-prod/wp-content/uploads/2018/11/CC_Refresh__Logo_WordMark-890-2018.png" group-title="General",Comedy Central
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:0, tvg-logo="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F54817135%2F279208278849%2F1%2Foriginal.20190108-203552?h=230&w=460&auto=compress&rect=0%2C75%2C2400%2C1200&s=a89b0031835b02fe2238c1c0d5980982" group-title="General",Comedy Central Stand-Up
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:0, tvg-logo="https://da4pli3l5vc0d.cloudfront.net/a2/8a/a28a297425f0afd0a07f3d8c67c8261f75624b00" group-title="",Dream Corp, LLC
 https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_7.m3u8
 #EXTINF:0, tvg-logo="https://tvbtn.files.wordpress.com/2016/08/the-eric-andre-show.jpg?w=640" group-title="",Eric Andre Show 24/7
