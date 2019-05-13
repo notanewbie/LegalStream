@@ -3,8 +3,8 @@
 https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/S/amazonlive-media-prod/broadcast/a/a4006cb3-8f2a-48a7-a6cf-e4ea275c17f7/image/slate.jpg" group-title="Shopping",Amazon Today's Deals Live
 https://usher.ttvnw.net/api/lvs/hls/lvs.AmazonLiveTools-prod.958d17b0-5e50-4d81-a444-1d99885e851a.m3u8
-#EXTINF:0, tvg-logo="https://i.ytimg.com/vi/UOt2DDyMZ9w/maxresdefault.jpg" group-title="Game Show",BUZZR
-https://buzzr-zixi.global.ssl.fastly.net/BUZZR_HLS_TEST.m3u8?hlsid=HTTP_ID_777
+#EXTINF:0, tvg-logo="http://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/featuredImage.jpg" group-title="Game Show",BUZZR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:0, tvg-logo="https://www.byutv.org/content/png-logos/byutv/app/square/1280x720.png" group-title="General",BYUTV
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
 #EXTINF:0, tvg-logo="http://singteltv.com.sg/_channels/pic_ch211.jpg" group-title="Documentaries",CGTN Documentary
