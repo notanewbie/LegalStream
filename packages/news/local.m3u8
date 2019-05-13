@@ -135,6 +135,8 @@ http://wvir-lh.akamaihd.net/i/WVIR_736@78303/master.m3u8?forceCacheClearSM=53080
 https://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
 #EXTINF:0, tvg-logo="" group-title="",NewsChannel 12 KTVZ
 https://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+#EXTINF:0, tvg-logo="" group-title="",NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="",NewsWest 9 KWES
 https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:0, tvg-logo="" group-title="",NYXT
