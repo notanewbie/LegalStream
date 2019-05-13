@@ -5,6 +5,8 @@ http://aos01.3abn.adaptive.level3.net/hls-live/mediaoppremux-3abn_multi/_definst
 https://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master.m3u8
 #EXTINF:0, tvg-logo="https://cdn.dstv.com/dstvcms/2015/11/17/Emmanueal_001_lrg_lrg.jpg" group-title="Teaching",Emmanuel TV
 http://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
+#EXTINF:0, tvg-logo="http://images.pluto.tv/channels/5c58a539fae3812612f33ca3/featuredImage.jpg" group-title="Entertainment",Faith TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c58a539fae3812612f33ca3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:0, tvg-logo="https://d9nqqwcssctr8.cloudfront.net/wp-content/uploads/2016/06/01015623/the-channel-I-see-card-hillsong-collected.jpg" group-title="Lifestyle",Hillsong Channel
 https://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
 #EXTINF:0, tvg-logo="http://www.forward-now.com/wp-content/uploads/2012/10/Praise-Temple.jpg" group-title="Teaching",Praise Temple
