@@ -18,6 +18,8 @@ http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/Kiss_TV_HD.jpg/revision/latest?cb=20161213141156" group-title="",Kiss TV
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-desktop.m3u8
+#EXTINF:0, tvg-logo="http://images.pluto.tv/channels/5812bbf3e58ad7c757009427/featuredImage.jpg" group-title="News & Analysis",Monstercat
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bbf3e58ad7c757009427/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:0, tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2013/10/NOW-MUSIC-300x211.jpg?resize=300%2C211" group-title="",Now Music TV
 http://live.aatw.simplestreamcdn.com/now/live.m3u8
 #EXTINF:0, tvg-logo="http://okteve.com/wp-content/uploads/media/b2f4d5bb1b78b392048436a272d6e7ac.jpeg" group-title="",Radio Monte Carlo TV
