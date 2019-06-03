@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0, tvg-logo="https://www.apple.com/v/apple-events/livestream/b/images/livestream/poster__bf7h8lkl9wya_medium.jpg" group-title="Live",WWDC19
-https://p-events-delivery.akamaized.net/3004uhggjsaqvcdnqxgthmqqrbejhxytzxcd/m3u8/atv_mvp.m3u8
-#EXTINF:0, tvg-logo="https://www.apple.com/v/apple-events/livestream/b/images/livestream/poster__bf7h8lkl9wya_medium.jpg" group-title="Live",WWDC19 2
-https://p-events-delivery.akamaized.net/3004uhggjsaqvcdnqxgthmqqrbejhxytzxcd/m3u8/hls_mvp.m3u8
+https://p-events-delivery.akamaized.net/3004qzusahnbjppuwydgjzsdyzsippar/m3u8/hls_mvp.m3u8
 #EXTINF:0, tvg-logo="http://images.pluto.tv/channels/56283c8769ba54637dea0464/featuredImage.jpg" group-title="News & Analysis",C-NET
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:0, tvg-logo="http://images.pluto.tv/channels/54173136ff9fba68282f4d53/featuredImage.jpg" group-title="News & Analysis",The Feed
