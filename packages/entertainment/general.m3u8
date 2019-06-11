@@ -11,6 +11,8 @@ https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:0, tvg-logo="https://image.roku.com/developer_channels/prod/8432f7becc7755f9a82361097f7a62d8c25b270c203565484c583dc0c2d69115.png" group-title="General",Dove Channel
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+#EXTINF:0, tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/04/01/03214531-586b-4683-813e-a3252999e063/thumbnail/1280x720/e359894b45362a16a256ad90e5a1aec2/et-live-logo-1920x1080.jpg" group-title="Entertainment",ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
 #EXTINF:0, tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59120e45877eeb3760b3d9da/featuredImage.jpg" group-title="General",Gravitas Movies
 https://dai.google.com/linear/hls/pa/event/EpqgwRlpQKq73ySVSohJWA/stream/f3b56329-3ec7-4684-948c-4194ef970a86:CBF2/master.m3u8
 #EXTINF:0, tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="General",IGN
