@@ -9,16 +9,14 @@ https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:0, tvg-logo="http://www.oneafrica.tv/wp-content/uploads/2016/07/DW-Journal-News.jpg" group-title="Germany",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/I24NEWS_logo.svg/1280px-I24NEWS_logo.svg.png" group-title="Israel",i24 News
-https://stream-01.dc3.dailymotion.com/44/dm/3/x29atae/live-4.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/NDTV_247.svg" group-title="India",NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:0, tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/7/4/9/7/7497266/7497266_nhk_world_logo2_1299927691,640x360,b:1.jpg" group-title="Japan",NHK World
-https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
 #EXTINF:0, tvg-logo="http://dannews.co.nz/wp-content/uploads/2017/07/Press-TV-News-Live-Stream.jpg" group-title="Israel",Press TV
-http://178.32.255.199:1935/live/ptven/playlist.m3u8
+https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/playlist.m3u8
 #EXTINF:0, tvg-logo="http://564ccca6a641eac6e5b0-38e3bbf162f44470d3635a7244f7971b.r55.cf3.rackcdn.com/russia-today-channel-images-logo-large.png" group-title="Russia",RT News
-https://secure-streams.akamaized.net/rt/index.m3u8
+https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:0, tvg-logo="https://the-latest.com/sites/default/files/RT%20-%20logo.jpeg" group-title="UK",RT UK
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
 #EXTINF:0, tvg-logo="https://s3-eu1.ixquick.com/cgi-bin/serveimage?url=http%3A%2F%2Ft0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRW78-x561FChNNvw4XhOkZqV5ri-mmRhXhRemh4b1FsSW_2l64rQ&sp=f137b3c906d10ffde4d23ed5c8386d6f&anticache=161320" group-title="UK",Sky News
