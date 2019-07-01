@@ -18,7 +18,7 @@ https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/playlist.m3u8
 #EXTINF:0, tvg-logo="http://564ccca6a641eac6e5b0-38e3bbf162f44470d3635a7244f7971b.r55.cf3.rackcdn.com/russia-today-channel-images-logo-large.png" group-title="Russia",RT News
 https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:0, tvg-logo="https://the-latest.com/sites/default/files/RT%20-%20logo.jpeg" group-title="UK",RT UK
-https://secure-streams.akamaized.net/rt-uk/index.m3u8
+https://rt-uk.secure.footprint.net/1106.m3u8
 #EXTINF:0, tvg-logo="https://s3-eu1.ixquick.com/cgi-bin/serveimage?url=http%3A%2F%2Ft0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRW78-x561FChNNvw4XhOkZqV5ri-mmRhXhRemh4b1FsSW_2l64rQ&sp=f137b3c906d10ffde4d23ed5c8386d6f&anticache=161320" group-title="UK",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
 #EXTINF:0, tvg-logo="https://www.trtworld.com/images/share-1000x500.png" group-title="Turkey",TRT World
