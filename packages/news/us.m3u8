@@ -2,7 +2,7 @@
 #EXTINF:0, tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider6.jpg" group-title="News",ABC News Live
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 #EXTINF:0, tvg-logo="http://ztalkradio.com/wp-content/uploads/2016/06/alex-jones.jpg" group-title="Libertarian",The Alex Jones Radio Show
-https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/live.m3u8
+https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/master.m3u8
 #EXTINF:0, tvg-logo="https://cbschicago.files.wordpress.com/2015/11/cbsn-generic.jpg?w=1280" group-title="News",CBSN
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:0, tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/featuredImage.jpg" group-title="News & Analysis",CNN
@@ -22,7 +22,7 @@ https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 #EXTINF:0, tvg-logo="https://i.ytimg.com/vi/rPXPfq6Fg_U/maxresdefault.jpg" group-title="Liberal",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:0, tvg-logo="https://cdn.arstechnica.net/wp-content/uploads/2018/07/youcallhimdoctorjones-800x450.png" group-title="Libertarian",Infowars
-https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/master.m3u8
+https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/live.m3u8
 #EXTINF:0, tvg-logo="http://images.pluto.tv/channels/56403d822d2719107d948cb9/featuredImage.jpg" group-title="News & Analysis",NBC News
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:0, tvg-logo="https://kt-media-knowtechie.netdna-ssl.com/wp-content/uploads/2019/06/download.png" group-title="News & Analysis",NBC News Now
