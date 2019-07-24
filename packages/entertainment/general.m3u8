@@ -45,6 +45,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:0, tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5887ba337b8e94223eb121bd/featuredImage.jpg" group-title="General",Pluto TV Her
 https://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0, tvg-logo="http://www.coolstreaming.us/img/ch/image8920332510.jpg" group-title="General",POPSTAR!
+https://vcnpopstar.teleosmedia.com/stream/popstar/livefeed/playlist.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/QAjjSZS.jpg" group-title="General",SupTV
 http://91.134.238.137/live/goat/index.m3u8
 #EXTINF:0, tvg-logo="https://i.ytimg.com/vi/Rq-7s5SC6ew/hqdefault_live.jpg" group-title="General",TACH
