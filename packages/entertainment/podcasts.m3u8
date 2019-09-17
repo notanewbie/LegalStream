@@ -1,6 +1,18 @@
+#EXTINF:0, tvg-logo="" group-title="Freeform",Desvox
+http://spacecowboy.cc/live/desvox.m3u8
+#EXTINF:0, tvg-logo="" group-title="Freeform",Dielan
+http://spacecowboy.cc/live/dielan.m3u8
+#EXTINF:0, tvg-logo="" group-title="Freeform",Druid
+http://spacecowboy.cc/live/druid.m3u8
+#EXTINF:0, tvg-logo="" group-title="Freeform",Freon
+http://spacecowboy.cc/live/freon.m3u8
+#EXTINF:0, tvg-logo="" group-title="Freeform",Knotteye
+http://spacecowboy.cc/live/knotteye.m3u8
 #EXTINF:0, tvg-logo="http://images.pluto.tv/channels/5812b821249444e05d09cc4c/featuredImage.jpg" group-title="Gaming",MinecrafTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:0, tvg-logo="http://images.pluto.tv/channels/561c5c7f3286e48904fb2586/featuredImage.jpg" group-title="Gaming",Nerdist
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5c7f3286e48904fb2586/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:0, tvg-logo="https://assets.roosterteeth.com/img/generic_rt_cover.jpg" group-title="Gaming",Rooster TV Beta
 https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="Freeform",Ste1lar
+http://spacecowboy.cc/live/ste1lar.m3u8
