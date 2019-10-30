@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:0, tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/pl-music-vox-tv-olds-coo.jpg" group-title="",Music Vox TV Old's Cool
 http://stream.cdn.smcloud.net/vox-t/vox_720p/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c8/Logo_virgin_radio_tv.png/revision/latest?cb=20180622152341" group-title="",Virgin Radio TV
