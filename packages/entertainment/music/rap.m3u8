@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:0, tvg-logo="https://image.roku.com/channels/images/68e89ce88ae349af91868511cf3dd8b7-hd.jpg" group-title="",Christian Hip Hop Television
 http://telvuehls_t01997-i.akamaihd.net/hls/live/218552/T01997-2/playlist.m3u8
 #EXTINF:0, tvg-logo="http://rapresurrection.com/wp-content/uploads/2018/04/jesus-hip-hop-culture.jpg" group-title="",Rap Resurrection
