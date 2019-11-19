@@ -54,7 +54,8 @@ https://video.nyt.com/live/100000006833597-live-20191119130040/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",Reuters Channel
 http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
 #EXTINF:0, tvg-logo="https://newscoop.com/wp-content/uploads/2018/02/Time-magazine.jpg" group-title="",TIME Live
-http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
 https://timesecure-lh.akamaihd.net/i/timeap1_2@446253/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",WaPo Live
+https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8?player=powa
 #EXTINF:0, tvg-logo="" group-title="",WSJ Live
 http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
