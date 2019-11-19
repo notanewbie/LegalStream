@@ -21,10 +21,10 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",America's Election HQ
 http://fnurtmp-f.akamaihd.net/i/1533674468272_01@335695/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="",C-SPAN.org Live Event
-http://dotorg1-lh.akamaihd.net/i/dotorg1_1@301849/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="",C-SPAN.org Live Event 2
-https://skystreams-lh.akamaihd.net/i/SkyDotorg1_1@500812/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",C-SPAN.org Live Event 3
+https://dotorg3-lh.akamaihd.net/i/dotorg3_1@301851/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",C-SPAN.org Live Event 5
+https://dotorg5-lh.akamaihd.net/i/DotOrg5_1@129000/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",C-SPAN 2
