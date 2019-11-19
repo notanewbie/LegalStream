@@ -49,6 +49,8 @@ https://live.foxnews.com/6c1c2a24b92948da91e731544f61535b/us-east-1/694940094001
 http://msnbc2prod-lh.akamaihd.net/i/msnbc2_live01@9615/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",NBC News Live Event
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",NYT Live Event
+https://video.nyt.com/live/100000006833597-live-20191119130040/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",Reuters Channel
 http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
 #EXTINF:0, tvg-logo="https://newscoop.com/wp-content/uploads/2018/02/Time-magazine.jpg" group-title="",TIME Live
