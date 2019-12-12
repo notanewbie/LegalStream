@@ -3,6 +3,8 @@
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index.m3u8
 #EXTINF:0, tvg-logo="http://www.encounters.co.za/wp-content/uploads/2017/05/al-jazeera-500x288.png" group-title="Qatar",Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:0, tvg-logo="https://talkmediaafrica.com/wp-content/uploads/2015/01/AriseLG-1280x720.png" group-title="Africa",Arise News
+https://embeddedplayer.visionip.tv/index.php?module=playlist&type=m3u8_mb&b2b=1&broadcastid=15718&protocolid=5&datarateid=3&user=AriseNew-VideoJS&www=www.arise.tv
 #EXTINF:0, tvg-logo="http://www.cbn.com/images8/cbnnews/CBN-OG.jpg" group-title="USA",CBN News
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 #EXTINF:0, tvg-logo="https://i.ytimg.com/vi/j5rcp8c0k9I/maxresdefault.jpg" group-title="China",CGTN English
