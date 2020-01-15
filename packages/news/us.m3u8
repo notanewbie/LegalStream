@@ -7,7 +7,7 @@ https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/master.m3u8
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
 #EXTINF:0, tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/featuredImage.jpg" group-title="News & Analysis",CNN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:0, tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/featuredImage.jpg" group-title="News & Analysis",CNN (alt)
+#EXTINF:0, tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/featuredImage.jpg" group-title="News & Analysis",CNN (ALT)
 https://cnnlive.warnermediacdn.com/hls/live/2006689-b/live0/stream_Layer7.m3u8
 #EXTINF:0, tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812afe1d0f0b8d55dde67fa/featuredImage.jpg" group-title="Finance",Cheddar
 https://live.chdrstatic.com/cheddar/index.m3u8
