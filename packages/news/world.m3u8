@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:0, tvg-logo="https://woollydays.files.wordpress.com/2010/07/abcnews24.jpg" group-title="Australia",ABC News Channel
+#EXTINF:0, tvg-logo="https://woollydays.files.wordpress.com/2010/07/abcnews24.jpg" group-title="Australia" tvg-ID="abc-news.al",ABC News Channel
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index.m3u8
-#EXTINF:0, tvg-logo="http://www.encounters.co.za/wp-content/uploads/2017/05/al-jazeera-500x288.png" group-title="Qatar",Al Jazeera English
+#EXTINF:0, tvg-logo="http://www.encounters.co.za/wp-content/uploads/2017/05/al-jazeera-500x288.png" group-title="Qatar" tvg-ID="al-jazeera.info",Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:0, tvg-logo="https://talkmediaafrica.com/wp-content/uploads/2015/01/AriseLG-1280x720.png" group-title="Africa",Arise News
 https://embeddedplayer.visionip.tv/index.php?module=playlist&type=m3u8_mb&b2b=1&broadcastid=15718&protocolid=5&datarateid=3&user=AriseNew-VideoJS&www=www.arise.tv
 #EXTINF:0, tvg-logo="http://www.cbn.com/images8/cbnnews/CBN-OG.jpg" group-title="USA",CBN News
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
-#EXTINF:0, tvg-logo="https://i.ytimg.com/vi/j5rcp8c0k9I/maxresdefault.jpg" group-title="China",CGTN English
+#EXTINF:0, tvg-logo="https://i.ytimg.com/vi/j5rcp8c0k9I/maxresdefault.jpg" group-title="China" tvg-ID="cgtn.info",CGTN English
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:0, tvg-logo="http://www.oneafrica.tv/wp-content/uploads/2016/07/DW-Journal-News.jpg" group-title="Germany",DW
+#EXTINF:0, tvg-logo="http://www.oneafrica.tv/wp-content/uploads/2016/07/DW-Journal-News.jpg" group-title="Germany" tvg-ID="deutchewelle.info",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/NDTV_247.svg" group-title="India",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:0, tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/7/4/9/7/7497266/7497266_nhk_world_logo2_1299927691,640x360,b:1.jpg" group-title="Japan",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
-#EXTINF:0, tvg-logo="http://dannews.co.nz/wp-content/uploads/2017/07/Press-TV-News-Live-Stream.jpg" group-title="Israel",Press TV
+#EXTINF:0, tvg-logo="http://dannews.co.nz/wp-content/uploads/2017/07/Press-TV-News-Live-Stream.jpg" group-title="Israel" tvg-ID="press-tv.uk",Press TV
 https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/playlist.m3u8
-#EXTINF:0, tvg-logo="http://564ccca6a641eac6e5b0-38e3bbf162f44470d3635a7244f7971b.r55.cf3.rackcdn.com/russia-today-channel-images-logo-large.png" group-title="Russia",RT News
+#EXTINF:0, tvg-logo="http://564ccca6a641eac6e5b0-38e3bbf162f44470d3635a7244f7971b.r55.cf3.rackcdn.com/russia-today-channel-images-logo-large.png" group-title="Russia" tvg-ID="russia-today.info",RT News
 https://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:0, tvg-logo="https://the-latest.com/sites/default/files/RT%20-%20logo.jpeg" group-title="UK",RT UK
+#EXTINF:0, tvg-logo="https://the-latest.com/sites/default/files/RT%20-%20logo.jpeg" group-title="UK" tvg-ID="russia-today.info",RT UK
 https://rt-uk.secure.footprint.net/1106.m3u8
-#EXTINF:0, tvg-logo="https://s3-eu1.ixquick.com/cgi-bin/serveimage?url=http%3A%2F%2Ft0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRW78-x561FChNNvw4XhOkZqV5ri-mmRhXhRemh4b1FsSW_2l64rQ&sp=f137b3c906d10ffde4d23ed5c8386d6f&anticache=161320" group-title="UK",Sky News
+#EXTINF:0, tvg-logo="https://s3-eu1.ixquick.com/cgi-bin/serveimage?url=http%3A%2F%2Ft0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRW78-x561FChNNvw4XhOkZqV5ri-mmRhXhRemh4b1FsSW_2l64rQ&sp=f137b3c906d10ffde4d23ed5c8386d6f&anticache=161320" group-title="UK"  tvg-ID="skynews.info",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
-#EXTINF:0, tvg-logo="https://www.trtworld.com/images/share-1000x500.png" group-title="Turkey",TRT World
+#EXTINF:0, tvg-logo="https://www.trtworld.com/images/share-1000x500.png" group-title="Turkey" tvg-ID="trt-world.tr",TRT World
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:0, tvg-logo="https://freebeacon.com/wp-content/uploads/2013/09/VOA.jpg" group-title="USA",VOA
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
