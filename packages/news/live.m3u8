@@ -25,13 +25,13 @@ http://fnurtmp-f.akamaihd.net/i/1533674468272_01@335695/master.m3u8
 https://dotorg3-lh.akamaihd.net/i/dotorg3_1@301851/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",C-SPAN.org Live Event 5
 https://dotorg5-lh.akamaihd.net/i/DotOrg5_1@129000/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="",C-SPAN
+#EXTINF:0, tvg-logo="" group-title="" ,C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",C-SPAN 2
 https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",C-SPAN 3
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
-#EXTINF:0, tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/170711161429-happening-now-16x9-artwork-exlarge-tease.jpg" group-title="",CNN Debate
+#EXTINF:0, tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/170711161429-happening-now-16x9-artwork-exlarge-tease.jpg" group-title="" tvg-ID="cnn.info",CNN Debate
 https://cnnlive.warnermediacdn.com/hls/live/2006689/live0/master.m3u8
 #EXTINF:0, tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/shows/default-show-image-large-169.jpg" group-title="",CNN International Live Event
 https://cnn-i.akamaihd.net/hls/live/224534/cnndebates_1/v2/master.m3u8
