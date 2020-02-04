@@ -31,8 +31,6 @@ https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
 https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",C-SPAN 3
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
-#EXTINF:0, tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/170711161429-happening-now-16x9-artwork-exlarge-tease.jpg" group-title="" tvg-name="cnn.info" tvg-name="CNN",CNN Debate
-https://cnnlive.warnermediacdn.com/hls/live/2006689/live0/master.m3u8
 #EXTINF:0, tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/shows/default-show-image-large-169.jpg" group-title="",CNN International Live Event
 https://cnn-i.akamaihd.net/hls/live/224534/cnndebates_1/v2/master.m3u8
 #EXTINF:0, tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/170711161429-happening-now-16x9-artwork-exlarge-tease.jpg" group-title="",CNN Live Event
@@ -43,12 +41,6 @@ https://cnngo1.akamaized.net/hls/live/599236/PROD-cnnlive2/master.m3u8
 https://cnngo1.akamaized.net/hls/live/599237/PROD-cnnlive3/master.m3u8
 #EXTINF:0, tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/170711161429-happening-now-16x9-artwork-exlarge-tease.jpg" group-title="",CNN Live Event 4
 https://cnngo1.akamaized.net/hls/live/599238/PROD-cnnlive4/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="",Fox News Live Event
-https://live.foxnews.com/6c1c2a24b92948da91e731544f61535b/us-east-1/694940094001/playlist.m3u8
-#EXTINF:0, tvg-logo="" group-title="",MSNBC Live Event
-http://msnbc2prod-lh.akamaihd.net/i/msnbc2_live01@9615/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="",NBC News Now Live Event
-https://link.theplatform.com/s/rksNhC/7FVV_xJtTBKP?MBR=TRUE&format=redirect&manifest=m3u
 #EXTINF:0, tvg-logo="" group-title="",NBC News Now Live Event 11
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",NBC News Now Live Event 12
