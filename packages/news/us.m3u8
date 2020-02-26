@@ -40,7 +40,7 @@ http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/skynewsamericas_c
 #EXTINF:0, tvg-logo="https://images.infowarsmedia.com/images/ee646e7f-3053-4209-bbf7-6973b45eb8cc.jpg?type=large" group-title="Libertarian",The David Knight Show
 https://infostream.secure.footprint.net/hls-live/infostream2-infostream2/_definst_/live.m3u8
 #EXTINF:0, tvg-logo="http://images.pluto.tv/channels/5331d5fb753499095a00045a/featuredImage.jpg" group-title="News & Analysis",TYT Network
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5331d5fb753499095a00045a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+https://tyt-ssai.akamaized.net/amagi_hls_data_tytnetwor-tytxumo/CDN/master.m3u8
 #EXTINF:0, tvg-logo="https://static.infowars.com/images/war-room-poster.jpg" group-title="Libertarian",War Room with David Shroyer
 https://infostream.secure.footprint.net/hls-live/infostream3-infostream3/_definst_/live.m3u8
 #EXTINF:0, tvg-logo="http://www.fivestarservices.ca/assets/images/weather-network.jpg" group-title="Weather",The Weather Network
