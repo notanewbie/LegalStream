@@ -41,14 +41,14 @@ https://cnngo1.akamaized.net/hls/live/599236/PROD-cnnlive2/master.m3u8
 https://cnngo1.akamaized.net/hls/live/599237/PROD-cnnlive3/master.m3u8
 #EXTINF:0, tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/170711161429-happening-now-16x9-artwork-exlarge-tease.jpg" group-title="",CNN Live Event 4
 https://cnngo1.akamaized.net/hls/live/599238/PROD-cnnlive4/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",NBC News Now Live Event
+https://link.theplatform.com/s/rksNhC/7FVV_xJtTBKP?MBR=TRUE&format=redirect&manifest=m3u
 #EXTINF:0, tvg-logo="" group-title="",NBC News Now Live Event 11
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",NBC News Now Live Event 12
 https://nbcnews-lh.akamaihd.net/i/nbc_live12@187393/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",NBC News Now Live Event 13
 https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8
-#EXTINF:0, tvg-logo="" group-title="",NBC News Now Live Event 14
-https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",NYT Live Event
 https://video.nyt.com/live/100000006833597-live-20191119130040/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",Reuters Channel
