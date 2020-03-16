@@ -3,6 +3,8 @@
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:0, tvg-logo="https://scontent.fosu1-1.fna.fbcdn.net/v/t31.0-8/10855075_952261624825388_686519945242005559_o.jpg?_nc_cat=102&_nc_ht=scontent.fosu1-1.fna&oh=2e6c3e4c3e867455e9ee64bb94ae596c&oe=5CDCC03C" group-title="",Cedarville University Chapel Live
 https://live.cedarville.edu/live/ngrp:dffNDX42XEi4ErY41R0RDg_all/playlist.m3u8
+#EXTINF:0, tvg-logo="https://scontent.fosu1-1.fna.fbcdn.net/v/t31.0-8/10855075_952261624825388_686519945242005559_o.jpg?_nc_cat=102&_nc_ht=scontent.fosu1-1.fna&oh=2e6c3e4c3e867455e9ee64bb94ae596c&oe=5CDCC03C" group-title="",Cedarville University Live Event
+https://wowzaprod229-i.akamaihd.net/hls/live/1008503/9105d085/playlist.m3u8
 #EXTINF:0, tvg-logo="https://lifewaychurch.life/wp-content/uploads/2015/08/lifeway-logo-horizontal-LG.png" group-title="",Lifeway Church
 http://lifewaychurchca-lh.akamaihd.net/i/lifewaychurch_1@313136/master.m3u8
 #EXTINF:0, tvg-logo="https://nrbtv.org/wp-content/themes/nrb/images/show-default.jpg" group-title="",NRB Network
