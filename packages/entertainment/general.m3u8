@@ -13,6 +13,8 @@ https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/1044272252072521728/IWUQk2nK_400x400.jpg" group-title="Entertainment",CONtv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:0, tvg-logo="https://images.pluto.tv/channels/5dae0b4841a7d0000938ddbd/featuredImage.jpg" group-title="Legal",Court TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:0, tvg-logo="https://scontent.fosu1-1.fna.fbcdn.net/v/t1.0-9/18556122_333090183772760_6877334484797890099_n.png?_nc_cat=105&_nc_ohc=NZFatDrSqU0AX8LtVKw&_nc_ht=scontent.fosu1-1.fna&oh=a9710e5d735021669683e2386ccf37f7&oe=5EEEDFEA" group-title="Documentaries",Demand Africa
 https://demandafrica-xumo.amagi.tv/ssai/amagi_hls_data_theafrica-demandafricaxumo/CDN/master.m3u8
 #EXTINF:0, tvg-logo="https://i.pinimg.com/736x/83/1e/58/831e58e1e5181a4cdf0466fb24bd8a8e.jpg" group-title="General",Disney+
