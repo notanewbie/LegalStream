@@ -49,6 +49,8 @@ https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 https://nbcnews-lh.akamaihd.net/i/nbc_live12@187393/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",NBC News Now Live Event 13
 https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",NBC News Now Live Event 14
+https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",NYT Live Event
 https://video.nyt.com/live/100000006833597-live-20191119130040/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="",Reuters Channel
