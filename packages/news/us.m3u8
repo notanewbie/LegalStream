@@ -41,6 +41,8 @@ https://nbcnews2.akamaized.net/hls/live/723426/nbc-news0529092111-ua/master.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:0, tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/f99bf312-8fce-5925-f11b-41ba1cd7829b-News247_featured.jpg" group-title="News",Pluto TV Headlines
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/1323376707953479681/L7fG60eC_400x400.jpg" group-title="Conservative",Real America's Voice
+https://cdnapisec.kaltura.com/p/2377021/sp/0/playManifest/entryId/0_m2pjgwiu/format/applehttp/protocol/https/flavorParamId/301971/manifest.m3u8
 #EXTINF:0, tvg-logo="https://countercurrents.org/wp-content/uploads/2017/11/rt-america-new.si_.jpg" group-title="Liberal" tvg-ID="russia-today.info",RT America
 https://rt-usa.secure.footprint.net/1105.m3u8
 #EXTINF:0, tvg-logo="https://i.ytimg.com/vi/XOacA3RYrXk/maxresdefault_live.jpg" group-title="News" tvg-ID="skynews.info",Sky News America
