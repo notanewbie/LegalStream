@@ -39,6 +39,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d
 https://nbcnews2.akamaized.net/hls/live/723426/nbc-news0529092111-ua/master.m3u8
 #EXTINF:0, tvg-logo="https://cfvod.kaltura.com/p/2216081/sp/221608100/thumbnail/entry_id/1_f19eeulz/version/100001/width/768/height/435" group-title="Conservative",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/G6e7Hcl.png" group-title="Conservative",OANN One America News Network
+http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 #EXTINF:0, tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/f99bf312-8fce-5925-f11b-41ba1cd7829b-News247_featured.jpg" group-title="News",Pluto TV Headlines
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
 #EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/1323376707953479681/L7fG60eC_400x400.jpg" group-title="Conservative",Real America's Voice
