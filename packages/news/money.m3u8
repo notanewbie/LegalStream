@@ -2,12 +2,12 @@
 #EXTINF:0, tvg-logo="https://www.motorz.tv/wp-content/uploads/2013/09/BIZ_TV_LOGO_SQUARE-300x300.png" group-title="",Biz TV
 https://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/manifest.m3u8
 #EXTINF:0, tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/jp-bloomberg-tv-asia.jpg" group-title="",Bloomberg Asia
-https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:0, tvg-logo="https://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2013/11/bloomberg-tv-logo_304x200.jpg" group-title="",Bloomberg Australia
-https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/aus_live.m3u8
+https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:0, tvg-logo="https://theindustryspread.com/wp-content/uploads/2017/04/bloomberg.png" group-title="",Bloomberg Europe
-https://bblive-liveprodeuwest.hs.llnwd.net/btv/desktop/eu_live.m3u8
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:0, tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg" group-title="",Bloomberg TV+
-https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/fc867343-f841-4ef6-af6a-eb1d6801a614:CBF2/master.m3u8
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:0, tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg" group-title="",Bloomberg US
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
